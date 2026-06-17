@@ -3981,7 +3981,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 71,
     "scoreRange": {
       "min": 480,
@@ -4002,7 +4002,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 72,
     "scoreRange": {
       "min": 470,
@@ -4023,7 +4023,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 73,
     "scoreRange": {
       "min": 460,
@@ -4044,7 +4044,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 74,
     "scoreRange": {
       "min": 470,
@@ -4065,7 +4065,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 75,
     "scoreRange": {
       "min": 450,
@@ -4086,7 +4086,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 76,
     "scoreRange": {
       "min": 440,
@@ -4485,7 +4485,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 95,
     "scoreRange": {
       "min": 500,
@@ -4506,7 +4506,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 96,
     "scoreRange": {
       "min": 490,
@@ -4569,7 +4569,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 99,
     "scoreRange": {
       "min": 470,
@@ -4590,7 +4590,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 100,
     "scoreRange": {
       "min": 460,
@@ -4611,7 +4611,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 101,
     "scoreRange": {
       "min": 460,
@@ -4632,7 +4632,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 102,
     "scoreRange": {
       "min": 480,
@@ -4653,7 +4653,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 103,
     "scoreRange": {
       "min": 480,
@@ -4842,7 +4842,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 112,
     "scoreRange": {
       "min": 460,
@@ -4863,7 +4863,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 113,
     "scoreRange": {
       "min": 470,
@@ -4884,7 +4884,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 114,
     "scoreRange": {
       "min": 450,
@@ -4905,7 +4905,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 115,
     "scoreRange": {
       "min": 430,
@@ -5997,7 +5997,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 167,
     "scoreRange": {
       "min": 480,
@@ -6018,7 +6018,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 168,
     "scoreRange": {
       "min": 480,
@@ -6060,7 +6060,7 @@ const schoolDB = [
     "city": "襄阳",
     "province": "湖北",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 170,
     "scoreRange": {
       "min": 460,
@@ -6207,7 +6207,7 @@ const schoolDB = [
     "city": "株洲",
     "province": "湖南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 177,
     "scoreRange": {
       "min": 475,
@@ -6438,7 +6438,7 @@ const schoolDB = [
     "city": "成都",
     "province": "四川",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 188,
     "scoreRange": {
       "min": 480,
@@ -6459,7 +6459,7 @@ const schoolDB = [
     "city": "成都",
     "province": "四川",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 189,
     "scoreRange": {
       "min": 485,
@@ -6501,7 +6501,7 @@ const schoolDB = [
     "city": "自贡",
     "province": "四川",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 191,
     "scoreRange": {
       "min": 470,
@@ -6669,7 +6669,7 @@ const schoolDB = [
     "city": "咸阳",
     "province": "陕西",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 199,
     "scoreRange": {
       "min": 470,
@@ -6690,7 +6690,7 @@ const schoolDB = [
     "city": "咸阳",
     "province": "陕西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 200,
     "scoreRange": {
       "min": 440,
@@ -6711,7 +6711,7 @@ const schoolDB = [
     "city": "宝鸡",
     "province": "陕西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 201,
     "scoreRange": {
       "min": 430,
@@ -6732,7 +6732,7 @@ const schoolDB = [
     "city": "渭南",
     "province": "陕西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 202,
     "scoreRange": {
       "min": 420,
@@ -6816,7 +6816,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 206,
     "scoreRange": {
       "min": 460,
@@ -6837,7 +6837,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 207,
     "scoreRange": {
       "min": 440,
@@ -6858,7 +6858,7 @@ const schoolDB = [
     "city": "天水",
     "province": "甘肃",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 208,
     "scoreRange": {
       "min": 430,
@@ -6879,7 +6879,7 @@ const schoolDB = [
     "city": "西宁",
     "province": "青海",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 209,
     "scoreRange": {
       "min": 430,
@@ -6900,7 +6900,7 @@ const schoolDB = [
     "city": "西宁",
     "province": "青海",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 210,
     "scoreRange": {
       "min": 420,
@@ -6963,7 +6963,7 @@ const schoolDB = [
     "city": "乌鲁木齐",
     "province": "新疆",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 213,
     "scoreRange": {
       "min": 440,
@@ -7005,7 +7005,7 @@ const schoolDB = [
     "city": "乌鲁木齐",
     "province": "新疆",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 215,
     "scoreRange": {
       "min": 430,
@@ -7026,7 +7026,7 @@ const schoolDB = [
     "city": "喀什",
     "province": "新疆",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 216,
     "scoreRange": {
       "min": 400,
@@ -7047,7 +7047,7 @@ const schoolDB = [
     "city": "伊犁",
     "province": "新疆",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 217,
     "scoreRange": {
       "min": 390,
@@ -7089,7 +7089,7 @@ const schoolDB = [
     "city": "拉萨",
     "province": "西藏",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 219,
     "scoreRange": {
       "min": 400,
@@ -7131,7 +7131,7 @@ const schoolDB = [
     "city": "银川",
     "province": "宁夏",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 221,
     "scoreRange": {
       "min": 450,
@@ -7152,7 +7152,7 @@ const schoolDB = [
     "city": "银川",
     "province": "宁夏",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 222,
     "scoreRange": {
       "min": 430,
@@ -7236,7 +7236,7 @@ const schoolDB = [
     "city": "昆明",
     "province": "云南",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 226,
     "scoreRange": {
       "min": 470,
@@ -7257,7 +7257,7 @@ const schoolDB = [
     "city": "昆明",
     "province": "云南",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 227,
     "scoreRange": {
       "min": 470,
@@ -7278,7 +7278,7 @@ const schoolDB = [
     "city": "昆明",
     "province": "云南",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 228,
     "scoreRange": {
       "min": 460,
@@ -7299,7 +7299,7 @@ const schoolDB = [
     "city": "昆明",
     "province": "云南",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 229,
     "scoreRange": {
       "min": 450,
@@ -7341,7 +7341,7 @@ const schoolDB = [
     "city": "大理",
     "province": "云南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 231,
     "scoreRange": {
       "min": 450,
@@ -7425,7 +7425,7 @@ const schoolDB = [
     "city": "贵阳",
     "province": "贵州",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 235,
     "scoreRange": {
       "min": 460,
@@ -7446,7 +7446,7 @@ const schoolDB = [
     "city": "贵阳",
     "province": "贵州",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 236,
     "scoreRange": {
       "min": 450,
@@ -7467,7 +7467,7 @@ const schoolDB = [
     "city": "贵阳",
     "province": "贵州",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 237,
     "scoreRange": {
       "min": 440,
@@ -7488,7 +7488,7 @@ const schoolDB = [
     "city": "遵义",
     "province": "贵州",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 238,
     "scoreRange": {
       "min": 460,
@@ -7551,7 +7551,7 @@ const schoolDB = [
     "city": "桂林",
     "province": "广西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 241,
     "scoreRange": {
       "min": 480,
@@ -7572,7 +7572,7 @@ const schoolDB = [
     "city": "桂林",
     "province": "广西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 242,
     "scoreRange": {
       "min": 470,
@@ -7614,7 +7614,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 244,
     "scoreRange": {
       "min": 460,
@@ -7635,7 +7635,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 245,
     "scoreRange": {
       "min": 450,
@@ -7656,7 +7656,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 246,
     "scoreRange": {
       "min": 450,
@@ -7677,7 +7677,7 @@ const schoolDB = [
     "city": "柳州",
     "province": "广西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 247,
     "scoreRange": {
       "min": 450,
@@ -7719,7 +7719,7 @@ const schoolDB = [
     "city": "海口",
     "province": "海南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 249,
     "scoreRange": {
       "min": 460,
@@ -7740,7 +7740,7 @@ const schoolDB = [
     "city": "海口",
     "province": "海南",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 250,
     "scoreRange": {
       "min": 440,
@@ -7761,7 +7761,7 @@ const schoolDB = [
     "city": "三亚",
     "province": "海南",
     "type": "海洋",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 251,
     "scoreRange": {
       "min": 420,
@@ -7887,7 +7887,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 257,
     "scoreRange": {
       "min": 480,
@@ -7908,7 +7908,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 258,
     "scoreRange": {
       "min": 480,
@@ -7929,7 +7929,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 259,
     "scoreRange": {
       "min": 470,
@@ -7950,7 +7950,7 @@ const schoolDB = [
     "city": "邯郸",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 260,
     "scoreRange": {
       "min": 470,
@@ -8076,7 +8076,7 @@ const schoolDB = [
     "city": "临汾",
     "province": "山西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 266,
     "scoreRange": {
       "min": 470,
@@ -8097,7 +8097,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 267,
     "scoreRange": {
       "min": 480,
@@ -8118,7 +8118,7 @@ const schoolDB = [
     "city": "大同",
     "province": "山西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 268,
     "scoreRange": {
       "min": 450,
@@ -8202,7 +8202,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 272,
     "scoreRange": {
       "min": 460,
@@ -8223,7 +8223,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 273,
     "scoreRange": {
       "min": 450,
@@ -8244,7 +8244,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 274,
     "scoreRange": {
       "min": 450,
@@ -8265,7 +8265,7 @@ const schoolDB = [
     "city": "包头",
     "province": "内蒙古",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 275,
     "scoreRange": {
       "min": 450,
@@ -8286,7 +8286,7 @@ const schoolDB = [
     "city": "通辽",
     "province": "内蒙古",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 276,
     "scoreRange": {
       "min": 420,
@@ -8475,7 +8475,7 @@ const schoolDB = [
     "city": "郑州",
     "province": "河南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 285,
     "scoreRange": {
       "min": 480,
@@ -8517,7 +8517,7 @@ const schoolDB = [
     "city": "郑州",
     "province": "河南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 287,
     "scoreRange": {
       "min": 470,
@@ -8538,7 +8538,7 @@ const schoolDB = [
     "city": "信阳",
     "province": "河南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 288,
     "scoreRange": {
       "min": 460,
@@ -8769,7 +8769,7 @@ const schoolDB = [
     "city": "烟台",
     "province": "山东",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 299,
     "scoreRange": {
       "min": 490,
@@ -8790,7 +8790,7 @@ const schoolDB = [
     "city": "临沂",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 300,
     "scoreRange": {
       "min": 480,
@@ -8811,7 +8811,7 @@ const schoolDB = [
     "city": "潍坊",
     "province": "山东",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 301,
     "scoreRange": {
       "min": 480,
@@ -8832,7 +8832,7 @@ const schoolDB = [
     "city": "滨州",
     "province": "山东",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 302,
     "scoreRange": {
       "min": 470,
@@ -8937,7 +8937,7 @@ const schoolDB = [
     "city": "芜湖",
     "province": "安徽",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 307,
     "scoreRange": {
       "min": 485,
@@ -9042,7 +9042,7 @@ const schoolDB = [
     "city": "合肥",
     "province": "安徽",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 312,
     "scoreRange": {
       "min": 480,
@@ -9063,7 +9063,7 @@ const schoolDB = [
     "city": "淮北",
     "province": "安徽",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 313,
     "scoreRange": {
       "min": 470,
@@ -9210,7 +9210,7 @@ const schoolDB = [
     "city": "景德镇",
     "province": "江西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 320,
     "scoreRange": {
       "min": 470,
@@ -9231,7 +9231,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 321,
     "scoreRange": {
       "min": 470,
@@ -9252,7 +9252,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 322,
     "scoreRange": {
       "min": 480,
@@ -9273,7 +9273,7 @@ const schoolDB = [
     "city": "赣州",
     "province": "江西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 323,
     "scoreRange": {
       "min": 460,
@@ -9420,7 +9420,7 @@ const schoolDB = [
     "city": "厦门",
     "province": "福建",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 330,
     "scoreRange": {
       "min": 480,
@@ -9441,7 +9441,7 @@ const schoolDB = [
     "city": "漳州",
     "province": "福建",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 331,
     "scoreRange": {
       "min": 470,
@@ -9462,7 +9462,7 @@ const schoolDB = [
     "city": "福州",
     "province": "福建",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 332,
     "scoreRange": {
       "min": 460,
@@ -9525,7 +9525,7 @@ const schoolDB = [
     "city": "沈阳",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 335,
     "scoreRange": {
       "min": 480,
@@ -9546,7 +9546,7 @@ const schoolDB = [
     "city": "沈阳",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 336,
     "scoreRange": {
       "min": 485,
@@ -9567,7 +9567,7 @@ const schoolDB = [
     "city": "沈阳",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 337,
     "scoreRange": {
       "min": 480,
@@ -9651,7 +9651,7 @@ const schoolDB = [
     "city": "沈阳",
     "province": "辽宁",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 341,
     "scoreRange": {
       "min": 470,
@@ -9672,7 +9672,7 @@ const schoolDB = [
     "city": "大连",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 342,
     "scoreRange": {
       "min": 475,
@@ -9693,7 +9693,7 @@ const schoolDB = [
     "city": "大连",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 343,
     "scoreRange": {
       "min": 470,
@@ -9735,7 +9735,7 @@ const schoolDB = [
     "city": "大连",
     "province": "辽宁",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 345,
     "scoreRange": {
       "min": 480,
@@ -9756,7 +9756,7 @@ const schoolDB = [
     "city": "鞍山",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 346,
     "scoreRange": {
       "min": 460,
@@ -9777,7 +9777,7 @@ const schoolDB = [
     "city": "抚顺",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 347,
     "scoreRange": {
       "min": 460,
@@ -9861,7 +9861,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 351,
     "scoreRange": {
       "min": 475,
@@ -9903,7 +9903,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 353,
     "scoreRange": {
       "min": 470,
@@ -9924,7 +9924,7 @@ const schoolDB = [
     "city": "吉林",
     "province": "吉林",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 354,
     "scoreRange": {
       "min": 490,
@@ -9945,7 +9945,7 @@ const schoolDB = [
     "city": "吉林",
     "province": "吉林",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 355,
     "scoreRange": {
       "min": 460,
@@ -9966,7 +9966,7 @@ const schoolDB = [
     "city": "通化",
     "province": "吉林",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 356,
     "scoreRange": {
       "min": 430,
@@ -10050,7 +10050,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 360,
     "scoreRange": {
       "min": 485,
@@ -10092,7 +10092,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 362,
     "scoreRange": {
       "min": 475,
@@ -10113,7 +10113,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 363,
     "scoreRange": {
       "min": 465,
@@ -10155,7 +10155,7 @@ const schoolDB = [
     "city": "齐齐哈尔",
     "province": "黑龙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 365,
     "scoreRange": {
       "min": 450,
@@ -10176,7 +10176,7 @@ const schoolDB = [
     "city": "佳木斯",
     "province": "黑龙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 366,
     "scoreRange": {
       "min": 440,
@@ -10197,7 +10197,7 @@ const schoolDB = [
     "city": "牡丹江",
     "province": "黑龙江",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 367,
     "scoreRange": {
       "min": 430,
@@ -18962,7 +18962,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 535,
     "scoreRange": {
       "min": 430,
@@ -18999,7 +18999,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 536,
     "scoreRange": {
       "min": 450,
@@ -19036,7 +19036,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 539,
     "scoreRange": {
       "min": 430,
@@ -19073,7 +19073,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 540,
     "scoreRange": {
       "min": 420,
@@ -19110,7 +19110,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 541,
     "scoreRange": {
       "min": 440,
@@ -19147,7 +19147,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 542,
     "scoreRange": {
       "min": 410,
@@ -19179,7 +19179,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 544,
     "scoreRange": {
       "min": 480,
@@ -19216,7 +19216,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "体育",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 545,
     "scoreRange": {
       "min": 440,
@@ -19253,7 +19253,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 546,
     "scoreRange": {
       "min": 460,
@@ -19290,7 +19290,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "语言",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 547,
     "scoreRange": {
       "min": 430,
@@ -19327,7 +19327,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 548,
     "scoreRange": {
       "min": 420,
@@ -19359,7 +19359,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 549,
     "scoreRange": {
       "min": 400,
@@ -19428,7 +19428,7 @@ const schoolDB = [
     "city": "唐山",
     "province": "河北",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 560,
     "scoreRange": {
       "min": 440,
@@ -19460,7 +19460,7 @@ const schoolDB = [
     "city": "廊坊",
     "province": "河北",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 561,
     "scoreRange": {
       "min": 430,
@@ -19492,7 +19492,7 @@ const schoolDB = [
     "city": "衡水",
     "province": "河北",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 562,
     "scoreRange": {
       "min": 430,
@@ -19524,7 +19524,7 @@ const schoolDB = [
     "city": "邢台",
     "province": "河北",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 563,
     "scoreRange": {
       "min": 420,
@@ -19556,7 +19556,7 @@ const schoolDB = [
     "city": "沧州",
     "province": "河北",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 564,
     "scoreRange": {
       "min": 420,
@@ -19588,7 +19588,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 574,
     "scoreRange": {
       "min": 440,
@@ -19620,7 +19620,7 @@ const schoolDB = [
     "city": "赤峰",
     "province": "内蒙古",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 582,
     "scoreRange": {
       "min": 420,
@@ -19689,7 +19689,7 @@ const schoolDB = [
     "city": "四平",
     "province": "吉林",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 601,
     "scoreRange": {
       "min": 450,
@@ -19726,7 +19726,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 604,
     "scoreRange": {
       "min": 460,
@@ -19763,7 +19763,7 @@ const schoolDB = [
     "city": "盐城",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 615,
     "scoreRange": {
       "min": 470,
@@ -19800,7 +19800,7 @@ const schoolDB = [
     "city": "淮安",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 616,
     "scoreRange": {
       "min": 460,
@@ -19837,7 +19837,7 @@ const schoolDB = [
     "city": "徐州",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 617,
     "scoreRange": {
       "min": 460,
@@ -19874,7 +19874,7 @@ const schoolDB = [
     "city": "常熟",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 618,
     "scoreRange": {
       "min": 460,
@@ -19911,7 +19911,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 619,
     "scoreRange": {
       "min": 470,
@@ -19948,7 +19948,7 @@ const schoolDB = [
     "city": "常州",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 620,
     "scoreRange": {
       "min": 460,
@@ -19985,7 +19985,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 622,
     "scoreRange": {
       "min": 480,
@@ -20022,7 +20022,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 623,
     "scoreRange": {
       "min": 470,
@@ -20059,7 +20059,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 624,
     "scoreRange": {
       "min": 460,
@@ -20091,7 +20091,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 625,
     "scoreRange": {
       "min": 450,
@@ -20123,7 +20123,7 @@ const schoolDB = [
     "city": "苏州",
     "province": "江苏",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 626,
     "scoreRange": {
       "min": 460,
@@ -20155,7 +20155,7 @@ const schoolDB = [
     "city": "杭州",
     "province": "浙江",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 628,
     "scoreRange": {
       "min": 490,
@@ -20192,7 +20192,7 @@ const schoolDB = [
     "city": "宁波",
     "province": "浙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 630,
     "scoreRange": {
       "min": 460,
@@ -20229,7 +20229,7 @@ const schoolDB = [
     "city": "杭州",
     "province": "浙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 631,
     "scoreRange": {
       "min": 440,
@@ -20261,7 +20261,7 @@ const schoolDB = [
     "city": "宁波",
     "province": "浙江",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 632,
     "scoreRange": {
       "min": 460,
@@ -20298,7 +20298,7 @@ const schoolDB = [
     "city": "衢州",
     "province": "浙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 633,
     "scoreRange": {
       "min": 440,
@@ -20330,7 +20330,7 @@ const schoolDB = [
     "city": "丽水",
     "province": "浙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 634,
     "scoreRange": {
       "min": 430,
@@ -20362,7 +20362,7 @@ const schoolDB = [
     "city": "安庆",
     "province": "安徽",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 639,
     "scoreRange": {
       "min": 460,
@@ -20399,7 +20399,7 @@ const schoolDB = [
     "city": "阜阳",
     "province": "安徽",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 640,
     "scoreRange": {
       "min": 450,
@@ -20436,7 +20436,7 @@ const schoolDB = [
     "city": "合肥",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 642,
     "scoreRange": {
       "min": 480,
@@ -20473,7 +20473,7 @@ const schoolDB = [
     "city": "滁州",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 643,
     "scoreRange": {
       "min": 440,
@@ -20505,7 +20505,7 @@ const schoolDB = [
     "city": "宿州",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 644,
     "scoreRange": {
       "min": 430,
@@ -20537,7 +20537,7 @@ const schoolDB = [
     "city": "蚌埠",
     "province": "安徽",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 645,
     "scoreRange": {
       "min": 430,
@@ -20569,7 +20569,7 @@ const schoolDB = [
     "city": "池州",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 646,
     "scoreRange": {
       "min": 420,
@@ -20601,7 +20601,7 @@ const schoolDB = [
     "city": "三明",
     "province": "福建",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 654,
     "scoreRange": {
       "min": 430,
@@ -20633,7 +20633,7 @@ const schoolDB = [
     "city": "龙岩",
     "province": "福建",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 655,
     "scoreRange": {
       "min": 430,
@@ -20665,7 +20665,7 @@ const schoolDB = [
     "city": "武夷山",
     "province": "福建",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 656,
     "scoreRange": {
       "min": 420,
@@ -20697,7 +20697,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 666,
     "scoreRange": {
       "min": 460,
@@ -20734,7 +20734,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "交通",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 669,
     "scoreRange": {
       "min": 460,
@@ -20771,7 +20771,7 @@ const schoolDB = [
     "city": "烟台",
     "province": "山东",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 670,
     "scoreRange": {
       "min": 460,
@@ -20808,7 +20808,7 @@ const schoolDB = [
     "city": "潍坊",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 671,
     "scoreRange": {
       "min": 450,
@@ -20845,7 +20845,7 @@ const schoolDB = [
     "city": "德州",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 672,
     "scoreRange": {
       "min": 440,
@@ -20877,7 +20877,7 @@ const schoolDB = [
     "city": "滨州",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 673,
     "scoreRange": {
       "min": 430,
@@ -20909,7 +20909,7 @@ const schoolDB = [
     "city": "菏泽",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 674,
     "scoreRange": {
       "min": 430,
@@ -20941,7 +20941,7 @@ const schoolDB = [
     "city": "济宁",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 675,
     "scoreRange": {
       "min": 430,
@@ -20973,7 +20973,7 @@ const schoolDB = [
     "city": "泰安",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 676,
     "scoreRange": {
       "min": 420,
@@ -21042,7 +21042,7 @@ const schoolDB = [
     "city": "荆州",
     "province": "湖北",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 690,
     "scoreRange": {
       "min": 480,
@@ -21079,7 +21079,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 691,
     "scoreRange": {
       "min": 480,
@@ -21116,7 +21116,7 @@ const schoolDB = [
     "city": "十堰",
     "province": "湖北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 696,
     "scoreRange": {
       "min": 450,
@@ -21153,7 +21153,7 @@ const schoolDB = [
     "city": "广州",
     "province": "广东",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 713,
     "scoreRange": {
       "min": 460,
@@ -21190,7 +21190,7 @@ const schoolDB = [
     "city": "茂名",
     "province": "广东",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 715,
     "scoreRange": {
       "min": 440,
@@ -21227,7 +21227,7 @@ const schoolDB = [
     "city": "潮州",
     "province": "广东",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 716,
     "scoreRange": {
       "min": 430,
@@ -21259,7 +21259,7 @@ const schoolDB = [
     "city": "钦州",
     "province": "广西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 724,
     "scoreRange": {
       "min": 420,
@@ -21291,7 +21291,7 @@ const schoolDB = [
     "city": "西安",
     "province": "陕西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 760,
     "scoreRange": {
       "min": 480,
@@ -21328,7 +21328,7 @@ const schoolDB = [
     "city": "西安",
     "province": "陕西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 761,
     "scoreRange": {
       "min": 490,
@@ -21402,7 +21402,7 @@ const schoolDB = [
     "city": "北京",
     "province": "北京",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 790,
     "scoreRange": {
       "min": 480,
@@ -21434,7 +21434,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 625,
     "scoreRange": {
       "min": 410,
@@ -21466,7 +21466,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 626,
     "scoreRange": {
       "min": 400,
@@ -21498,7 +21498,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 627,
     "scoreRange": {
       "min": 420,
@@ -21530,7 +21530,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 628,
     "scoreRange": {
       "min": 410,
@@ -21562,7 +21562,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 629,
     "scoreRange": {
       "min": 450,
@@ -21594,7 +21594,7 @@ const schoolDB = [
     "city": "天津",
     "province": "天津",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 630,
     "scoreRange": {
       "min": 400,
@@ -21626,7 +21626,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "体育",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 631,
     "scoreRange": {
       "min": 410,
@@ -21658,7 +21658,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 632,
     "scoreRange": {
       "min": 400,
@@ -21690,7 +21690,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 633,
     "scoreRange": {
       "min": 400,
@@ -21722,7 +21722,7 @@ const schoolDB = [
     "city": "廊坊",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 634,
     "scoreRange": {
       "min": 400,
@@ -21754,7 +21754,7 @@ const schoolDB = [
     "city": "保定",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 635,
     "scoreRange": {
       "min": 390,
@@ -21786,7 +21786,7 @@ const schoolDB = [
     "city": "保定",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 636,
     "scoreRange": {
       "min": 390,
@@ -21818,7 +21818,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "语言",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 637,
     "scoreRange": {
       "min": 390,
@@ -21850,7 +21850,7 @@ const schoolDB = [
     "city": "廊坊",
     "province": "河北",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 638,
     "scoreRange": {
       "min": 380,
@@ -21882,7 +21882,7 @@ const schoolDB = [
     "city": "沧州",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 639,
     "scoreRange": {
       "min": 380,
@@ -21914,7 +21914,7 @@ const schoolDB = [
     "city": "石家庄",
     "province": "河北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 640,
     "scoreRange": {
       "min": 380,
@@ -21946,7 +21946,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 641,
     "scoreRange": {
       "min": 420,
@@ -21978,7 +21978,7 @@ const schoolDB = [
     "city": "阳泉",
     "province": "山西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 642,
     "scoreRange": {
       "min": 400,
@@ -22010,7 +22010,7 @@ const schoolDB = [
     "city": "晋中",
     "province": "山西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 643,
     "scoreRange": {
       "min": 390,
@@ -22042,7 +22042,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 644,
     "scoreRange": {
       "min": 420,
@@ -22074,7 +22074,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 645,
     "scoreRange": {
       "min": 370,
@@ -22106,7 +22106,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 646,
     "scoreRange": {
       "min": 370,
@@ -22138,7 +22138,7 @@ const schoolDB = [
     "city": "晋中",
     "province": "山西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 647,
     "scoreRange": {
       "min": 370,
@@ -22170,7 +22170,7 @@ const schoolDB = [
     "city": "汾阳",
     "province": "山西",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 648,
     "scoreRange": {
       "min": 420,
@@ -22202,7 +22202,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 649,
     "scoreRange": {
       "min": 380,
@@ -22234,7 +22234,7 @@ const schoolDB = [
     "city": "太原",
     "province": "山西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 650,
     "scoreRange": {
       "min": 420,
@@ -22266,7 +22266,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 651,
     "scoreRange": {
       "min": 390,
@@ -22298,7 +22298,7 @@ const schoolDB = [
     "city": "巴彦淖尔",
     "province": "内蒙古",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 652,
     "scoreRange": {
       "min": 360,
@@ -22330,7 +22330,7 @@ const schoolDB = [
     "city": "鄂尔多斯",
     "province": "内蒙古",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 653,
     "scoreRange": {
       "min": 360,
@@ -22362,7 +22362,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 654,
     "scoreRange": {
       "min": 400,
@@ -22394,7 +22394,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 655,
     "scoreRange": {
       "min": 350,
@@ -22426,7 +22426,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 656,
     "scoreRange": {
       "min": 370,
@@ -22458,7 +22458,7 @@ const schoolDB = [
     "city": "呼和浩特",
     "province": "内蒙古",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 657,
     "scoreRange": {
       "min": 360,
@@ -22490,7 +22490,7 @@ const schoolDB = [
     "city": "乌兰察布",
     "province": "内蒙古",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 658,
     "scoreRange": {
       "min": 380,
@@ -22522,7 +22522,7 @@ const schoolDB = [
     "city": "包头",
     "province": "内蒙古",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 659,
     "scoreRange": {
       "min": 390,
@@ -22554,7 +22554,7 @@ const schoolDB = [
     "city": "包头",
     "province": "内蒙古",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 660,
     "scoreRange": {
       "min": 410,
@@ -22586,7 +22586,7 @@ const schoolDB = [
     "city": "沈阳",
     "province": "辽宁",
     "type": "体育",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 662,
     "scoreRange": {
       "min": 430,
@@ -22618,7 +22618,7 @@ const schoolDB = [
     "city": "沈阳",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 665,
     "scoreRange": {
       "min": 420,
@@ -22650,7 +22650,7 @@ const schoolDB = [
     "city": "本溪",
     "province": "辽宁",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 666,
     "scoreRange": {
       "min": 400,
@@ -22682,7 +22682,7 @@ const schoolDB = [
     "city": "丹东",
     "province": "辽宁",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 667,
     "scoreRange": {
       "min": 390,
@@ -22714,7 +22714,7 @@ const schoolDB = [
     "city": "鞍山",
     "province": "辽宁",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 668,
     "scoreRange": {
       "min": 390,
@@ -22746,7 +22746,7 @@ const schoolDB = [
     "city": "大连",
     "province": "辽宁",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 669,
     "scoreRange": {
       "min": 380,
@@ -22778,7 +22778,7 @@ const schoolDB = [
     "city": "大连",
     "province": "辽宁",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 670,
     "scoreRange": {
       "min": 380,
@@ -22810,7 +22810,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "语言",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 671,
     "scoreRange": {
       "min": 430,
@@ -22842,7 +22842,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "建筑",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 672,
     "scoreRange": {
       "min": 440,
@@ -22874,7 +22874,7 @@ const schoolDB = [
     "city": "吉林",
     "province": "吉林",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 673,
     "scoreRange": {
       "min": 400,
@@ -22906,7 +22906,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 674,
     "scoreRange": {
       "min": 390,
@@ -22938,7 +22938,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 675,
     "scoreRange": {
       "min": 390,
@@ -22970,7 +22970,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "体育",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 676,
     "scoreRange": {
       "min": 380,
@@ -23002,7 +23002,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 677,
     "scoreRange": {
       "min": 420,
@@ -23034,7 +23034,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "建筑",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 678,
     "scoreRange": {
       "min": 360,
@@ -23066,7 +23066,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 679,
     "scoreRange": {
       "min": 350,
@@ -23098,7 +23098,7 @@ const schoolDB = [
     "city": "长春",
     "province": "吉林",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 680,
     "scoreRange": {
       "min": 350,
@@ -23130,7 +23130,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "体育",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 681,
     "scoreRange": {
       "min": 400,
@@ -23162,7 +23162,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 682,
     "scoreRange": {
       "min": 420,
@@ -23194,7 +23194,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 683,
     "scoreRange": {
       "min": 420,
@@ -23226,7 +23226,7 @@ const schoolDB = [
     "city": "大庆",
     "province": "黑龙江",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 684,
     "scoreRange": {
       "min": 400,
@@ -23258,7 +23258,7 @@ const schoolDB = [
     "city": "齐齐哈尔",
     "province": "黑龙江",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 685,
     "scoreRange": {
       "min": 410,
@@ -23290,7 +23290,7 @@ const schoolDB = [
     "city": "牡丹江",
     "province": "黑龙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 686,
     "scoreRange": {
       "min": 350,
@@ -23322,7 +23322,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 687,
     "scoreRange": {
       "min": 340,
@@ -23354,7 +23354,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 688,
     "scoreRange": {
       "min": 340,
@@ -23386,7 +23386,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 689,
     "scoreRange": {
       "min": 340,
@@ -23418,7 +23418,7 @@ const schoolDB = [
     "city": "哈尔滨",
     "province": "黑龙江",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 690,
     "scoreRange": {
       "min": 340,
@@ -23450,7 +23450,7 @@ const schoolDB = [
     "city": "无锡",
     "province": "江苏",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 801,
     "scoreRange": {
       "min": 420,
@@ -23482,7 +23482,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 802,
     "scoreRange": {
       "min": 410,
@@ -23514,7 +23514,7 @@ const schoolDB = [
     "city": "南通",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 803,
     "scoreRange": {
       "min": 400,
@@ -23546,7 +23546,7 @@ const schoolDB = [
     "city": "宿迁",
     "province": "江苏",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 804,
     "scoreRange": {
       "min": 390,
@@ -23578,7 +23578,7 @@ const schoolDB = [
     "city": "连云港",
     "province": "江苏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 805,
     "scoreRange": {
       "min": 460,
@@ -23610,7 +23610,7 @@ const schoolDB = [
     "city": "泰州",
     "province": "江苏",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 806,
     "scoreRange": {
       "min": 400,
@@ -23642,7 +23642,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "体育",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 807,
     "scoreRange": {
       "min": 460,
@@ -23674,7 +23674,7 @@ const schoolDB = [
     "city": "南京",
     "province": "江苏",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 810,
     "scoreRange": {
       "min": 500,
@@ -23706,7 +23706,7 @@ const schoolDB = [
     "city": "杭州",
     "province": "浙江",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 811,
     "scoreRange": {
       "min": 480,
@@ -23738,7 +23738,7 @@ const schoolDB = [
     "city": "杭州",
     "province": "浙江",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 812,
     "scoreRange": {
       "min": 510,
@@ -23802,7 +23802,7 @@ const schoolDB = [
     "city": "杭州",
     "province": "浙江",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 815,
     "scoreRange": {
       "min": 520,
@@ -23834,7 +23834,7 @@ const schoolDB = [
     "city": "绍兴",
     "province": "浙江",
     "type": "语言",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 817,
     "scoreRange": {
       "min": 390,
@@ -23866,7 +23866,7 @@ const schoolDB = [
     "city": "宁波",
     "province": "浙江",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 818,
     "scoreRange": {
       "min": 380,
@@ -23898,7 +23898,7 @@ const schoolDB = [
     "city": "金华",
     "province": "浙江",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 819,
     "scoreRange": {
       "min": 350,
@@ -23930,7 +23930,7 @@ const schoolDB = [
     "city": "宁波",
     "province": "浙江",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 820,
     "scoreRange": {
       "min": 400,
@@ -23962,7 +23962,7 @@ const schoolDB = [
     "city": "芜湖",
     "province": "安徽",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 821,
     "scoreRange": {
       "min": 450,
@@ -23994,7 +23994,7 @@ const schoolDB = [
     "city": "蚌埠",
     "province": "安徽",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 822,
     "scoreRange": {
       "min": 460,
@@ -24026,7 +24026,7 @@ const schoolDB = [
     "city": "六安",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 823,
     "scoreRange": {
       "min": 390,
@@ -24058,7 +24058,7 @@ const schoolDB = [
     "city": "黄山",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 824,
     "scoreRange": {
       "min": 390,
@@ -24090,7 +24090,7 @@ const schoolDB = [
     "city": "合肥",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 825,
     "scoreRange": {
       "min": 360,
@@ -24122,7 +24122,7 @@ const schoolDB = [
     "city": "合肥",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 826,
     "scoreRange": {
       "min": 350,
@@ -24154,7 +24154,7 @@ const schoolDB = [
     "city": "合肥",
     "province": "安徽",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 827,
     "scoreRange": {
       "min": 340,
@@ -24186,7 +24186,7 @@ const schoolDB = [
     "city": "合肥",
     "province": "安徽",
     "type": "语言",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 828,
     "scoreRange": {
       "min": 350,
@@ -24218,7 +24218,7 @@ const schoolDB = [
     "city": "蚌埠",
     "province": "安徽",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 829,
     "scoreRange": {
       "min": 340,
@@ -24250,7 +24250,7 @@ const schoolDB = [
     "city": "合肥",
     "province": "安徽",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 830,
     "scoreRange": {
       "min": 400,
@@ -24282,7 +24282,7 @@ const schoolDB = [
     "city": "福州",
     "province": "福建",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 831,
     "scoreRange": {
       "min": 460,
@@ -24314,7 +24314,7 @@ const schoolDB = [
     "city": "福州",
     "province": "福建",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 832,
     "scoreRange": {
       "min": 410,
@@ -24346,7 +24346,7 @@ const schoolDB = [
     "city": "福州",
     "province": "福建",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 833,
     "scoreRange": {
       "min": 400,
@@ -24378,7 +24378,7 @@ const schoolDB = [
     "city": "泉州",
     "province": "福建",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 834,
     "scoreRange": {
       "min": 430,
@@ -24410,7 +24410,7 @@ const schoolDB = [
     "city": "莆田",
     "province": "福建",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 835,
     "scoreRange": {
       "min": 390,
@@ -24442,7 +24442,7 @@ const schoolDB = [
     "city": "宁德",
     "province": "福建",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 836,
     "scoreRange": {
       "min": 380,
@@ -24474,7 +24474,7 @@ const schoolDB = [
     "city": "厦门",
     "province": "福建",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 837,
     "scoreRange": {
       "min": 440,
@@ -24506,7 +24506,7 @@ const schoolDB = [
     "city": "福州",
     "province": "福建",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 838,
     "scoreRange": {
       "min": 370,
@@ -24538,7 +24538,7 @@ const schoolDB = [
     "city": "福州",
     "province": "福建",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 839,
     "scoreRange": {
       "min": 360,
@@ -24570,7 +24570,7 @@ const schoolDB = [
     "city": "泉州",
     "province": "福建",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 840,
     "scoreRange": {
       "min": 350,
@@ -24602,7 +24602,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 841,
     "scoreRange": {
       "min": 390,
@@ -24634,7 +24634,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 842,
     "scoreRange": {
       "min": 400,
@@ -24666,7 +24666,7 @@ const schoolDB = [
     "city": "萍乡",
     "province": "江西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 843,
     "scoreRange": {
       "min": 360,
@@ -24698,7 +24698,7 @@ const schoolDB = [
     "city": "新余",
     "province": "江西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 844,
     "scoreRange": {
       "min": 360,
@@ -24730,7 +24730,7 @@ const schoolDB = [
     "city": "景德镇",
     "province": "江西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 845,
     "scoreRange": {
       "min": 360,
@@ -24762,7 +24762,7 @@ const schoolDB = [
     "city": "抚州",
     "province": "江西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 846,
     "scoreRange": {
       "min": 350,
@@ -24794,7 +24794,7 @@ const schoolDB = [
     "city": "赣州",
     "province": "江西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 847,
     "scoreRange": {
       "min": 350,
@@ -24826,7 +24826,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 848,
     "scoreRange": {
       "min": 430,
@@ -24858,7 +24858,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 849,
     "scoreRange": {
       "min": 330,
@@ -24890,7 +24890,7 @@ const schoolDB = [
     "city": "南昌",
     "province": "江西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 850,
     "scoreRange": {
       "min": 330,
@@ -24996,7 +24996,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 853,
     "scoreRange": {
       "min": 460,
@@ -25028,7 +25028,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 854,
     "scoreRange": {
       "min": 420,
@@ -25060,7 +25060,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 855,
     "scoreRange": {
       "min": 400,
@@ -25092,7 +25092,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 856,
     "scoreRange": {
       "min": 410,
@@ -25124,7 +25124,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 857,
     "scoreRange": {
       "min": 390,
@@ -25156,7 +25156,7 @@ const schoolDB = [
     "city": "东营",
     "province": "山东",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 858,
     "scoreRange": {
       "min": 400,
@@ -25188,7 +25188,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 859,
     "scoreRange": {
       "min": 420,
@@ -25220,7 +25220,7 @@ const schoolDB = [
     "city": "济南",
     "province": "山东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 860,
     "scoreRange": {
       "min": 340,
@@ -25252,7 +25252,7 @@ const schoolDB = [
     "city": "新乡",
     "province": "河南",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 861,
     "scoreRange": {
       "min": 500,
@@ -25284,7 +25284,7 @@ const schoolDB = [
     "city": "南阳",
     "province": "河南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 863,
     "scoreRange": {
       "min": 420,
@@ -25316,7 +25316,7 @@ const schoolDB = [
     "city": "郑州",
     "province": "河南",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 865,
     "scoreRange": {
       "min": 390,
@@ -25348,7 +25348,7 @@ const schoolDB = [
     "city": "新乡",
     "province": "河南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 866,
     "scoreRange": {
       "min": 390,
@@ -25380,7 +25380,7 @@ const schoolDB = [
     "city": "安阳",
     "province": "河南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 867,
     "scoreRange": {
       "min": 390,
@@ -25412,7 +25412,7 @@ const schoolDB = [
     "city": "郑州",
     "province": "河南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 868,
     "scoreRange": {
       "min": 400,
@@ -25444,7 +25444,7 @@ const schoolDB = [
     "city": "郑州",
     "province": "河南",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 869,
     "scoreRange": {
       "min": 400,
@@ -25476,7 +25476,7 @@ const schoolDB = [
     "city": "郑州",
     "province": "河南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 870,
     "scoreRange": {
       "min": 350,
@@ -25508,7 +25508,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 871,
     "scoreRange": {
       "min": 480,
@@ -25540,7 +25540,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 872,
     "scoreRange": {
       "min": 430,
@@ -25572,7 +25572,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 876,
     "scoreRange": {
       "min": 480,
@@ -25604,7 +25604,7 @@ const schoolDB = [
     "city": "十堰",
     "province": "湖北",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 878,
     "scoreRange": {
       "min": 380,
@@ -25636,7 +25636,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 879,
     "scoreRange": {
       "min": 340,
@@ -25668,7 +25668,7 @@ const schoolDB = [
     "city": "武汉",
     "province": "湖北",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 880,
     "scoreRange": {
       "min": 350,
@@ -25700,7 +25700,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 881,
     "scoreRange": {
       "min": 480,
@@ -25732,7 +25732,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 882,
     "scoreRange": {
       "min": 460,
@@ -25764,7 +25764,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 883,
     "scoreRange": {
       "min": 450,
@@ -25796,7 +25796,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 884,
     "scoreRange": {
       "min": 460,
@@ -25828,7 +25828,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 885,
     "scoreRange": {
       "min": 400,
@@ -25860,7 +25860,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 887,
     "scoreRange": {
       "min": 430,
@@ -25892,7 +25892,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 888,
     "scoreRange": {
       "min": 350,
@@ -25924,7 +25924,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 889,
     "scoreRange": {
       "min": 380,
@@ -25956,7 +25956,7 @@ const schoolDB = [
     "city": "长沙",
     "province": "湖南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 890,
     "scoreRange": {
       "min": 340,
@@ -25988,7 +25988,7 @@ const schoolDB = [
     "city": "佛山",
     "province": "广东",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 893,
     "scoreRange": {
       "min": 460,
@@ -26020,7 +26020,7 @@ const schoolDB = [
     "city": "湛江",
     "province": "广东",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 896,
     "scoreRange": {
       "min": 500,
@@ -26052,7 +26052,7 @@ const schoolDB = [
     "city": "湛江",
     "province": "广东",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 897,
     "scoreRange": {
       "min": 420,
@@ -26084,7 +26084,7 @@ const schoolDB = [
     "city": "梅州",
     "province": "广东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 899,
     "scoreRange": {
       "min": 390,
@@ -26116,7 +26116,7 @@ const schoolDB = [
     "city": "韶关",
     "province": "广东",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 900,
     "scoreRange": {
       "min": 380,
@@ -26148,7 +26148,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 901,
     "scoreRange": {
       "min": 450,
@@ -26180,7 +26180,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 903,
     "scoreRange": {
       "min": 420,
@@ -26212,7 +26212,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 904,
     "scoreRange": {
       "min": 400,
@@ -26244,7 +26244,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 905,
     "scoreRange": {
       "min": 360,
@@ -26276,7 +26276,7 @@ const schoolDB = [
     "city": "桂林",
     "province": "广西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 906,
     "scoreRange": {
       "min": 360,
@@ -26308,7 +26308,7 @@ const schoolDB = [
     "city": "桂林",
     "province": "广西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 907,
     "scoreRange": {
       "min": 380,
@@ -26340,7 +26340,7 @@ const schoolDB = [
     "city": "柳州",
     "province": "广西",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 908,
     "scoreRange": {
       "min": 350,
@@ -26372,7 +26372,7 @@ const schoolDB = [
     "city": "南宁",
     "province": "广西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 909,
     "scoreRange": {
       "min": 350,
@@ -26404,7 +26404,7 @@ const schoolDB = [
     "city": "北海",
     "province": "广西",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 910,
     "scoreRange": {
       "min": 330,
@@ -26436,7 +26436,7 @@ const schoolDB = [
     "city": "海口",
     "province": "海南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 911,
     "scoreRange": {
       "min": 380,
@@ -26468,7 +26468,7 @@ const schoolDB = [
     "city": "三亚",
     "province": "海南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 912,
     "scoreRange": {
       "min": 360,
@@ -26500,7 +26500,7 @@ const schoolDB = [
     "city": "海口",
     "province": "海南",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 913,
     "scoreRange": {
       "min": 340,
@@ -26532,7 +26532,7 @@ const schoolDB = [
     "city": "海口",
     "province": "海南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 914,
     "scoreRange": {
       "min": 320,
@@ -26564,7 +26564,7 @@ const schoolDB = [
     "city": "洋浦",
     "province": "海南",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 915,
     "scoreRange": {
       "min": 400,
@@ -26596,7 +26596,7 @@ const schoolDB = [
     "city": "南充",
     "province": "四川",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 917,
     "scoreRange": {
       "min": 470,
@@ -26628,7 +26628,7 @@ const schoolDB = [
     "city": "绵阳",
     "province": "四川",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 918,
     "scoreRange": {
       "min": 420,
@@ -26660,7 +26660,7 @@ const schoolDB = [
     "city": "内江",
     "province": "四川",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 919,
     "scoreRange": {
       "min": 390,
@@ -26692,7 +26692,7 @@ const schoolDB = [
     "city": "宜宾",
     "province": "四川",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 920,
     "scoreRange": {
       "min": 380,
@@ -26724,7 +26724,7 @@ const schoolDB = [
     "city": "达州",
     "province": "四川",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 921,
     "scoreRange": {
       "min": 370,
@@ -26756,7 +26756,7 @@ const schoolDB = [
     "city": "康定",
     "province": "四川",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 922,
     "scoreRange": {
       "min": 350,
@@ -26788,7 +26788,7 @@ const schoolDB = [
     "city": "汶川",
     "province": "四川",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 923,
     "scoreRange": {
       "min": 340,
@@ -26820,7 +26820,7 @@ const schoolDB = [
     "city": "成都",
     "province": "四川",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 924,
     "scoreRange": {
       "min": 440,
@@ -26852,7 +26852,7 @@ const schoolDB = [
     "city": "成都",
     "province": "四川",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 925,
     "scoreRange": {
       "min": 430,
@@ -26884,7 +26884,7 @@ const schoolDB = [
     "city": "攀枝花",
     "province": "四川",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 926,
     "scoreRange": {
       "min": 370,
@@ -26916,7 +26916,7 @@ const schoolDB = [
     "city": "贵阳",
     "province": "贵州",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 928,
     "scoreRange": {
       "min": 400,
@@ -26948,7 +26948,7 @@ const schoolDB = [
     "city": "贵阳",
     "province": "贵州",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 929,
     "scoreRange": {
       "min": 390,
@@ -26980,7 +26980,7 @@ const schoolDB = [
     "city": "遵义",
     "province": "贵州",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 930,
     "scoreRange": {
       "min": 360,
@@ -27012,7 +27012,7 @@ const schoolDB = [
     "city": "铜仁",
     "province": "贵州",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 931,
     "scoreRange": {
       "min": 340,
@@ -27044,7 +27044,7 @@ const schoolDB = [
     "city": "凯里",
     "province": "贵州",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 932,
     "scoreRange": {
       "min": 330,
@@ -27076,7 +27076,7 @@ const schoolDB = [
     "city": "安顺",
     "province": "贵州",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 933,
     "scoreRange": {
       "min": 330,
@@ -27108,7 +27108,7 @@ const schoolDB = [
     "city": "六盘水",
     "province": "贵州",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 934,
     "scoreRange": {
       "min": 320,
@@ -27140,7 +27140,7 @@ const schoolDB = [
     "city": "贵阳",
     "province": "贵州",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 935,
     "scoreRange": {
       "min": 350,
@@ -27172,7 +27172,7 @@ const schoolDB = [
     "city": "都匀",
     "province": "贵州",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 936,
     "scoreRange": {
       "min": 310,
@@ -27204,7 +27204,7 @@ const schoolDB = [
     "city": "昆明",
     "province": "云南",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 938,
     "scoreRange": {
       "min": 450,
@@ -27236,7 +27236,7 @@ const schoolDB = [
     "city": "曲靖",
     "province": "云南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 941,
     "scoreRange": {
       "min": 370,
@@ -27268,7 +27268,7 @@ const schoolDB = [
     "city": "玉溪",
     "province": "云南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 942,
     "scoreRange": {
       "min": 360,
@@ -27300,7 +27300,7 @@ const schoolDB = [
     "city": "楚雄",
     "province": "云南",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 943,
     "scoreRange": {
       "min": 350,
@@ -27332,7 +27332,7 @@ const schoolDB = [
     "city": "蒙自",
     "province": "云南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 944,
     "scoreRange": {
       "min": 340,
@@ -27364,7 +27364,7 @@ const schoolDB = [
     "city": "文山",
     "province": "云南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 945,
     "scoreRange": {
       "min": 320,
@@ -27396,7 +27396,7 @@ const schoolDB = [
     "city": "保山",
     "province": "云南",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 946,
     "scoreRange": {
       "min": 310,
@@ -27428,7 +27428,7 @@ const schoolDB = [
     "city": "林芝",
     "province": "西藏",
     "type": "农林",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 947,
     "scoreRange": {
       "min": 330,
@@ -27460,7 +27460,7 @@ const schoolDB = [
     "city": "拉萨",
     "province": "西藏",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 948,
     "scoreRange": {
       "min": 300,
@@ -27492,7 +27492,7 @@ const schoolDB = [
     "city": "拉萨",
     "province": "西藏",
     "type": "中医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 949,
     "scoreRange": {
       "min": 350,
@@ -27556,7 +27556,7 @@ const schoolDB = [
     "city": "西安",
     "province": "陕西",
     "type": "体育",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 952,
     "scoreRange": {
       "min": 450,
@@ -27588,7 +27588,7 @@ const schoolDB = [
     "city": "西安",
     "province": "陕西",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 953,
     "scoreRange": {
       "min": 480,
@@ -27620,7 +27620,7 @@ const schoolDB = [
     "city": "西安",
     "province": "陕西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 954,
     "scoreRange": {
       "min": 430,
@@ -27652,7 +27652,7 @@ const schoolDB = [
     "city": "榆林",
     "province": "陕西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 958,
     "scoreRange": {
       "min": 350,
@@ -27684,7 +27684,7 @@ const schoolDB = [
     "city": "商洛",
     "province": "陕西",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 959,
     "scoreRange": {
       "min": 330,
@@ -27716,7 +27716,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "民族",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 960,
     "scoreRange": {
       "min": 460,
@@ -27748,7 +27748,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 961,
     "scoreRange": {
       "min": 390,
@@ -27780,7 +27780,7 @@ const schoolDB = [
     "city": "庆阳",
     "province": "甘肃",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 962,
     "scoreRange": {
       "min": 340,
@@ -27812,7 +27812,7 @@ const schoolDB = [
     "city": "张掖",
     "province": "甘肃",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 964,
     "scoreRange": {
       "min": 330,
@@ -27844,7 +27844,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 965,
     "scoreRange": {
       "min": 350,
@@ -27876,7 +27876,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 966,
     "scoreRange": {
       "min": 420,
@@ -27908,7 +27908,7 @@ const schoolDB = [
     "city": "合作",
     "province": "甘肃",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 967,
     "scoreRange": {
       "min": 310,
@@ -27940,7 +27940,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 968,
     "scoreRange": {
       "min": 360,
@@ -27972,7 +27972,7 @@ const schoolDB = [
     "city": "兰州",
     "province": "甘肃",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 969,
     "scoreRange": {
       "min": 300,
@@ -28004,7 +28004,7 @@ const schoolDB = [
     "city": "西宁",
     "province": "青海",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 971,
     "scoreRange": {
       "min": 340,
@@ -28036,7 +28036,7 @@ const schoolDB = [
     "city": "西宁",
     "province": "青海",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 972,
     "scoreRange": {
       "min": 400,
@@ -28068,7 +28068,7 @@ const schoolDB = [
     "city": "西宁",
     "province": "青海",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 973,
     "scoreRange": {
       "min": 350,
@@ -28100,7 +28100,7 @@ const schoolDB = [
     "city": "西宁",
     "province": "青海",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 974,
     "scoreRange": {
       "min": 300,
@@ -28132,7 +28132,7 @@ const schoolDB = [
     "city": "固原",
     "province": "宁夏",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 975,
     "scoreRange": {
       "min": 340,
@@ -28164,7 +28164,7 @@ const schoolDB = [
     "city": "银川",
     "province": "宁夏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 976,
     "scoreRange": {
       "min": 300,
@@ -28196,7 +28196,7 @@ const schoolDB = [
     "city": "银川",
     "province": "宁夏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 977,
     "scoreRange": {
       "min": 290,
@@ -28228,7 +28228,7 @@ const schoolDB = [
     "city": "银川",
     "province": "宁夏",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 978,
     "scoreRange": {
       "min": 320,
@@ -28260,7 +28260,7 @@ const schoolDB = [
     "city": "石嘴山",
     "province": "宁夏",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 979,
     "scoreRange": {
       "min": 280,
@@ -28292,7 +28292,7 @@ const schoolDB = [
     "city": "乌鲁木齐",
     "province": "新疆",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 982,
     "scoreRange": {
       "min": 400,
@@ -28324,7 +28324,7 @@ const schoolDB = [
     "city": "乌鲁木齐",
     "province": "新疆",
     "type": "艺术",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 983,
     "scoreRange": {
       "min": 380,
@@ -28356,7 +28356,7 @@ const schoolDB = [
     "city": "乌鲁木齐",
     "province": "新疆",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 984,
     "scoreRange": {
       "min": 340,
@@ -28388,7 +28388,7 @@ const schoolDB = [
     "city": "昌吉",
     "province": "新疆",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 985,
     "scoreRange": {
       "min": 310,
@@ -28420,7 +28420,7 @@ const schoolDB = [
     "city": "乌鲁木齐",
     "province": "新疆",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 986,
     "scoreRange": {
       "min": 380,
@@ -28452,7 +28452,7 @@ const schoolDB = [
     "city": "库尔勒",
     "province": "新疆",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 987,
     "scoreRange": {
       "min": 300,
@@ -28484,7 +28484,7 @@ const schoolDB = [
     "city": "图木舒克",
     "province": "新疆",
     "type": "政法",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 988,
     "scoreRange": {
       "min": 280,
@@ -28516,7 +28516,7 @@ const schoolDB = [
     "city": "克拉玛依",
     "province": "新疆",
     "type": "医药",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 989,
     "scoreRange": {
       "min": 350,
@@ -28548,7 +28548,7 @@ const schoolDB = [
     "city": "万州",
     "province": "重庆",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 990,
     "scoreRange": {
       "min": 380,
@@ -28580,7 +28580,7 @@ const schoolDB = [
     "city": "涪陵",
     "province": "重庆",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 991,
     "scoreRange": {
       "min": 380,
@@ -28612,7 +28612,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 992,
     "scoreRange": {
       "min": 400,
@@ -28644,7 +28644,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 993,
     "scoreRange": {
       "min": 340,
@@ -28676,7 +28676,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "语言",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 994,
     "scoreRange": {
       "min": 350,
@@ -28708,7 +28708,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 995,
     "scoreRange": {
       "min": 340,
@@ -28740,7 +28740,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 996,
     "scoreRange": {
       "min": 330,
@@ -28772,7 +28772,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 997,
     "scoreRange": {
       "min": 320,
@@ -28804,7 +28804,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 998,
     "scoreRange": {
       "min": 310,
@@ -28836,7 +28836,7 @@ const schoolDB = [
     "city": "重庆",
     "province": "重庆",
     "type": "理工",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 999,
     "scoreRange": {
       "min": 300,
@@ -28868,7 +28868,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "综合",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 1001,
     "scoreRange": {
       "min": 320,
@@ -28900,7 +28900,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "师范",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 1002,
     "scoreRange": {
       "min": 380,
@@ -28932,7 +28932,7 @@ const schoolDB = [
     "city": "上海",
     "province": "上海",
     "type": "财经",
-    "tier": "二本",
+    "tier": "一本",
     "rank": 1003,
     "scoreRange": {
       "min": 390,
@@ -28954,7 +28954,2950 @@ const schoolDB = [
         "field": "外语"
       }
     ]
+  },
+  {
+    "name": "苏州科技大学",
+    "province": "江苏",
+    "city": "苏州",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以城市建设与环境为特色的江苏省属高校，苏州地理优势明显。",
+    "advantages": "苏州区位优势突出，土木环境学科有特色",
+    "disadvantages": "学校知名度有待提升",
+    "strongMajors": [
+      {
+        "name": "土木工程",
+        "rank": 18,
+        "level": "B+"
+      },
+      {
+        "name": "环境科学与工程",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "城乡规划",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "浙江理工大学",
+    "province": "浙江",
+    "city": "杭州",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 530,
+      "max": 560
+    },
+    "desc": "以纺织和材料为特色的浙江省属高校，前身是蚕学馆，办学历史逾百年。",
+    "advantages": "纺织学科全国领先，材料学科实力强",
+    "disadvantages": "非纺织类专业知名度有限",
+    "strongMajors": [
+      {
+        "name": "纺织工程",
+        "rank": 2,
+        "level": "A+"
+      },
+      {
+        "name": "材料科学与工程",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "机械工程",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "嘉兴大学",
+    "province": "浙江",
+    "city": "嘉兴",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "嘉兴市属综合性大学，2023年升格为大学，以经济学和工学为优势学科。",
+    "advantages": "长三角区位优势明显，发展势头好",
+    "disadvantages": "办学历史短，学科积累有限",
+    "strongMajors": [
+      {
+        "name": "经济学",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "土木工程",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "会计学",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "广东海洋大学",
+    "province": "广东",
+    "city": "湛江",
+    "type": "农林",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以海洋和水产为特色的广东省属高校，是华南地区海洋人才培养的重要基地。",
+    "advantages": "水产学科华南领先，海洋特色鲜明",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "水产养殖学",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "海洋科学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "广州体育学院",
+    "province": "广东",
+    "city": "广州",
+    "type": "体育",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 490,
+      "max": 520
+    },
+    "desc": "华南地区唯一的体育本科院校，以体育教育和运动训练为特色。",
+    "advantages": "华南体育教育重镇，体育行业资源丰富",
+    "disadvantages": "非体育类专业较弱",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "运动训练",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "武术与民族传统体育",
+        "rank": 8,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "广东警官学院",
+    "province": "广东",
+    "city": "广州",
+    "type": "政法",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以公安教育为特色的广东省属高校，是广东省公安人才培养的重要基地。",
+    "advantages": "公安教育质量好，广东公安系统就业优势明显",
+    "disadvantages": "专业面窄，仅限公安类专业",
+    "strongMajors": [
+      {
+        "name": "侦查学",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "治安学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "刑事科学技术",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "广东第二师范学院",
+    "province": "广东",
+    "city": "广州",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 500,
+      "max": 530
+    },
+    "desc": "以教师教育为特色的广东省属高校，为广东省基础教育培养师资。",
+    "advantages": "师范教育质量好，广东教育行业就业便利",
+    "disadvantages": "办学规模较小",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "学前教育",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "数学与应用数学",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "湖北民族大学",
+    "province": "湖北",
+    "city": "恩施",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 488,
+      "max": 518
+    },
+    "desc": "以民族教育和区域发展为特色的湖北省属高校，服务武陵山区。",
+    "advantages": "民族学科有特色，医学教育质量好",
+    "disadvantages": "地理位置偏远",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "临床医学",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "中医学",
+        "rank": 15,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "湖南工学院",
+    "province": "湖南",
+    "city": "衡阳",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "以工科为特色的湖南省属高校，在安全工程和材料学科方面有特色。",
+    "advantages": "安全工程有特色，工科基础扎实",
+    "disadvantages": "地理位置一般，知名度有限",
+    "strongMajors": [
+      {
+        "name": "安全工程",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "材料科学与工程",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "湖南文理学院",
+    "province": "湖南",
+    "city": "常德",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 492,
+      "max": 522
+    },
+    "desc": "常德市属综合性大学，以教师教育和农学为特色。",
+    "advantages": "师范教育传统好，水生生物学有特色",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "水产养殖学",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "生物科学",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "邵阳学院",
+    "province": "湖南",
+    "city": "邵阳",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 490,
+      "max": 520
+    },
+    "desc": "邵阳市属综合性大学，以工科和医学为特色。",
+    "advantages": "机械工程和临床医学有一定实力",
+    "disadvantages": "地理位置较偏，综合实力有限",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "临床医学",
+        "rank": 35,
+        "level": "B"
+      },
+      {
+        "name": "电气工程",
+        "rank": 32,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "湖南人文科技学院",
+    "province": "湖南",
+    "city": "娄底",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 488,
+      "max": 518
+    },
+    "desc": "娄底市属综合性大学，以教师教育和农学为特色。",
+    "advantages": "农学和教育学有一定基础",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "农学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "思想政治教育",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "材料科学与工程",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "湘南学院",
+    "province": "湖南",
+    "city": "郴州",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 488,
+      "max": 518
+    },
+    "desc": "郴州市属综合性大学，以医学和教师教育为特色。",
+    "advantages": "临床医学教育质量较好",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 32,
+        "level": "B"
+      },
+      {
+        "name": "护理学",
+        "rank": 20,
+        "level": "B"
+      },
+      {
+        "name": "网络工程",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "怀化学院",
+    "province": "湖南",
+    "city": "怀化",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 485,
+      "max": 515
+    },
+    "desc": "怀化市属综合性大学，以教师教育和民族学科为特色。",
+    "advantages": "民族文化和生物多样性研究有特色",
+    "disadvantages": "地理位置偏远",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "生物科学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西南民族大学",
+    "province": "四川",
+    "city": "成都",
+    "type": "民族",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "国家民委直属民族高校，以民族学科和哲学为特色。",
+    "advantages": "民族学科实力强，成都地理位置好",
+    "disadvantages": "非民族类专业相对较弱",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "哲学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "中国语言文学",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "川北医学院",
+    "province": "四川",
+    "city": "南充",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以医学为特色的四川省属高校，在临床医学和眼视光学方面有优势。",
+    "advantages": "眼视光学全国领先，医学教育质量好",
+    "disadvantages": "地理位置一般",
+    "strongMajors": [
+      {
+        "name": "眼视光学",
+        "rank": 3,
+        "level": "A"
+      },
+      {
+        "name": "临床医学",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "医学影像学",
+        "rank": 15,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "重庆文理学院",
+    "province": "重庆",
+    "city": "重庆",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "重庆市属综合性大学，以教师教育和新材料为特色。",
+    "advantages": "新材料学科有特色，重庆就业便利",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "材料科学与工程",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "小学教育",
+        "rank": 20,
+        "level": "B"
+      },
+      {
+        "name": "园林",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "重庆警察学院",
+    "province": "重庆",
+    "city": "重庆",
+    "type": "政法",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以公安教育为特色的重庆市属高校，是重庆市公安人才培养的重要基地。",
+    "advantages": "公安教育质量好，重庆公安系统就业优势明显",
+    "disadvantages": "专业面窄",
+    "strongMajors": [
+      {
+        "name": "侦查学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "治安学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "刑事科学技术",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "信阳师范大学",
+    "province": "河南",
+    "city": "信阳",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以教师教育为特色的河南省属高校，为河南省基础教育培养师资。",
+    "advantages": "师范教育质量好，河南教育行业就业便利",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "数学与应用数学",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "合肥大学",
+    "province": "安徽",
+    "city": "合肥",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "合肥市属综合性大学，以工科和环境学科为特色。",
+    "advantages": "合肥区位优势好，产教融合深入",
+    "disadvantages": "办学历史短",
+    "strongMajors": [
+      {
+        "name": "环境科学与工程",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "计算机科学与技术",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "生物工程",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "铜陵学院",
+    "province": "安徽",
+    "city": "铜陵",
+    "type": "财经",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "以财经为特色的安徽省属高校，在会计学和冶金经济方面有优势。",
+    "advantages": "会计学有特色",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "财务管理",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "国际经济与贸易",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "福建中医药大学",
+    "province": "福建",
+    "city": "福州",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以中医药为特色的福建省属高校，在中医学和针灸推拿方面有优势。",
+    "advantages": "中医药学科实力强，闽台交流合作多",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "中医学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "针灸推拿学",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "中药学",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "赣南医科大学",
+    "province": "江西",
+    "city": "赣州",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 508,
+      "max": 538
+    },
+    "desc": "以医学为特色的江西省属高校，在临床医学和康复医学方面有优势。",
+    "advantages": "康复医学有特色，医学教育质量好",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "康复治疗学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "护理学",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "南昌工程学院",
+    "province": "江西",
+    "city": "南昌",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 500,
+      "max": 530
+    },
+    "desc": "以水利工程为特色的江西省属高校，在水电工程和土木工程方面有优势。",
+    "advantages": "水利工程有特色，南昌就业便利",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "水利水电工程",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "土木工程",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "电气工程及其自动化",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "宜春学院",
+    "province": "江西",
+    "city": "宜春",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 492,
+      "max": 522
+    },
+    "desc": "宜春市属综合性大学，以医学和教师教育为特色。",
+    "advantages": "医学教育有基础",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 32,
+        "level": "B"
+      },
+      {
+        "name": "药学",
+        "rank": 20,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "九江学院",
+    "province": "江西",
+    "city": "九江",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "九江市属综合性大学，以医学和工科为特色。",
+    "advantages": "九江区位优势好，庐山资源丰富",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "会计学",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "河北科技师范学院",
+    "province": "河北",
+    "city": "秦皇岛",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "以职业教育师资培养为特色的河北省属高校，在农业教育和职业教育方面有优势。",
+    "advantages": "职业教育师资培养全国领先",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "职业技术教育",
+        "rank": 3,
+        "level": "A"
+      },
+      {
+        "name": "动物科学",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "园艺",
+        "rank": 15,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "河北中医学院",
+    "province": "河北",
+    "city": "石家庄",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以中医药为特色的河北省属高校，在中医学和中药学方面有优势。",
+    "advantages": "中医药学科有特色",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "中医学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "中药学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "针灸推拿学",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "北华航天工业学院",
+    "province": "河北",
+    "city": "廊坊",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以航天为特色的河北省属高校，原隶属于航天工业部。",
+    "advantages": "航天制造有特色，廊坊区位优势好",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "飞行器制造工程",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "机械设计制造及其自动化",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "电子信息工程",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "山西中医药大学",
+    "province": "山西",
+    "city": "太原",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以中医药为特色的山西省属高校，在中医学和中药学方面有优势。",
+    "advantages": "中医药学科有特色",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "中医学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "中药学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "针灸推拿学",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "长治医学院",
+    "province": "山西",
+    "city": "长治",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "以医学为特色的山西省属高校，在临床医学和护理学方面有优势。",
+    "advantages": "医学教育质量好",
+    "disadvantages": "地理位置一般",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "护理学",
+        "rank": 20,
+        "level": "B"
+      },
+      {
+        "name": "医学影像学",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "辽宁工程技术大学",
+    "province": "辽宁",
+    "city": "阜新",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以矿业和安全工程为特色的辽宁省属高校，在采矿工程和测绘方面有传统优势。",
+    "advantages": "矿业工程全国领先，安全工程有特色",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "矿业工程",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "安全科学与工程",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "测绘科学与技术",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "大连海洋大学",
+    "province": "辽宁",
+    "city": "大连",
+    "type": "农林",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以海洋和水产为特色的辽宁省属高校，在水产养殖和海洋科学方面有优势。",
+    "advantages": "水产学科有特色，大连区位优势好",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "水产养殖学",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "海洋科学",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "锦州医科大学",
+    "province": "辽宁",
+    "city": "锦州",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以医学为特色的辽宁省属高校，在临床医学和口腔医学方面有优势。",
+    "advantages": "口腔医学有特色，医学教育质量好",
+    "disadvantages": "地理位置一般",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "口腔医学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "护理学",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "长春师范大学",
+    "province": "吉林",
+    "city": "长春",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "以教师教育为特色的吉林省属高校，为吉林省基础教育培养师资。",
+    "advantages": "师范教育质量好，吉林教育行业就业便利",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "数学与应用数学",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西安石油大学",
+    "province": "陕西",
+    "city": "西安",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以石油为特色的陕西省属高校，在石油工程和石油化工方面有传统优势。",
+    "advantages": "石油工程有特色，能源行业就业优势明显",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "石油工程",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "油气储运工程",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "化学工程与工艺",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "玉林师范学院",
+    "province": "广西",
+    "city": "玉林",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 492,
+      "max": 522
+    },
+    "desc": "以教师教育为特色的广西壮族自治区属高校，为广西基础教育培养师资。",
+    "advantages": "师范教育有基础",
+    "disadvantages": "地理位置一般",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "化学",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西南林业大学",
+    "province": "云南",
+    "city": "昆明",
+    "type": "农林",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 500,
+      "max": 530
+    },
+    "desc": "以林业为特色的云南省属高校，在林学和风景园林方面有优势。",
+    "advantages": "林学学科有特色，云南生物多样性资源丰富",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "林学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "风景园林",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "木材科学与工程",
+        "rank": 8,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "内蒙古财经大学",
+    "province": "内蒙古",
+    "city": "呼和浩特",
+    "type": "财经",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 500,
+      "max": 530
+    },
+    "desc": "以财经为特色的内蒙古自治区属高校，在金融和会计方面有优势。",
+    "advantages": "财经教育质量好，内蒙古区位优势好",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "金融学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "会计学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "财政学",
+        "rank": 15,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "海南医科大学",
+    "province": "海南",
+    "city": "海口",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以医学为特色的海南省属高校，在临床医学和热带医学方面有优势。",
+    "advantages": "热带医学研究有特色，海南自贸港发展机遇多",
+    "disadvantages": "办学历史较短",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "药学",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "热带医学",
+        "rank": 3,
+        "level": "A"
+      }
+    ]
+  },
+  {
+    "name": "广州航海学院",
+    "province": "广东",
+    "city": "广州",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 500,
+      "max": 530
+    },
+    "desc": "以航海为特色的广东省属高校，在航海技术和港口管理方面有优势。",
+    "advantages": "航海学科有特色，航运行业就业对口",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "航海技术",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "轮机工程",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "港口航道与海岸工程",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "肇庆学院",
+    "province": "广东",
+    "city": "肇庆",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "肇庆市属综合性大学，以教师教育和工科为特色。",
+    "advantages": "师范教育有基础，肇庆环境优美",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西南大学",
+    "province": "重庆",
+    "city": "重庆",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 565,
+      "max": 595
+    },
+    "desc": "教育部直属211高校，以教师教育和农业为特色，在教育学和生物学方面有传统优势。",
+    "advantages": "师范教育全国领先，生物学实力强",
+    "disadvantages": "学科面宽但部分学科较弱",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "生物学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "心理学",
+        "rank": 8,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "西南政法大学",
+    "province": "重庆",
+    "city": "重庆",
+    "type": "政法",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 545,
+      "max": 575
+    },
+    "desc": "以法学为特色的重庆市属高校，被誉为'新中国法学教育的西南联大'，在法学方面有传统优势。",
+    "advantages": "法学学科全国领先，法律行业就业优势明显",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "法学",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "新闻传播学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "政治学",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "河北北方学院",
+    "province": "河北",
+    "city": "张家口",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 488,
+      "max": 518
+    },
+    "desc": "张家口市属综合性大学，以医学和农学为特色。",
+    "advantages": "医学和农学有基础",
+    "disadvantages": "地理位置较偏，综合实力有限",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 35,
+        "level": "B"
+      },
+      {
+        "name": "农学",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "医学检验技术",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "中国人民警察大学",
+    "province": "河北",
+    "city": "廊坊",
+    "type": "政法",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 540,
+      "max": 570
+    },
+    "desc": "公安部直属高校，以公安和消防为特色，在消防工程和边防管理方面有优势。",
+    "advantages": "公安消防教育全国领先，体制内就业优势明显",
+    "disadvantages": "专业面窄",
+    "strongMajors": [
+      {
+        "name": "消防工程",
+        "rank": 1,
+        "level": "A+"
+      },
+      {
+        "name": "边防管理",
+        "rank": 1,
+        "level": "A+"
+      },
+      {
+        "name": "火灾勘查",
+        "rank": 1,
+        "level": "A+"
+      }
+    ]
+  },
+  {
+    "name": "河北金融学院",
+    "province": "河北",
+    "city": "保定",
+    "type": "财经",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "以金融为特色的河北省属高校，在金融学和保险方面有优势。",
+    "advantages": "金融学有特色，保定区位优势好",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "金融学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "保险学",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "会计学",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "中央司法警官学院",
+    "province": "河北",
+    "city": "保定",
+    "type": "政法",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 530,
+      "max": 560
+    },
+    "desc": "司法部直属高校，以司法警官培养为特色，在监狱学和矫正教育方面有优势。",
+    "advantages": "监狱学全国领先，司法系统就业优势明显",
+    "disadvantages": "专业面极窄",
+    "strongMajors": [
+      {
+        "name": "监狱学",
+        "rank": 1,
+        "level": "A+"
+      },
+      {
+        "name": "矫正教育",
+        "rank": 1,
+        "level": "A+"
+      },
+      {
+        "name": "司法警察学",
+        "rank": 1,
+        "level": "A+"
+      }
+    ]
+  },
+  {
+    "name": "大连大学",
+    "province": "辽宁",
+    "city": "大连",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "大连市属综合性大学，以医学和工科为特色。",
+    "advantages": "大连区位优势好，综合学科覆盖面广",
+    "disadvantages": "缺乏顶尖学科",
+    "strongMajors": [
+      {
+        "name": "护理学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "日语",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "机械工程",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "沈阳理工大学",
+    "province": "辽宁",
+    "city": "沈阳",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以兵器为特色的辽宁省属高校，在弹药工程和探测制导方面有传统优势。",
+    "advantages": "兵器学科有特色",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "弹药工程与爆炸技术",
+        "rank": 3,
+        "level": "A"
+      },
+      {
+        "name": "探测制导与控制技术",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "机械工程",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "沈阳化工大学",
+    "province": "辽宁",
+    "city": "沈阳",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以化工为特色的辽宁省属高校，在化学工程和材料方面有优势。",
+    "advantages": "化工学科有特色",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "化学工程与工艺",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "材料科学与工程",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "过程装备与控制工程",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "辽宁工业大学",
+    "province": "辽宁",
+    "city": "锦州",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以工科为特色的辽宁省属高校，在车辆工程和电气工程方面有优势。",
+    "advantages": "车辆工程有特色",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "车辆工程",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "电气工程及其自动化",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "机械设计制造及其自动化",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "沈阳师范大学",
+    "province": "辽宁",
+    "city": "沈阳",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 508,
+      "max": 538
+    },
+    "desc": "以教师教育为特色的辽宁省属高校，在教育学和学前教育方面有优势。",
+    "advantages": "师范教育质量好，沈阳区位优势好",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "学前教育",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "渤海大学",
+    "province": "辽宁",
+    "city": "锦州",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "锦州市属综合性大学，以教师教育和食品科学为特色。",
+    "advantages": "食品科学有特色",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "食品科学与工程",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "小学教育",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "思想政治教育",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "沈阳大学",
+    "province": "辽宁",
+    "city": "沈阳",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "沈阳市属综合性大学，以工科和环境学科为特色。",
+    "advantages": "沈阳区位优势好，综合学科覆盖面广",
+    "disadvantages": "缺乏顶尖学科",
+    "strongMajors": [
+      {
+        "name": "环境工程",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "土木工程",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "大连民族大学",
+    "province": "辽宁",
+    "city": "大连",
+    "type": "民族",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "国家民委直属民族高校，以民族学科和工科为特色。",
+    "advantages": "大连区位优势好，民族学科有特色",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "计算机科学与技术",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "日语",
+        "rank": 15,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "白城师范学院",
+    "province": "吉林",
+    "city": "白城",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 488,
+      "max": 518
+    },
+    "desc": "以教师教育为特色的吉林省属高校，为吉林省基础教育培养师资。",
+    "advantages": "师范教育有基础",
+    "disadvantages": "地理位置较偏，综合实力有限",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "数学与应用数学",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "长春大学",
+    "province": "吉林",
+    "city": "长春",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "长春市属综合性大学，以特殊教育和机械工程为特色。",
+    "advantages": "特殊教育全国领先",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "特殊教育",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "机械工程",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "针灸推拿学",
+        "rank": 15,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "牡丹江医学院",
+    "province": "黑龙江",
+    "city": "牡丹江",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "以医学为特色的黑龙江省属高校，在临床医学和医学影像方面有优势。",
+    "advantages": "医学影像学有特色",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "医学影像学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "临床医学",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "麻醉学",
+        "rank": 15,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "哈尔滨师范大学",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以教师教育为特色的黑龙江省属高校，在教育学和地理科学方面有传统优势。",
+    "advantages": "师范教育质量好，哈尔滨区位优势好",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "地理科学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "南京医科大学",
+    "province": "江苏",
+    "city": "南京",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 565,
+      "max": 595
+    },
+    "desc": "以医学为特色的江苏省属双一流高校，在公共卫生和临床医学方面有传统优势。",
+    "advantages": "公共卫生全国领先，医学教育质量高",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "公共卫生与预防医学",
+        "rank": 3,
+        "level": "A"
+      },
+      {
+        "name": "临床医学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "口腔医学",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "浙江海洋大学",
+    "province": "浙江",
+    "city": "舟山",
+    "type": "农林",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 508,
+      "max": 538
+    },
+    "desc": "以海洋为特色的浙江省属高校，在海洋科学和船舶方面有优势。",
+    "advantages": "海洋科学有特色，舟山海洋资源丰富",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "海洋科学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "船舶与海洋工程",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "水产养殖学",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "浙江中医药大学",
+    "province": "浙江",
+    "city": "杭州",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 525,
+      "max": 555
+    },
+    "desc": "以中医药为特色的浙江省属高校，在中医学和中药学方面有传统优势。",
+    "advantages": "中医药学科有特色",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "中医学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "中药学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "针灸推拿学",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "浙江工商大学",
+    "province": "浙江",
+    "city": "杭州",
+    "type": "财经",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 540,
+      "max": 570
+    },
+    "desc": "以商科为特色的浙江省属高校，在统计学和食品科学方面有传统优势。",
+    "advantages": "统计学全国领先，商科基础好",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "统计学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "工商管理",
+        "rank": 15,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "蚌埠医科大学",
+    "province": "安徽",
+    "city": "蚌埠",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 518,
+      "max": 548
+    },
+    "desc": "以医学为特色的安徽省属高校，在临床医学和肿瘤学方面有优势。",
+    "advantages": "肿瘤学有特色，医学教育质量好",
+    "disadvantages": "地理位置一般",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "医学检验技术",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "护理学",
+        "rank": 15,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "淮南师范学院",
+    "province": "安徽",
+    "city": "淮南",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 492,
+      "max": 522
+    },
+    "desc": "以教师教育为特色的安徽省属高校，为安徽省基础教育培养师资。",
+    "advantages": "师范教育有基础",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "化学",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "安徽科技学院",
+    "province": "安徽",
+    "city": "滁州",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "以农学和工科为特色的安徽省属高校，在动物科学和食品方面有优势。",
+    "advantages": "动物科学有特色",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "动物科学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "合肥师范学院",
+    "province": "安徽",
+    "city": "合肥",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "以教师教育为特色的安徽省属高校，为安徽省基础教育培养师资。",
+    "advantages": "师范教育有基础，合肥区位优势好",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 20,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "数学与应用数学",
+        "rank": 25,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "井冈山大学",
+    "province": "江西",
+    "city": "吉安",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "吉安市属综合性大学，以教师教育和红色文化研究为特色。",
+    "advantages": "红色文化研究有特色",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "思想政治教育",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "临床医学",
+        "rank": 32,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "江西科技师范大学",
+    "province": "江西",
+    "city": "南昌",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "以职业教育师资培养为特色的江西省属高校，在职业教育和化学方面有优势。",
+    "advantages": "职业教育师资培养有特色",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 20,
+        "level": "B"
+      },
+      {
+        "name": "化学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "旅游管理",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "山东理工大学",
+    "province": "山东",
+    "city": "淄博",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以工科为特色的山东省属高校，在车辆工程和农业工程方面有优势。",
+    "advantages": "车辆工程有特色",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "车辆工程",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "农业工程",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "机械工程",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "青岛农业大学",
+    "province": "山东",
+    "city": "青岛",
+    "type": "农林",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 502,
+      "max": 532
+    },
+    "desc": "以农业为特色的山东省属高校，在植物保护和动物科学方面有优势。",
+    "advantages": "青岛区位优势好，农业学科有基础",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "植物保护",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "动物科学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "山东艺术学院",
+    "province": "山东",
+    "city": "济南",
+    "type": "艺术",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 508,
+      "max": 540
+    },
+    "desc": "以艺术为特色的山东省属高校，在音乐和美术方面有传统优势。",
+    "advantages": "艺术教育质量好",
+    "disadvantages": "专业面较窄",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "美术学",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "戏剧与影视学",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "山东工艺美术学院",
+    "province": "山东",
+    "city": "济南",
+    "type": "艺术",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以设计为特色的山东省属高校，在视觉传达和工艺美术方面有传统优势。",
+    "advantages": "设计学科有特色",
+    "disadvantages": "专业面较窄",
+    "strongMajors": [
+      {
+        "name": "设计学",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "美术学",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "艺术设计学",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "河南科技学院",
+    "province": "河南",
+    "city": "新乡",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以农学和工科为特色的河南省属高校，在作物学和园艺方面有优势。",
+    "advantages": "作物学有特色",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "作物学",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "园艺",
+        "rank": 15,
+        "level": "B"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "洛阳师范学院",
+    "province": "河南",
+    "city": "洛阳",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以教师教育为特色的河南省属高校，为河南省基础教育培养师资。",
+    "advantages": "师范教育有基础，洛阳文化资源丰富",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "数学与应用数学",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "洛阳理工学院",
+    "province": "河南",
+    "city": "洛阳",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "以工科为特色的河南省属高校，在材料和无机非金属方面有优势。",
+    "advantages": "材料学科有特色，洛阳工业基础好",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "无机非金属材料工程",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "土木工程",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "湖南工程学院",
+    "province": "湖南",
+    "city": "湘潭",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以工科为特色的湖南省属高校，在电气工程和纺织方面有优势。",
+    "advantages": "电气工程有特色",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "电气工程及其自动化",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "纺织工程",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "机械设计制造及其自动化",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "湖南城市学院",
+    "province": "湖南",
+    "city": "益阳",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "以城市建设为特色的湖南省属高校，在城乡规划和土木工程方面有优势。",
+    "advantages": "城乡规划有特色",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "城乡规划",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "土木工程",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "建筑学",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "深圳北理莫斯科大学",
+    "province": "广东",
+    "city": "深圳",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 560,
+      "max": 590
+    },
+    "desc": "深圳与莫斯科大学和北京理工大学合作创办的中外合作大学。",
+    "advantages": "国际化程度高，深圳区位优势好",
+    "disadvantages": "办学历史短，学费高",
+    "strongMajors": [
+      {
+        "name": "数学与应用数学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "材料科学与工程",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "生物科学",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "广东以色列理工学院",
+    "province": "广东",
+    "city": "汕头",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 555,
+      "max": 585
+    },
+    "desc": "汕头与以色列理工学院合作创办的中外合作大学，以理工科为特色。",
+    "advantages": "国际化程度高，理工教育质量好",
+    "disadvantages": "办学历史短，学费高",
+    "strongMajors": [
+      {
+        "name": "材料科学与工程",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "化学工程与工艺",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "生物技术",
+        "rank": 15,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "北京师范大学-香港浸会大学联合国际学院",
+    "province": "广东",
+    "city": "珠海",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 555,
+      "max": 585
+    },
+    "desc": "北京师范大学与香港浸会大学合作创办的中外合作大学，全英文教学。",
+    "advantages": "国际化程度高，香港浸会大学学位",
+    "disadvantages": "学费高",
+    "strongMajors": [
+      {
+        "name": "新闻传播学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "会计学",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "计算机科学与技术",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "香港科技大学(广州)",
+    "province": "广东",
+    "city": "广州",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 610,
+      "max": 640
+    },
+    "desc": "香港科技大学在广州设立的分校，以理工科和商科为特色。",
+    "advantages": "国际化程度极高，香港科技大学学位",
+    "disadvantages": "学费高，招生规模小",
+    "strongMajors": [
+      {
+        "name": "人工智能",
+        "rank": 5,
+        "level": "A"
+      },
+      {
+        "name": "数据科学与大数据技术",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "金融学",
+        "rank": 12,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "右江民族医学院",
+    "province": "广西",
+    "city": "百色",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以医学为特色的广西壮族自治区属高校，在临床医学和民族医学方面有优势。",
+    "advantages": "民族医学有特色",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 32,
+        "level": "B"
+      },
+      {
+        "name": "护理学",
+        "rank": 20,
+        "level": "B"
+      },
+      {
+        "name": "民族医学",
+        "rank": 5,
+        "level": "A"
+      }
+    ]
+  },
+  {
+    "name": "贵州师范学院",
+    "province": "贵州",
+    "city": "贵阳",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "以教师教育为特色的贵州省属高校，为贵州省基础教育培养师资。",
+    "advantages": "师范教育有基础",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "汉语言文学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "数学与应用数学",
+        "rank": 28,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "昆明学院",
+    "province": "云南",
+    "city": "昆明",
+    "type": "综合",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 495,
+      "max": 525
+    },
+    "desc": "昆明市属综合性大学，以教师教育和工科为特色。",
+    "advantages": "昆明区位优势好",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 30,
+        "level": "B"
+      },
+      {
+        "name": "旅游管理",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "空军军医大学",
+    "province": "陕西",
+    "city": "西安",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 580,
+      "max": 610
+    },
+    "desc": "原第四军医大学，空军直属医学高校，在口腔医学和航空航天医学方面有传统优势。",
+    "advantages": "口腔医学和航空航天医学全国领先",
+    "disadvantages": "军事院校管理严格",
+    "strongMajors": [
+      {
+        "name": "口腔医学",
+        "rank": 3,
+        "level": "A"
+      },
+      {
+        "name": "航空航天医学",
+        "rank": 1,
+        "level": "A+"
+      },
+      {
+        "name": "临床医学",
+        "rank": 8,
+        "level": "B+"
+      }
+    ]
+  },
+  {
+    "name": "陕西理工大学",
+    "province": "陕西",
+    "city": "汉中",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以工科为特色的陕西省属高校，在机械和材料方面有优势。",
+    "advantages": "工科有基础",
+    "disadvantages": "地理位置较偏",
+    "strongMajors": [
+      {
+        "name": "机械设计制造及其自动化",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "材料科学与工程",
+        "rank": 25,
+        "level": "B"
+      },
+      {
+        "name": "电气工程",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西北政法大学",
+    "province": "陕西",
+    "city": "西安",
+    "type": "政法",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 535,
+      "max": 565
+    },
+    "desc": "以法学为特色的陕西省属高校，被誉为'政法人才的摇篮'，在法学方面有传统优势。",
+    "advantages": "法学学科全国领先，法律行业就业优势明显",
+    "disadvantages": "学科面较窄",
+    "strongMajors": [
+      {
+        "name": "法学",
+        "rank": 10,
+        "level": "B+"
+      },
+      {
+        "name": "哲学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "新闻传播学",
+        "rank": 18,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西安财经大学",
+    "province": "陕西",
+    "city": "西安",
+    "type": "财经",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以财经为特色的陕西省属高校，在统计学和经济学方面有优势。",
+    "advantages": "统计学有特色，西安区位优势好",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "统计学",
+        "rank": 15,
+        "level": "B+"
+      },
+      {
+        "name": "经济学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "会计学",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西安航空学院",
+    "province": "陕西",
+    "city": "西安",
+    "type": "理工",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以航空为特色的陕西省属高校，在飞行器和航空制造方面有优势。",
+    "advantages": "航空制造有特色",
+    "disadvantages": "综合实力有限",
+    "strongMajors": [
+      {
+        "name": "飞行器制造工程",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "机械设计制造及其自动化",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "电气工程及其自动化",
+        "rank": 30,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "西安医学院",
+    "province": "陕西",
+    "city": "西安",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 510,
+      "max": 540
+    },
+    "desc": "以医学为特色的陕西省属高校，在临床医学和护理学方面有优势。",
+    "advantages": "医学教育质量好，西安就业便利",
+    "disadvantages": "办学历史较短",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 28,
+        "level": "B"
+      },
+      {
+        "name": "护理学",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "药学",
+        "rank": 20,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "陕西学前师范学院",
+    "province": "陕西",
+    "city": "西安",
+    "type": "师范",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 498,
+      "max": 528
+    },
+    "desc": "以学前教育为特色的陕西省属高校，为陕西省学前教育培养师资。",
+    "advantages": "学前教育特色鲜明",
+    "disadvantages": "办学规模较小",
+    "strongMajors": [
+      {
+        "name": "学前教育",
+        "rank": 12,
+        "level": "B+"
+      },
+      {
+        "name": "小学教育",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "心理学",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "兰州财经大学",
+    "province": "甘肃",
+    "city": "兰州",
+    "type": "财经",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 505,
+      "max": 535
+    },
+    "desc": "以财经为特色的甘肃省属高校，在统计学和金融方面有优势。",
+    "advantages": "统计学有特色，兰州区位优势好",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "统计学",
+        "rank": 18,
+        "level": "B"
+      },
+      {
+        "name": "金融学",
+        "rank": 22,
+        "level": "B"
+      },
+      {
+        "name": "会计学",
+        "rank": 22,
+        "level": "B"
+      }
+    ]
+  },
+  {
+    "name": "陆军军医大学",
+    "province": "重庆",
+    "city": "重庆",
+    "type": "医药",
+    "tier": "一本",
+    "scoreRange": {
+      "min": 575,
+      "max": 605
+    },
+    "desc": "原第三军医大学，陆军直属医学高校。",
+    "advantages": "医学教育全国顶尖",
+    "disadvantages": "军事院校管理严格",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "基础医学",
+        "rank": 8,
+        "level": "B+"
+      },
+      {
+        "name": "公共卫生与预防医学",
+        "rank": 10,
+        "level": "B+"
+      }
+    ]
   }
 ];
-
-module.exports = { schoolDB };

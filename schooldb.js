@@ -18952,6 +18952,10008 @@ const schoolDB = [
         "field": "数学"
       }
     ]
+  },
+  {
+    "name": "首钢工学院",
+    "aliases": [
+      "首钢"
+    ],
+    "short": "首钢",
+    "city": "北京",
+    "province": "北京",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 535,
+    "scoreRange": {
+      "min": 430,
+      "max": 471
+    },
+    "desc": "依托首钢集团办学，以工程技术为特色。",
+    "advantages": "校企合作紧密，实践机会多",
+    "disadvantages": "规模小，学科有限",
+    "strongMajors": [
+      {
+        "name": "冶金工程",
+        "rank": 50,
+        "level": "B"
+      },
+      {
+        "name": "机械工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "刘钢",
+        "field": "冶金"
+      }
+    ]
+  },
+  {
+    "name": "北京金融科技学院",
+    "aliases": [
+      "金科"
+    ],
+    "short": "金科",
+    "city": "北京",
+    "province": "北京",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 536,
+    "scoreRange": {
+      "min": 450,
+      "max": 476
+    },
+    "desc": "以金融科技为特色的应用型本科院校。",
+    "advantages": "专业新颖，行业对口",
+    "disadvantages": "新设院校，积累不足",
+    "strongMajors": [
+      {
+        "name": "金融学",
+        "rank": 120,
+        "level": "C"
+      },
+      {
+        "name": "计算机科学与技术",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "赵金",
+        "field": "金融"
+      }
+    ]
+  },
+  {
+    "name": "上海杉达学院",
+    "aliases": [
+      "杉达"
+    ],
+    "short": "杉达",
+    "city": "上海",
+    "province": "上海",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 539,
+    "scoreRange": {
+      "min": 430,
+      "max": 451
+    },
+    "desc": "上海市属民办本科院校，注重应用型人才培养。",
+    "advantages": "国际化办学，外语教学强",
+    "disadvantages": "民办性质，学费较高",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 150,
+        "level": "C"
+      },
+      {
+        "name": "国际经济与贸易",
+        "rank": 180,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李达",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "上海建桥学院",
+    "aliases": [
+      "建桥"
+    ],
+    "short": "建桥",
+    "city": "上海",
+    "province": "上海",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 540,
+    "scoreRange": {
+      "min": 420,
+      "max": 455
+    },
+    "desc": "上海市属民办本科院校，以工科为主。",
+    "advantages": "校企合作多，就业导向明确",
+    "disadvantages": "学术水平一般",
+    "strongMajors": [
+      {
+        "name": "计算机科学与技术",
+        "rank": 200,
+        "level": "C"
+      },
+      {
+        "name": "机械工程",
+        "rank": 220,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "王建",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "上海视觉艺术学院",
+    "aliases": [
+      "上视"
+    ],
+    "short": "上视",
+    "city": "上海",
+    "province": "上海",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 541,
+    "scoreRange": {
+      "min": 440,
+      "max": 474
+    },
+    "desc": "上海市属艺术类本科院校，培养视觉艺术人才。",
+    "advantages": "地处上海，艺术氛围浓厚",
+    "disadvantages": "专业范围窄，学费高",
+    "strongMajors": [
+      {
+        "name": "视觉传达设计",
+        "rank": 50,
+        "level": "B+"
+      },
+      {
+        "name": "数字媒体艺术",
+        "rank": 60,
+        "level": "B"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "张视",
+        "field": "艺术"
+      }
+    ]
+  },
+  {
+    "name": "上海立达学院",
+    "aliases": [
+      "立达"
+    ],
+    "short": "立达",
+    "city": "上海",
+    "province": "上海",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 542,
+    "scoreRange": {
+      "min": 410,
+      "max": 459
+    },
+    "desc": "上海市属民办本科院校。",
+    "advantages": "地处上海",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李立",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "天津商业大学",
+    "aliases": [
+      "天商"
+    ],
+    "short": "天商",
+    "city": "天津",
+    "province": "天津",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 544,
+    "scoreRange": {
+      "min": 480,
+      "max": 509
+    },
+    "desc": "天津市属财经类院校，以商科为特色。",
+    "advantages": "商科实力较强，地处天津",
+    "disadvantages": "综合排名不高",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 100,
+        "level": "B"
+      },
+      {
+        "name": "会计学",
+        "rank": 120,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "王商",
+        "field": "商业"
+      }
+    ]
+  },
+  {
+    "name": "天津体育学院",
+    "aliases": [
+      "天体"
+    ],
+    "short": "天体",
+    "city": "天津",
+    "province": "天津",
+    "type": "体育",
+    "tier": "二本",
+    "rank": 545,
+    "scoreRange": {
+      "min": 440,
+      "max": 472
+    },
+    "desc": "天津市属体育类院校，培养体育教育和运动训练人才。",
+    "advantages": "体育学科实力强",
+    "disadvantages": "专业范围窄",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 60,
+        "level": "B+"
+      },
+      {
+        "name": "运动训练",
+        "rank": 50,
+        "level": "B+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "刘体",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "天津美术学院",
+    "aliases": [
+      "天美"
+    ],
+    "short": "天美",
+    "city": "天津",
+    "province": "天津",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 546,
+    "scoreRange": {
+      "min": 460,
+      "max": 487
+    },
+    "desc": "中国北方重要的美术教育和创作基地。",
+    "advantages": "美术学科实力强，历史悠久",
+    "disadvantages": "专业单一",
+    "strongMajors": [
+      {
+        "name": "美术学",
+        "rank": 40,
+        "level": "A-"
+      },
+      {
+        "name": "设计学",
+        "rank": 50,
+        "level": "B+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "张美",
+        "field": "美术"
+      }
+    ]
+  },
+  {
+    "name": "天津外国语大学滨海外事学院",
+    "aliases": [
+      "滨外"
+    ],
+    "short": "滨外",
+    "city": "天津",
+    "province": "天津",
+    "type": "语言",
+    "tier": "二本",
+    "rank": 547,
+    "scoreRange": {
+      "min": 430,
+      "max": 478
+    },
+    "desc": "天津外国语大学举办的独立学院，以外语为特色。",
+    "advantages": "外语教学资源丰富",
+    "disadvantages": "独立学院，社会认可度有限",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 150,
+        "level": "C"
+      },
+      {
+        "name": "日语",
+        "rank": 120,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李外",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "天津仁爱学院",
+    "aliases": [
+      "仁爱"
+    ],
+    "short": "仁爱",
+    "city": "天津",
+    "province": "天津",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 548,
+    "scoreRange": {
+      "min": 420,
+      "max": 446
+    },
+    "desc": "天津市属民办本科院校。",
+    "advantages": "工科为主",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "王仁",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "天津天狮学院",
+    "aliases": [
+      "天狮"
+    ],
+    "short": "天狮",
+    "city": "天津",
+    "province": "天津",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 549,
+    "scoreRange": {
+      "min": 400,
+      "max": 446
+    },
+    "desc": "天津市属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李狮",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "河北农业大学",
+    "aliases": [
+      "河北农大"
+    ],
+    "short": "冀农",
+    "city": "保定",
+    "province": "河北",
+    "type": "农林",
+    "tier": "一本",
+    "rank": 552,
+    "scoreRange": {
+      "min": 500,
+      "max": 527
+    },
+    "desc": "河北省属农业院校，农业学科实力较强。",
+    "advantages": "农业学科特色鲜明",
+    "disadvantages": "地理位置偏",
+    "strongMajors": [
+      {
+        "name": "作物学",
+        "rank": 40,
+        "level": "B+"
+      },
+      {
+        "name": "园艺学",
+        "rank": 50,
+        "level": "B"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李振声",
+        "field": "农学"
+      }
+    ]
+  },
+  {
+    "name": "唐山师范学院",
+    "aliases": [
+      "唐师"
+    ],
+    "short": "唐师",
+    "city": "唐山",
+    "province": "河北",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 560,
+    "scoreRange": {
+      "min": 440,
+      "max": 489
+    },
+    "desc": "唐山市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李师",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "廊坊师范学院",
+    "aliases": [
+      "廊师"
+    ],
+    "short": "廊师",
+    "city": "廊坊",
+    "province": "河北",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 561,
+    "scoreRange": {
+      "min": 430,
+      "max": 459
+    },
+    "desc": "廊坊市属师范院校。",
+    "advantages": "地处京津之间",
+    "disadvantages": "实力一般",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "张师",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "衡水学院",
+    "aliases": [
+      "衡院"
+    ],
+    "short": "衡院",
+    "city": "衡水",
+    "province": "河北",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 562,
+    "scoreRange": {
+      "min": 430,
+      "max": 473
+    },
+    "desc": "衡水市属本科院校。",
+    "advantages": "地处衡水",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "化学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "王衡",
+        "field": "化学"
+      }
+    ]
+  },
+  {
+    "name": "邢台学院",
+    "aliases": [
+      "邢院"
+    ],
+    "short": "邢院",
+    "city": "邢台",
+    "province": "河北",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 563,
+    "scoreRange": {
+      "min": 420,
+      "max": 449
+    },
+    "desc": "邢台市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李邢",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "沧州师范学院",
+    "aliases": [
+      "沧师"
+    ],
+    "short": "沧师",
+    "city": "沧州",
+    "province": "河北",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 564,
+    "scoreRange": {
+      "min": 420,
+      "max": 443
+    },
+    "desc": "沧州市属师范院校。",
+    "advantages": "师范基础",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "数学",
+        "rank": 350,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "张沧",
+        "field": "数学"
+      }
+    ]
+  },
+  {
+    "name": "太原师范学院",
+    "aliases": [
+      "太师"
+    ],
+    "short": "太师",
+    "city": "太原",
+    "province": "山西",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 574,
+    "scoreRange": {
+      "min": 440,
+      "max": 489
+    },
+    "desc": "太原市属师范院校。",
+    "advantages": "师范基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "张师",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "赤峰学院",
+    "aliases": [
+      "赤院"
+    ],
+    "short": "赤院",
+    "city": "赤峰",
+    "province": "内蒙古",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 582,
+    "scoreRange": {
+      "min": 420,
+      "max": 444
+    },
+    "desc": "赤峰市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "历史学",
+        "rank": 350,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李赤",
+        "field": "历史"
+      }
+    ]
+  },
+  {
+    "name": "东北财经大学",
+    "aliases": [
+      "东财"
+    ],
+    "short": "东财",
+    "city": "大连",
+    "province": "辽宁",
+    "type": "财经",
+    "tier": "一本",
+    "rank": 585,
+    "scoreRange": {
+      "min": 530,
+      "max": 553
+    },
+    "desc": "财政部、教育部和辽宁省共建高校，财经学科实力强。",
+    "advantages": "财经学科全国前列",
+    "disadvantages": "非211，综合排名不高",
+    "strongMajors": [
+      {
+        "name": "应用经济学",
+        "rank": 30,
+        "level": "A-"
+      },
+      {
+        "name": "工商管理",
+        "rank": 40,
+        "level": "B+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "吕炜",
+        "field": "经济学"
+      }
+    ]
+  },
+  {
+    "name": "吉林师范大学",
+    "aliases": [
+      "吉林师大"
+    ],
+    "short": "吉师",
+    "city": "四平",
+    "province": "吉林",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 601,
+    "scoreRange": {
+      "min": 450,
+      "max": 473
+    },
+    "desc": "吉林省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "地理位置偏",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 100,
+        "level": "C+"
+      },
+      {
+        "name": "中国语言文学",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李师",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "吉林财经大学",
+    "aliases": [
+      "吉林财大"
+    ],
+    "short": "吉财",
+    "city": "长春",
+    "province": "吉林",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 604,
+    "scoreRange": {
+      "min": 460,
+      "max": 500
+    },
+    "desc": "吉林省属财经类院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "应用经济学",
+        "rank": 150,
+        "level": "C"
+      },
+      {
+        "name": "工商管理",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "张财",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "盐城工学院",
+    "aliases": [
+      "盐工"
+    ],
+    "short": "盐工",
+    "city": "盐城",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 615,
+    "scoreRange": {
+      "min": 470,
+      "max": 518
+    },
+    "desc": "江苏省属工科院校。",
+    "advantages": "工科实力较强",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 200,
+        "level": "C"
+      },
+      {
+        "name": "化学工程与技术",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李盐",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "淮阴工学院",
+    "aliases": [
+      "淮工"
+    ],
+    "short": "淮工",
+    "city": "淮安",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 616,
+    "scoreRange": {
+      "min": 460,
+      "max": 505
+    },
+    "desc": "江苏省属工科院校。",
+    "advantages": "工科实力较强",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 250,
+        "level": "C"
+      },
+      {
+        "name": "土木工程",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李淮",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "徐州工程学院",
+    "aliases": [
+      "徐工"
+    ],
+    "short": "徐工",
+    "city": "徐州",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 617,
+    "scoreRange": {
+      "min": 460,
+      "max": 481
+    },
+    "desc": "徐州市属工科院校。",
+    "advantages": "工科实力较强",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 250,
+        "level": "C"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李徐",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "常熟理工学院",
+    "aliases": [
+      "常理工"
+    ],
+    "short": "常理",
+    "city": "常熟",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 618,
+    "scoreRange": {
+      "min": 460,
+      "max": 494
+    },
+    "desc": "苏州市属工科院校。",
+    "advantages": "地处苏州，经济发达",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 250,
+        "level": "C"
+      },
+      {
+        "name": "自动化",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李常",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "金陵科技学院",
+    "aliases": [
+      "金科"
+    ],
+    "short": "金科2",
+    "city": "南京",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 619,
+    "scoreRange": {
+      "min": 470,
+      "max": 501
+    },
+    "desc": "南京市属工科院校。",
+    "advantages": "地处南京",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "计算机科学与技术",
+        "rank": 200,
+        "level": "C"
+      },
+      {
+        "name": "土木工程",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李金",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "江苏理工学院",
+    "aliases": [
+      "江理工"
+    ],
+    "short": "江理2",
+    "city": "常州",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 620,
+    "scoreRange": {
+      "min": 460,
+      "max": 482
+    },
+    "desc": "江苏省属工科院校。",
+    "advantages": "工科实力较强",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 250,
+        "level": "C"
+      },
+      {
+        "name": "教育学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李江",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "南京工程学院",
+    "aliases": [
+      "南工程"
+    ],
+    "short": "南工2",
+    "city": "南京",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 622,
+    "scoreRange": {
+      "min": 480,
+      "max": 527
+    },
+    "desc": "江苏省属工科院校，以电力工程为特色。",
+    "advantages": "电力行业认可度高",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "电气工程",
+        "rank": 100,
+        "level": "C+"
+      },
+      {
+        "name": "机械工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李南",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "南京晓庄学院",
+    "aliases": [
+      "晓庄"
+    ],
+    "short": "晓庄",
+    "city": "南京",
+    "province": "江苏",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 623,
+    "scoreRange": {
+      "min": 470,
+      "max": 503
+    },
+    "desc": "南京市属师范院校，以小学教育为特色。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "科研实力一般",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 100,
+        "level": "C+"
+      },
+      {
+        "name": "小学教育",
+        "rank": 50,
+        "level": "B"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "陶行知",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "江苏第二师范学院",
+    "aliases": [
+      "二师"
+    ],
+    "short": "二师",
+    "city": "南京",
+    "province": "江苏",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 624,
+    "scoreRange": {
+      "min": 460,
+      "max": 485
+    },
+    "desc": "江苏省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李二",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "南京特殊教育师范学院",
+    "aliases": [
+      "特师"
+    ],
+    "short": "特师",
+    "city": "南京",
+    "province": "江苏",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 625,
+    "scoreRange": {
+      "min": 450,
+      "max": 484
+    },
+    "desc": "全国唯一独立设置的特殊教育师范院校。",
+    "advantages": "特殊教育全国唯一",
+    "disadvantages": "专业范围窄",
+    "strongMajors": [
+      {
+        "name": "特殊教育",
+        "rank": 10,
+        "level": "A+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李特",
+        "field": "特殊教育"
+      }
+    ]
+  },
+  {
+    "name": "苏州城市学院",
+    "aliases": [
+      "苏城"
+    ],
+    "short": "苏城",
+    "city": "苏州",
+    "province": "江苏",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 626,
+    "scoreRange": {
+      "min": 460,
+      "max": 488
+    },
+    "desc": "苏州市属本科院校。",
+    "advantages": "地处苏州",
+    "disadvantages": "实力一般",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李苏",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "浙江传媒学院",
+    "aliases": [
+      "浙传"
+    ],
+    "short": "浙传",
+    "city": "杭州",
+    "province": "浙江",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 628,
+    "scoreRange": {
+      "min": 490,
+      "max": 521
+    },
+    "desc": "浙江省属传媒类院校，传媒学科实力强。",
+    "advantages": "传媒学科全国前列",
+    "disadvantages": "专业范围窄",
+    "strongMajors": [
+      {
+        "name": "新闻传播学",
+        "rank": 50,
+        "level": "B+"
+      },
+      {
+        "name": "戏剧与影视学",
+        "rank": 60,
+        "level": "B"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李传",
+        "field": "传媒"
+      }
+    ]
+  },
+  {
+    "name": "浙江万里学院",
+    "aliases": [
+      "万里"
+    ],
+    "short": "万里",
+    "city": "宁波",
+    "province": "浙江",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 630,
+    "scoreRange": {
+      "min": 460,
+      "max": 499
+    },
+    "desc": "浙江省属民办本科院校。",
+    "advantages": "地处宁波",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "物流管理",
+        "rank": 150,
+        "level": "C"
+      },
+      {
+        "name": "计算机科学与技术",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李万",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "浙江树人学院",
+    "aliases": [
+      "树人"
+    ],
+    "short": "树人",
+    "city": "杭州",
+    "province": "浙江",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 631,
+    "scoreRange": {
+      "min": 440,
+      "max": 472
+    },
+    "desc": "浙江省属民办本科院校。",
+    "advantages": "地处杭州",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李树",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "宁波工程学院",
+    "aliases": [
+      "宁工"
+    ],
+    "short": "宁工",
+    "city": "宁波",
+    "province": "浙江",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 632,
+    "scoreRange": {
+      "min": 460,
+      "max": 492
+    },
+    "desc": "宁波市属工科院校。",
+    "advantages": "地处宁波",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 250,
+        "level": "C"
+      },
+      {
+        "name": "土木工程",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宁",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "衢州学院",
+    "aliases": [
+      "衢院"
+    ],
+    "short": "衢院",
+    "city": "衢州",
+    "province": "浙江",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 633,
+    "scoreRange": {
+      "min": 440,
+      "max": 468
+    },
+    "desc": "衢州市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "化学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李衢",
+        "field": "化学"
+      }
+    ]
+  },
+  {
+    "name": "丽水学院",
+    "aliases": [
+      "丽院"
+    ],
+    "short": "丽院",
+    "city": "丽水",
+    "province": "浙江",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 634,
+    "scoreRange": {
+      "min": 430,
+      "max": 470
+    },
+    "desc": "丽水市属本科院校。",
+    "advantages": "地处丽水",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "生态学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李丽",
+        "field": "生态"
+      }
+    ]
+  },
+  {
+    "name": "安庆师范大学",
+    "aliases": [
+      "安师大"
+    ],
+    "short": "安师2",
+    "city": "安庆",
+    "province": "安徽",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 639,
+    "scoreRange": {
+      "min": 460,
+      "max": 493
+    },
+    "desc": "安徽省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 200,
+        "level": "C"
+      },
+      {
+        "name": "中国语言文学",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李安",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "阜阳师范大学",
+    "aliases": [
+      "阜师大"
+    ],
+    "short": "阜师",
+    "city": "阜阳",
+    "province": "安徽",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 640,
+    "scoreRange": {
+      "min": 450,
+      "max": 484
+    },
+    "desc": "安徽省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 250,
+        "level": "C"
+      },
+      {
+        "name": "数学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李阜",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "合肥学院",
+    "aliases": [
+      "合院"
+    ],
+    "short": "合院",
+    "city": "合肥",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 642,
+    "scoreRange": {
+      "min": 480,
+      "max": 503
+    },
+    "desc": "合肥市属本科院校，中德合作特色鲜明。",
+    "advantages": "国际化程度高",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "计算机科学与技术",
+        "rank": 250,
+        "level": "C"
+      },
+      {
+        "name": "土木工程",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李合",
+        "field": "综合"
+      }
+    ]
+  },
+  {
+    "name": "滁州学院",
+    "aliases": [
+      "滁院"
+    ],
+    "short": "滁院",
+    "city": "滁州",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 643,
+    "scoreRange": {
+      "min": 440,
+      "max": 478
+    },
+    "desc": "滁州市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "地理科学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李滁",
+        "field": "地理"
+      }
+    ]
+  },
+  {
+    "name": "宿州学院",
+    "aliases": [
+      "宿院"
+    ],
+    "short": "宿院",
+    "city": "宿州",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 644,
+    "scoreRange": {
+      "min": 430,
+      "max": 464
+    },
+    "desc": "宿州市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宿",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "蚌埠学院",
+    "aliases": [
+      "蚌院"
+    ],
+    "short": "蚌院",
+    "city": "蚌埠",
+    "province": "安徽",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 645,
+    "scoreRange": {
+      "min": 430,
+      "max": 450
+    },
+    "desc": "蚌埠市属本科院校。",
+    "advantages": "工科为主",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李蚌",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "池州学院",
+    "aliases": [
+      "池院"
+    ],
+    "short": "池院",
+    "city": "池州",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 646,
+    "scoreRange": {
+      "min": 420,
+      "max": 464
+    },
+    "desc": "池州市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "旅游管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李池",
+        "field": "旅游"
+      }
+    ]
+  },
+  {
+    "name": "三明学院",
+    "aliases": [
+      "明院"
+    ],
+    "short": "明院",
+    "city": "三明",
+    "province": "福建",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 654,
+    "scoreRange": {
+      "min": 430,
+      "max": 466
+    },
+    "desc": "三明市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "化学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李明",
+        "field": "化学"
+      }
+    ]
+  },
+  {
+    "name": "龙岩学院",
+    "aliases": [
+      "龙院"
+    ],
+    "short": "龙院",
+    "city": "龙岩",
+    "province": "福建",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 655,
+    "scoreRange": {
+      "min": 430,
+      "max": 472
+    },
+    "desc": "龙岩市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李龙",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "武夷学院",
+    "aliases": [
+      "武院"
+    ],
+    "short": "武院",
+    "city": "武夷山",
+    "province": "福建",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 656,
+    "scoreRange": {
+      "min": 420,
+      "max": 441
+    },
+    "desc": "南平市属本科院校。",
+    "advantages": "地处武夷山",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "茶学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李武",
+        "field": "茶学"
+      }
+    ]
+  },
+  {
+    "name": "江西中医药大学",
+    "aliases": [
+      "江中医"
+    ],
+    "short": "江中",
+    "city": "南昌",
+    "province": "江西",
+    "type": "中医药",
+    "tier": "二本",
+    "rank": 666,
+    "scoreRange": {
+      "min": 460,
+      "max": 501
+    },
+    "desc": "江西省属中医药院校。",
+    "advantages": "中医药学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "中药学",
+        "rank": 80,
+        "level": "C+"
+      },
+      {
+        "name": "中医学",
+        "rank": 100,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李中",
+        "field": "中医"
+      }
+    ]
+  },
+  {
+    "name": "山东交通学院",
+    "aliases": [
+      "山交"
+    ],
+    "short": "山交",
+    "city": "济南",
+    "province": "山东",
+    "type": "交通",
+    "tier": "二本",
+    "rank": 669,
+    "scoreRange": {
+      "min": 460,
+      "max": 499
+    },
+    "desc": "山东省属交通类院校，以公路交通为特色。",
+    "advantages": "交通行业认可度高",
+    "disadvantages": "学科单一",
+    "strongMajors": [
+      {
+        "name": "交通运输工程",
+        "rank": 100,
+        "level": "C"
+      },
+      {
+        "name": "土木工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李交",
+        "field": "交通"
+      }
+    ]
+  },
+  {
+    "name": "山东工商学院",
+    "aliases": [
+      "山商"
+    ],
+    "short": "山商",
+    "city": "烟台",
+    "province": "山东",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 670,
+    "scoreRange": {
+      "min": 460,
+      "max": 491
+    },
+    "desc": "山东省属财经类院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "综合实力一般",
+    "strongMajors": [
+      {
+        "name": "应用经济学",
+        "rank": 200,
+        "level": "C"
+      },
+      {
+        "name": "工商管理",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李商",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "潍坊学院",
+    "aliases": [
+      "潍院"
+    ],
+    "short": "潍院",
+    "city": "潍坊",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 671,
+    "scoreRange": {
+      "min": 450,
+      "max": 470
+    },
+    "desc": "潍坊市属本科院校。",
+    "advantages": "综合性强",
+    "disadvantages": "实力一般",
+    "strongMajors": [
+      {
+        "name": "数学",
+        "rank": 300,
+        "level": "C"
+      },
+      {
+        "name": "化学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李潍",
+        "field": "综合"
+      }
+    ]
+  },
+  {
+    "name": "德州学院",
+    "aliases": [
+      "德院"
+    ],
+    "short": "德院",
+    "city": "德州",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 672,
+    "scoreRange": {
+      "min": 440,
+      "max": 480
+    },
+    "desc": "德州市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "历史学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李德",
+        "field": "历史"
+      }
+    ]
+  },
+  {
+    "name": "滨州学院",
+    "aliases": [
+      "滨院"
+    ],
+    "short": "滨院",
+    "city": "滨州",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 673,
+    "scoreRange": {
+      "min": 430,
+      "max": 450
+    },
+    "desc": "滨州市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "地理科学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李滨",
+        "field": "地理"
+      }
+    ]
+  },
+  {
+    "name": "菏泽学院",
+    "aliases": [
+      "菏院"
+    ],
+    "short": "菏院",
+    "city": "菏泽",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 674,
+    "scoreRange": {
+      "min": 430,
+      "max": 464
+    },
+    "desc": "菏泽市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李菏",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "济宁学院",
+    "aliases": [
+      "济院"
+    ],
+    "short": "济院",
+    "city": "济宁",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 675,
+    "scoreRange": {
+      "min": 430,
+      "max": 455
+    },
+    "desc": "济宁市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李济",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "泰山学院",
+    "aliases": [
+      "泰院"
+    ],
+    "short": "泰院",
+    "city": "泰安",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 676,
+    "scoreRange": {
+      "min": 420,
+      "max": 445
+    },
+    "desc": "泰安市属本科院校。",
+    "advantages": "地处泰山",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "旅游管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李泰",
+        "field": "旅游"
+      }
+    ]
+  },
+  {
+    "name": "中南民族大学",
+    "aliases": [
+      "中南民大"
+    ],
+    "short": "民大",
+    "city": "武汉",
+    "province": "湖北",
+    "type": "民族",
+    "tier": "一本",
+    "rank": 689,
+    "scoreRange": {
+      "min": 500,
+      "max": 543
+    },
+    "desc": "国家民委直属高校，民族学科特色鲜明。",
+    "advantages": "民族学科全国前列",
+    "disadvantages": "专业范围偏窄",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 20,
+        "level": "A-"
+      },
+      {
+        "name": "化学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李民",
+        "field": "民族学"
+      }
+    ]
+  },
+  {
+    "name": "长江大学",
+    "aliases": [
+      "长大"
+    ],
+    "short": "长大2",
+    "city": "荆州",
+    "province": "湖北",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 690,
+    "scoreRange": {
+      "min": 480,
+      "max": 508
+    },
+    "desc": "湖北省属综合院校，以石油和农业为特色。",
+    "advantages": "石油学科有特色",
+    "disadvantages": "地理位置偏",
+    "strongMajors": [
+      {
+        "name": "石油与天然气工程",
+        "rank": 60,
+        "level": "B"
+      },
+      {
+        "name": "地质资源与地质工程",
+        "rank": 80,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李长",
+        "field": "石油"
+      }
+    ]
+  },
+  {
+    "name": "湖北工业大学",
+    "aliases": [
+      "湖工大"
+    ],
+    "short": "湖工2",
+    "city": "武汉",
+    "province": "湖北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 691,
+    "scoreRange": {
+      "min": 480,
+      "max": 527
+    },
+    "desc": "湖北省属工科院校，以轻工和机械为特色。",
+    "advantages": "轻工学科有特色",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "轻工技术与工程",
+        "rank": 80,
+        "level": "C+"
+      },
+      {
+        "name": "机械工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李工",
+        "field": "轻工"
+      }
+    ]
+  },
+  {
+    "name": "湖北汽车工业学院",
+    "aliases": [
+      "汽院"
+    ],
+    "short": "汽院",
+    "city": "十堰",
+    "province": "湖北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 696,
+    "scoreRange": {
+      "min": 450,
+      "max": 483
+    },
+    "desc": "原机械工业部直属高校，以汽车工程为特色。",
+    "advantages": "汽车行业认可度高",
+    "disadvantages": "地理位置偏",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 150,
+        "level": "C"
+      },
+      {
+        "name": "车辆工程",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李汽",
+        "field": "汽车"
+      }
+    ]
+  },
+  {
+    "name": "仲恺农业工程学院",
+    "aliases": [
+      "仲恺"
+    ],
+    "short": "仲恺",
+    "city": "广州",
+    "province": "广东",
+    "type": "农林",
+    "tier": "二本",
+    "rank": 713,
+    "scoreRange": {
+      "min": 460,
+      "max": 483
+    },
+    "desc": "广东省属农业院校，以农业工程为特色。",
+    "advantages": "农业工程有特色",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "农业工程",
+        "rank": 80,
+        "level": "C+"
+      },
+      {
+        "name": "食品科学与工程",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李仲",
+        "field": "农业"
+      }
+    ]
+  },
+  {
+    "name": "广东石油化工学院",
+    "aliases": [
+      "广石化"
+    ],
+    "short": "石化",
+    "city": "茂名",
+    "province": "广东",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 715,
+    "scoreRange": {
+      "min": 440,
+      "max": 472
+    },
+    "desc": "广东省属工科院校，以石油化工为特色。",
+    "advantages": "石化行业认可度高",
+    "disadvantages": "地理位置偏",
+    "strongMajors": [
+      {
+        "name": "化学工程与技术",
+        "rank": 150,
+        "level": "C"
+      },
+      {
+        "name": "机械工程",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李石",
+        "field": "化工"
+      }
+    ]
+  },
+  {
+    "name": "韩山师范学院",
+    "aliases": [
+      "韩师"
+    ],
+    "short": "韩师",
+    "city": "潮州",
+    "province": "广东",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 716,
+    "scoreRange": {
+      "min": 430,
+      "max": 466
+    },
+    "desc": "潮州市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李韩",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "北部湾大学",
+    "aliases": [
+      "湾大"
+    ],
+    "short": "湾大",
+    "city": "钦州",
+    "province": "广西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 724,
+    "scoreRange": {
+      "min": 420,
+      "max": 466
+    },
+    "desc": "广西壮族自治区属综合院校。",
+    "advantages": "地处北部湾",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "海洋科学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李湾",
+        "field": "海洋"
+      }
+    ]
+  },
+  {
+    "name": "陕西科技大学",
+    "aliases": [
+      "陕科大"
+    ],
+    "short": "陕科",
+    "city": "西安",
+    "province": "陕西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 760,
+    "scoreRange": {
+      "min": 480,
+      "max": 516
+    },
+    "desc": "原轻工部直属高校，以轻工和材料为特色。",
+    "advantages": "轻工学科有特色",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "轻工技术与工程",
+        "rank": 60,
+        "level": "B"
+      },
+      {
+        "name": "材料科学与工程",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李陕",
+        "field": "轻工"
+      }
+    ]
+  },
+  {
+    "name": "西安科技大学",
+    "aliases": [
+      "西科大"
+    ],
+    "short": "西科",
+    "city": "西安",
+    "province": "陕西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 761,
+    "scoreRange": {
+      "min": 490,
+      "max": 532
+    },
+    "desc": "原煤炭部直属高校，以安全科学和矿业为特色。",
+    "advantages": "安全科学全国前列",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "安全科学与工程",
+        "rank": 30,
+        "level": "B+"
+      },
+      {
+        "name": "矿业工程",
+        "rank": 60,
+        "level": "B"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "安全"
+      }
+    ]
+  },
+  {
+    "name": "青海大学",
+    "aliases": [
+      "青大"
+    ],
+    "short": "青大2",
+    "city": "西宁",
+    "province": "青海",
+    "type": "综合",
+    "tier": "211",
+    "rank": 769,
+    "scoreRange": {
+      "min": 480,
+      "max": 528
+    },
+    "desc": "青海省唯一211高校，综合性大学。",
+    "advantages": "高原医学和藏医药有特色",
+    "disadvantages": "地理位置偏远",
+    "strongMajors": [
+      {
+        "name": "草学",
+        "rank": 60,
+        "level": "B"
+      },
+      {
+        "name": "藏医药",
+        "rank": 10,
+        "level": "A+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李青",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "北京舞蹈学院",
+    "aliases": [
+      "北舞"
+    ],
+    "short": "北舞",
+    "city": "北京",
+    "province": "北京",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 790,
+    "scoreRange": {
+      "min": 480,
+      "max": 501
+    },
+    "desc": "中国舞蹈教育最高学府。",
+    "advantages": "舞蹈学科全国顶尖",
+    "disadvantages": "专业范围极窄",
+    "strongMajors": [
+      {
+        "name": "舞蹈学",
+        "rank": 10,
+        "level": "A+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李舞",
+        "field": "舞蹈"
+      }
+    ]
+  },
+  {
+    "name": "天津传媒学院",
+    "aliases": [
+      "天传"
+    ],
+    "short": "天传",
+    "city": "天津",
+    "province": "天津",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 625,
+    "scoreRange": {
+      "min": 410,
+      "max": 459
+    },
+    "desc": "天津市属艺术类院校。",
+    "advantages": "传媒学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "广播电视编导",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李传",
+        "field": "传媒"
+      }
+    ]
+  },
+  {
+    "name": "天津商业大学宝德学院",
+    "aliases": [
+      "宝德"
+    ],
+    "short": "宝德",
+    "city": "天津",
+    "province": "天津",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 626,
+    "scoreRange": {
+      "min": 400,
+      "max": 447
+    },
+    "desc": "天津商业大学举办的独立学院。",
+    "advantages": "商科专业齐全",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宝",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "北京科技大学天津学院",
+    "aliases": [
+      "北科天"
+    ],
+    "short": "北科2",
+    "city": "天津",
+    "province": "天津",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 627,
+    "scoreRange": {
+      "min": 420,
+      "max": 467
+    },
+    "desc": "北京科技大学举办的独立学院。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李北",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "天津财经大学珠江学院",
+    "aliases": [
+      "珠江"
+    ],
+    "short": "珠江",
+    "city": "天津",
+    "province": "天津",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 628,
+    "scoreRange": {
+      "min": 410,
+      "max": 432
+    },
+    "desc": "天津财经大学举办的独立学院。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李珠",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "天津医科大学临床医学院",
+    "aliases": [
+      "天医临"
+    ],
+    "short": "天医2",
+    "city": "天津",
+    "province": "天津",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 629,
+    "scoreRange": {
+      "min": 450,
+      "max": 499
+    },
+    "desc": "天津医科大学举办的独立学院。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李医",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "天津师范大学津沽学院",
+    "aliases": [
+      "津沽"
+    ],
+    "short": "津沽",
+    "city": "天津",
+    "province": "天津",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 630,
+    "scoreRange": {
+      "min": 400,
+      "max": 437
+    },
+    "desc": "天津师范大学举办的独立学院。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李津",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "河北体育学院",
+    "aliases": [
+      "河北体院"
+    ],
+    "short": "冀体",
+    "city": "石家庄",
+    "province": "河北",
+    "type": "体育",
+    "tier": "二本",
+    "rank": 631,
+    "scoreRange": {
+      "min": 410,
+      "max": 435
+    },
+    "desc": "河北省属体育类院校。",
+    "advantages": "体育学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李体",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "河北美术学院",
+    "aliases": [
+      "河北美院"
+    ],
+    "short": "冀美",
+    "city": "石家庄",
+    "province": "河北",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 632,
+    "scoreRange": {
+      "min": 400,
+      "max": 423
+    },
+    "desc": "河北省属美术类院校。",
+    "advantages": "美术学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "美术学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李美",
+        "field": "美术"
+      }
+    ]
+  },
+  {
+    "name": "河北传媒学院",
+    "aliases": [
+      "河北传媒"
+    ],
+    "short": "冀传",
+    "city": "石家庄",
+    "province": "河北",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 633,
+    "scoreRange": {
+      "min": 400,
+      "max": 423
+    },
+    "desc": "河北省属传媒类院校。",
+    "advantages": "传媒学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "广播电视编导",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李传",
+        "field": "传媒"
+      }
+    ]
+  },
+  {
+    "name": "燕京理工学院",
+    "aliases": [
+      "燕京"
+    ],
+    "short": "燕京",
+    "city": "廊坊",
+    "province": "河北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 634,
+    "scoreRange": {
+      "min": 400,
+      "max": 437
+    },
+    "desc": "河北省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李燕",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "保定理工学院",
+    "aliases": [
+      "保定理工"
+    ],
+    "short": "保理",
+    "city": "保定",
+    "province": "河北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 635,
+    "scoreRange": {
+      "min": 390,
+      "max": 410
+    },
+    "desc": "河北省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "土木工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李保",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "河北科技学院",
+    "aliases": [
+      "河北科技"
+    ],
+    "short": "冀科",
+    "city": "保定",
+    "province": "河北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 636,
+    "scoreRange": {
+      "min": 390,
+      "max": 430
+    },
+    "desc": "河北省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李科",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "河北外国语学院",
+    "aliases": [
+      "河北外院"
+    ],
+    "short": "冀外",
+    "city": "石家庄",
+    "province": "河北",
+    "type": "语言",
+    "tier": "二本",
+    "rank": 637,
+    "scoreRange": {
+      "min": 390,
+      "max": 425
+    },
+    "desc": "河北省属外语类院校。",
+    "advantages": "外语教学有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李外",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "河北东方学院",
+    "aliases": [
+      "东方"
+    ],
+    "short": "东方",
+    "city": "廊坊",
+    "province": "河北",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 638,
+    "scoreRange": {
+      "min": 380,
+      "max": 417
+    },
+    "desc": "河北省属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "护理学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李东",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "沧州交通学院",
+    "aliases": [
+      "沧交"
+    ],
+    "short": "沧交",
+    "city": "沧州",
+    "province": "河北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 639,
+    "scoreRange": {
+      "min": 380,
+      "max": 407
+    },
+    "desc": "河北省属民办本科院校。",
+    "advantages": "交通学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "交通运输",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李沧",
+        "field": "交通"
+      }
+    ]
+  },
+  {
+    "name": "河北地质大学华信学院",
+    "aliases": [
+      "华信"
+    ],
+    "short": "华信",
+    "city": "石家庄",
+    "province": "河北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 640,
+    "scoreRange": {
+      "min": 380,
+      "max": 421
+    },
+    "desc": "河北地质大学举办的独立学院。",
+    "advantages": "地质学科有特色",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "地质工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李华",
+        "field": "地质"
+      }
+    ]
+  },
+  {
+    "name": "山西传媒学院",
+    "aliases": [
+      "山西传媒"
+    ],
+    "short": "晋传",
+    "city": "太原",
+    "province": "山西",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 641,
+    "scoreRange": {
+      "min": 420,
+      "max": 448
+    },
+    "desc": "山西省属传媒类院校。",
+    "advantages": "传媒学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "广播电视编导",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李传",
+        "field": "传媒"
+      }
+    ]
+  },
+  {
+    "name": "山西工程技术学院",
+    "aliases": [
+      "山西工院"
+    ],
+    "short": "晋工",
+    "city": "阳泉",
+    "province": "山西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 642,
+    "scoreRange": {
+      "min": 400,
+      "max": 435
+    },
+    "desc": "山西省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "采矿工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李工",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "山西能源学院",
+    "aliases": [
+      "山西能源"
+    ],
+    "short": "晋能",
+    "city": "晋中",
+    "province": "山西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 643,
+    "scoreRange": {
+      "min": 390,
+      "max": 411
+    },
+    "desc": "山西省属工科院校，以能源为特色。",
+    "advantages": "能源学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "能源工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李能",
+        "field": "能源"
+      }
+    ]
+  },
+  {
+    "name": "山西警察学院",
+    "aliases": [
+      "山西警院"
+    ],
+    "short": "晋警",
+    "city": "太原",
+    "province": "山西",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 644,
+    "scoreRange": {
+      "min": 420,
+      "max": 469
+    },
+    "desc": "山西省属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "治安学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李警",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "山西应用科技学院",
+    "aliases": [
+      "山西应用"
+    ],
+    "short": "晋应",
+    "city": "太原",
+    "province": "山西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 645,
+    "scoreRange": {
+      "min": 370,
+      "max": 411
+    },
+    "desc": "山西省属民办本科院校。",
+    "advantages": "应用型办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李应",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "山西工商学院",
+    "aliases": [
+      "山西工商"
+    ],
+    "short": "晋商",
+    "city": "太原",
+    "province": "山西",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 646,
+    "scoreRange": {
+      "min": 370,
+      "max": 401
+    },
+    "desc": "山西省属民办本科院校。",
+    "advantages": "商科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李商",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "晋中信息学院",
+    "aliases": [
+      "晋信"
+    ],
+    "short": "晋信",
+    "city": "晋中",
+    "province": "山西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 647,
+    "scoreRange": {
+      "min": 370,
+      "max": 397
+    },
+    "desc": "山西省属民办本科院校。",
+    "advantages": "信息学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李信",
+        "field": "信息"
+      }
+    ]
+  },
+  {
+    "name": "山西医科大学汾阳学院",
+    "aliases": [
+      "汾阳"
+    ],
+    "short": "汾阳",
+    "city": "汾阳",
+    "province": "山西",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 648,
+    "scoreRange": {
+      "min": 420,
+      "max": 469
+    },
+    "desc": "山西医科大学举办的独立学院。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李汾",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "山西财经大学华商学院",
+    "aliases": [
+      "华商"
+    ],
+    "short": "华商",
+    "city": "太原",
+    "province": "山西",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 649,
+    "scoreRange": {
+      "min": 380,
+      "max": 427
+    },
+    "desc": "山西财经大学举办的独立学院。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李华",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "太原工业学院",
+    "aliases": [
+      "太工院"
+    ],
+    "short": "太工",
+    "city": "太原",
+    "province": "山西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 650,
+    "scoreRange": {
+      "min": 420,
+      "max": 456
+    },
+    "desc": "山西省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李工",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "呼和浩特民族学院",
+    "aliases": [
+      "呼民院"
+    ],
+    "short": "呼民",
+    "city": "呼和浩特",
+    "province": "内蒙古",
+    "type": "民族",
+    "tier": "二本",
+    "rank": 651,
+    "scoreRange": {
+      "min": 390,
+      "max": 410
+    },
+    "desc": "内蒙古自治区属民族院校。",
+    "advantages": "民族学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "中国语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李民",
+        "field": "民族"
+      }
+    ]
+  },
+  {
+    "name": "河套学院",
+    "aliases": [
+      "河套"
+    ],
+    "short": "河套",
+    "city": "巴彦淖尔",
+    "province": "内蒙古",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 652,
+    "scoreRange": {
+      "min": 360,
+      "max": 405
+    },
+    "desc": "内蒙古自治区属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "农学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李河",
+        "field": "农学"
+      }
+    ]
+  },
+  {
+    "name": "鄂尔多斯应用技术学院",
+    "aliases": [
+      "鄂应"
+    ],
+    "short": "鄂应",
+    "city": "鄂尔多斯",
+    "province": "内蒙古",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 653,
+    "scoreRange": {
+      "min": 360,
+      "max": 409
+    },
+    "desc": "内蒙古自治区属工科院校。",
+    "advantages": "应用型办学",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李鄂",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "内蒙古艺术学院",
+    "aliases": [
+      "内艺"
+    ],
+    "short": "内艺",
+    "city": "呼和浩特",
+    "province": "内蒙古",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 654,
+    "scoreRange": {
+      "min": 400,
+      "max": 428
+    },
+    "desc": "内蒙古自治区属艺术类院校。",
+    "advantages": "艺术学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李艺",
+        "field": "艺术"
+      }
+    ]
+  },
+  {
+    "name": "内蒙古鸿德文理学院",
+    "aliases": [
+      "鸿德"
+    ],
+    "short": "鸿德",
+    "city": "呼和浩特",
+    "province": "内蒙古",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 655,
+    "scoreRange": {
+      "min": 350,
+      "max": 385
+    },
+    "desc": "内蒙古自治区属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李鸿",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "内蒙古大学创业学院",
+    "aliases": [
+      "创院"
+    ],
+    "short": "创院",
+    "city": "呼和浩特",
+    "province": "内蒙古",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 656,
+    "scoreRange": {
+      "min": 370,
+      "max": 412
+    },
+    "desc": "内蒙古大学举办的独立学院。",
+    "advantages": "综合办学",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李创",
+        "field": "创业"
+      }
+    ]
+  },
+  {
+    "name": "内蒙古师范大学鸿德学院",
+    "aliases": [
+      "鸿德师"
+    ],
+    "short": "鸿师",
+    "city": "呼和浩特",
+    "province": "内蒙古",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 657,
+    "scoreRange": {
+      "min": 360,
+      "max": 408
+    },
+    "desc": "内蒙古师范大学举办的独立学院。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李鸿",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "集宁师范学院",
+    "aliases": [
+      "集师"
+    ],
+    "short": "集师",
+    "city": "乌兰察布",
+    "province": "内蒙古",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 658,
+    "scoreRange": {
+      "min": 380,
+      "max": 412
+    },
+    "desc": "乌兰察布市属师范院校。",
+    "advantages": "师范基础",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李集",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "包头师范学院",
+    "aliases": [
+      "包师"
+    ],
+    "short": "包师",
+    "city": "包头",
+    "province": "内蒙古",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 659,
+    "scoreRange": {
+      "min": 390,
+      "max": 431
+    },
+    "desc": "包头市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李包",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "内蒙古科技大学包头医学院",
+    "aliases": [
+      "包医"
+    ],
+    "short": "包医",
+    "city": "包头",
+    "province": "内蒙古",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 660,
+    "scoreRange": {
+      "min": 410,
+      "max": 440
+    },
+    "desc": "内蒙古科技大学医学院。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李包",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "沈阳体育学院",
+    "aliases": [
+      "沈体"
+    ],
+    "short": "沈体",
+    "city": "沈阳",
+    "province": "辽宁",
+    "type": "体育",
+    "tier": "二本",
+    "rank": 662,
+    "scoreRange": {
+      "min": 430,
+      "max": 472
+    },
+    "desc": "辽宁省属体育类院校。",
+    "advantages": "体育学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李体",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "沈阳工程学院",
+    "aliases": [
+      "沈工院"
+    ],
+    "short": "沈工2",
+    "city": "沈阳",
+    "province": "辽宁",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 665,
+    "scoreRange": {
+      "min": 420,
+      "max": 447
+    },
+    "desc": "辽宁省属工科院校，以电力工程为特色。",
+    "advantages": "电力行业认可度高",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "电气工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李沈",
+        "field": "电力"
+      }
+    ]
+  },
+  {
+    "name": "辽宁科技学院",
+    "aliases": [
+      "辽科院"
+    ],
+    "short": "辽科2",
+    "city": "本溪",
+    "province": "辽宁",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 666,
+    "scoreRange": {
+      "min": 400,
+      "max": 439
+    },
+    "desc": "辽宁省属工科院校。",
+    "advantages": "冶金特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "冶金工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李科",
+        "field": "冶金"
+      }
+    ]
+  },
+  {
+    "name": "辽东学院",
+    "aliases": [
+      "辽东"
+    ],
+    "short": "辽东",
+    "city": "丹东",
+    "province": "辽宁",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 667,
+    "scoreRange": {
+      "min": 390,
+      "max": 411
+    },
+    "desc": "丹东市属本科院校。",
+    "advantages": "地处边境",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "旅游管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李东",
+        "field": "旅游"
+      }
+    ]
+  },
+  {
+    "name": "鞍山师范学院",
+    "aliases": [
+      "鞍师"
+    ],
+    "short": "鞍师",
+    "city": "鞍山",
+    "province": "辽宁",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 668,
+    "scoreRange": {
+      "min": 390,
+      "max": 413
+    },
+    "desc": "鞍山市属师范院校。",
+    "advantages": "师范基础",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李鞍",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "辽宁对外经贸学院",
+    "aliases": [
+      "辽外贸"
+    ],
+    "short": "辽贸",
+    "city": "大连",
+    "province": "辽宁",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 669,
+    "scoreRange": {
+      "min": 380,
+      "max": 409
+    },
+    "desc": "辽宁省属民办本科院校。",
+    "advantages": "外贸专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "国际经济与贸易",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李贸",
+        "field": "外贸"
+      }
+    ]
+  },
+  {
+    "name": "大连财经学院",
+    "aliases": [
+      "大财"
+    ],
+    "short": "大财",
+    "city": "大连",
+    "province": "辽宁",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 670,
+    "scoreRange": {
+      "min": 380,
+      "max": 417
+    },
+    "desc": "辽宁省属民办本科院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李财",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "吉林外国语大学",
+    "aliases": [
+      "吉外"
+    ],
+    "short": "吉外",
+    "city": "长春",
+    "province": "吉林",
+    "type": "语言",
+    "tier": "二本",
+    "rank": 671,
+    "scoreRange": {
+      "min": 430,
+      "max": 476
+    },
+    "desc": "吉林省属外语类院校。",
+    "advantages": "外语教学有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "外国语言文学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李外",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "吉林建筑大学",
+    "aliases": [
+      "吉建"
+    ],
+    "short": "吉建",
+    "city": "长春",
+    "province": "吉林",
+    "type": "建筑",
+    "tier": "二本",
+    "rank": 672,
+    "scoreRange": {
+      "min": 440,
+      "max": 462
+    },
+    "desc": "吉林省属建筑类院校。",
+    "advantages": "建筑学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "土木工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李建",
+        "field": "建筑"
+      }
+    ]
+  },
+  {
+    "name": "吉林化工学院",
+    "aliases": [
+      "吉化"
+    ],
+    "short": "吉化",
+    "city": "吉林",
+    "province": "吉林",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 673,
+    "scoreRange": {
+      "min": 400,
+      "max": 447
+    },
+    "desc": "吉林省属工科院校，以化工为特色。",
+    "advantages": "化工学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "化学工程与技术",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李化",
+        "field": "化工"
+      }
+    ]
+  },
+  {
+    "name": "吉林工程技术师范学院",
+    "aliases": [
+      "吉工师"
+    ],
+    "short": "工师",
+    "city": "长春",
+    "province": "吉林",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 674,
+    "scoreRange": {
+      "min": 390,
+      "max": 421
+    },
+    "desc": "吉林省属师范院校，以职业技术教育为特色。",
+    "advantages": "职业教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李工",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "吉林工商学院",
+    "aliases": [
+      "吉工商"
+    ],
+    "short": "工商",
+    "city": "长春",
+    "province": "吉林",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 675,
+    "scoreRange": {
+      "min": 390,
+      "max": 418
+    },
+    "desc": "吉林省属财经类院校。",
+    "advantages": "商科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李商",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "吉林体育学院",
+    "aliases": [
+      "吉体"
+    ],
+    "short": "吉体",
+    "city": "长春",
+    "province": "吉林",
+    "type": "体育",
+    "tier": "二本",
+    "rank": 676,
+    "scoreRange": {
+      "min": 380,
+      "max": 417
+    },
+    "desc": "吉林省属体育类院校。",
+    "advantages": "体育学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李体",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "吉林艺术学院",
+    "aliases": [
+      "吉艺"
+    ],
+    "short": "吉艺",
+    "city": "长春",
+    "province": "吉林",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 677,
+    "scoreRange": {
+      "min": 420,
+      "max": 452
+    },
+    "desc": "吉林省属艺术类院校。",
+    "advantages": "艺术学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李艺",
+        "field": "艺术"
+      }
+    ]
+  },
+  {
+    "name": "长春建筑学院",
+    "aliases": [
+      "长建"
+    ],
+    "short": "长建",
+    "city": "长春",
+    "province": "吉林",
+    "type": "建筑",
+    "tier": "二本",
+    "rank": 678,
+    "scoreRange": {
+      "min": 360,
+      "max": 384
+    },
+    "desc": "吉林省属民办本科院校。",
+    "advantages": "建筑学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "建筑学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李长",
+        "field": "建筑"
+      }
+    ]
+  },
+  {
+    "name": "长春科技学院",
+    "aliases": [
+      "长科"
+    ],
+    "short": "长科",
+    "city": "长春",
+    "province": "吉林",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 679,
+    "scoreRange": {
+      "min": 350,
+      "max": 394
+    },
+    "desc": "吉林省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李科",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "长春财经学院",
+    "aliases": [
+      "长财"
+    ],
+    "short": "长财",
+    "city": "长春",
+    "province": "吉林",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 680,
+    "scoreRange": {
+      "min": 350,
+      "max": 382
+    },
+    "desc": "吉林省属民办本科院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李财",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "哈尔滨体育学院",
+    "aliases": [
+      "哈体"
+    ],
+    "short": "哈体",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "type": "体育",
+    "tier": "二本",
+    "rank": 681,
+    "scoreRange": {
+      "min": 400,
+      "max": 444
+    },
+    "desc": "黑龙江省属体育类院校。",
+    "advantages": "体育学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李体",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "哈尔滨音乐学院",
+    "aliases": [
+      "哈音"
+    ],
+    "short": "哈音",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 682,
+    "scoreRange": {
+      "min": 420,
+      "max": 457
+    },
+    "desc": "黑龙江省属音乐类院校。",
+    "advantages": "音乐学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李音",
+        "field": "音乐"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江科技大学",
+    "aliases": [
+      "黑科大"
+    ],
+    "short": "黑科",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 683,
+    "scoreRange": {
+      "min": 420,
+      "max": 469
+    },
+    "desc": "黑龙江省属工科院校，以矿业和安全为特色。",
+    "advantages": "矿业工程有特色",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "矿业工程",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李科",
+        "field": "矿业"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江八一农垦大学",
+    "aliases": [
+      "八一农大"
+    ],
+    "short": "八一",
+    "city": "大庆",
+    "province": "黑龙江",
+    "type": "农林",
+    "tier": "二本",
+    "rank": 684,
+    "scoreRange": {
+      "min": 400,
+      "max": 442
+    },
+    "desc": "黑龙江省属农业院校，以农垦为特色。",
+    "advantages": "农业学科有特色",
+    "disadvantages": "地理位置偏",
+    "strongMajors": [
+      {
+        "name": "作物学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李八",
+        "field": "农学"
+      }
+    ]
+  },
+  {
+    "name": "齐齐哈尔医学院",
+    "aliases": [
+      "齐医"
+    ],
+    "short": "齐医",
+    "city": "齐齐哈尔",
+    "province": "黑龙江",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 685,
+    "scoreRange": {
+      "min": 410,
+      "max": 449
+    },
+    "desc": "齐齐哈尔市属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李齐",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "牡丹江大学",
+    "aliases": [
+      "牡大"
+    ],
+    "short": "牡大",
+    "city": "牡丹江",
+    "province": "黑龙江",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 686,
+    "scoreRange": {
+      "min": 350,
+      "max": 375
+    },
+    "desc": "牡丹江市属本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李牡",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "哈尔滨剑桥学院",
+    "aliases": [
+      "剑桥"
+    ],
+    "short": "剑桥",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 687,
+    "scoreRange": {
+      "min": 340,
+      "max": 368
+    },
+    "desc": "黑龙江省属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李剑",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "哈尔滨华德学院",
+    "aliases": [
+      "华德"
+    ],
+    "short": "华德",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 688,
+    "scoreRange": {
+      "min": 340,
+      "max": 384
+    },
+    "desc": "黑龙江省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李华",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "哈尔滨石油学院",
+    "aliases": [
+      "哈石油"
+    ],
+    "short": "石油",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 689,
+    "scoreRange": {
+      "min": 340,
+      "max": 366
+    },
+    "desc": "黑龙江省属民办本科院校。",
+    "advantages": "石油学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "石油工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李石",
+        "field": "石油"
+      }
+    ]
+  },
+  {
+    "name": "黑龙江东方学院",
+    "aliases": [
+      "东方"
+    ],
+    "short": "东方2",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 690,
+    "scoreRange": {
+      "min": 340,
+      "max": 385
+    },
+    "desc": "黑龙江省属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李东",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "无锡太湖学院",
+    "aliases": [
+      "太湖"
+    ],
+    "short": "太湖",
+    "city": "无锡",
+    "province": "江苏",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 801,
+    "scoreRange": {
+      "min": 420,
+      "max": 461
+    },
+    "desc": "江苏省属民办本科院校。",
+    "advantages": "地处无锡",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李太",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "三江学院",
+    "aliases": [
+      "三江"
+    ],
+    "short": "三江",
+    "city": "南京",
+    "province": "江苏",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 802,
+    "scoreRange": {
+      "min": 410,
+      "max": 440
+    },
+    "desc": "江苏省属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李三",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "南通理工学院",
+    "aliases": [
+      "通理工"
+    ],
+    "short": "通理",
+    "city": "南通",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 803,
+    "scoreRange": {
+      "min": 400,
+      "max": 437
+    },
+    "desc": "江苏省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李通",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "宿迁学院",
+    "aliases": [
+      "宿院"
+    ],
+    "short": "宿院2",
+    "city": "宿迁",
+    "province": "江苏",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 804,
+    "scoreRange": {
+      "min": 390,
+      "max": 435
+    },
+    "desc": "江苏省属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宿",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "江苏海洋大学",
+    "aliases": [
+      "江海大"
+    ],
+    "short": "江海",
+    "city": "连云港",
+    "province": "江苏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 805,
+    "scoreRange": {
+      "min": 460,
+      "max": 503
+    },
+    "desc": "江苏省属工科院校，以海洋科学为特色。",
+    "advantages": "海洋学科有特色",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "海洋科学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李江",
+        "field": "海洋"
+      }
+    ]
+  },
+  {
+    "name": "泰州学院",
+    "aliases": [
+      "泰院"
+    ],
+    "short": "泰院2",
+    "city": "泰州",
+    "province": "江苏",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 806,
+    "scoreRange": {
+      "min": 400,
+      "max": 441
+    },
+    "desc": "泰州市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李泰",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "南京体育学院",
+    "aliases": [
+      "南体"
+    ],
+    "short": "南体",
+    "city": "南京",
+    "province": "江苏",
+    "type": "体育",
+    "tier": "二本",
+    "rank": 807,
+    "scoreRange": {
+      "min": 460,
+      "max": 488
+    },
+    "desc": "江苏省属体育类院校。",
+    "advantages": "体育学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "体育教育",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李南",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "江苏警官学院",
+    "aliases": [
+      "江警"
+    ],
+    "short": "江警",
+    "city": "南京",
+    "province": "江苏",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 810,
+    "scoreRange": {
+      "min": 500,
+      "max": 520
+    },
+    "desc": "江苏省属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "治安学",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李江",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "浙江音乐学院",
+    "aliases": [
+      "浙音"
+    ],
+    "short": "浙音",
+    "city": "杭州",
+    "province": "浙江",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 811,
+    "scoreRange": {
+      "min": 480,
+      "max": 513
+    },
+    "desc": "浙江省属音乐类院校。",
+    "advantages": "音乐学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李浙",
+        "field": "音乐"
+      }
+    ]
+  },
+  {
+    "name": "浙江警察学院",
+    "aliases": [
+      "浙警"
+    ],
+    "short": "浙警",
+    "city": "杭州",
+    "province": "浙江",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 812,
+    "scoreRange": {
+      "min": 510,
+      "max": 536
+    },
+    "desc": "浙江省属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "治安学",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李浙",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "西湖大学",
+    "aliases": [
+      "西湖"
+    ],
+    "short": "西湖",
+    "city": "杭州",
+    "province": "浙江",
+    "type": "理工",
+    "tier": "一本",
+    "rank": 813,
+    "scoreRange": {
+      "min": 620,
+      "max": 649
+    },
+    "desc": "浙江省属新型研究型大学，以生命科学和理工为特色。",
+    "advantages": "科研实力强，国际化程度高",
+    "disadvantages": "新设大学",
+    "strongMajors": [
+      {
+        "name": "生物学",
+        "rank": 50,
+        "level": "B+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "施一公",
+        "field": "生物学"
+      }
+    ]
+  },
+  {
+    "name": "中国计量大学",
+    "aliases": [
+      "中量大"
+    ],
+    "short": "量大",
+    "city": "杭州",
+    "province": "浙江",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 815,
+    "scoreRange": {
+      "min": 520,
+      "max": 566
+    },
+    "desc": "国家市场监督管理总局直属高校，以计量和标准为特色。",
+    "advantages": "计量学科全国唯一",
+    "disadvantages": "学科单一",
+    "strongMajors": [
+      {
+        "name": "仪器科学与技术",
+        "rank": 80,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李量",
+        "field": "计量"
+      }
+    ]
+  },
+  {
+    "name": "浙江越秀外国语学院",
+    "aliases": [
+      "越秀"
+    ],
+    "short": "越秀",
+    "city": "绍兴",
+    "province": "浙江",
+    "type": "语言",
+    "tier": "二本",
+    "rank": 817,
+    "scoreRange": {
+      "min": 390,
+      "max": 434
+    },
+    "desc": "浙江省属民办本科院校。",
+    "advantages": "外语教学有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李越",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "宁波财经学院",
+    "aliases": [
+      "宁财"
+    ],
+    "short": "宁财",
+    "city": "宁波",
+    "province": "浙江",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 818,
+    "scoreRange": {
+      "min": 380,
+      "max": 419
+    },
+    "desc": "浙江省属民办本科院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宁",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "浙江广厦建设职业技术大学",
+    "aliases": [
+      "广厦"
+    ],
+    "short": "广厦",
+    "city": "金华",
+    "province": "浙江",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 819,
+    "scoreRange": {
+      "min": 350,
+      "max": 393
+    },
+    "desc": "浙江省属职业本科院校。",
+    "advantages": "建筑学科有特色",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "土木工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李广",
+        "field": "建筑"
+      }
+    ]
+  },
+  {
+    "name": "浙江药科职业大学",
+    "aliases": [
+      "浙药"
+    ],
+    "short": "浙药",
+    "city": "宁波",
+    "province": "浙江",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 820,
+    "scoreRange": {
+      "min": 400,
+      "max": 443
+    },
+    "desc": "浙江省属职业本科院校。",
+    "advantages": "药学学科有特色",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "药学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李药",
+        "field": "药学"
+      }
+    ]
+  },
+  {
+    "name": "皖南医学院",
+    "aliases": [
+      "皖医"
+    ],
+    "short": "皖医",
+    "city": "芜湖",
+    "province": "安徽",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 821,
+    "scoreRange": {
+      "min": 450,
+      "max": 497
+    },
+    "desc": "安徽省属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李皖",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "蚌埠医学院",
+    "aliases": [
+      "蚌医"
+    ],
+    "short": "蚌医",
+    "city": "蚌埠",
+    "province": "安徽",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 822,
+    "scoreRange": {
+      "min": 460,
+      "max": 507
+    },
+    "desc": "安徽省属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 250,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李蚌",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "皖西学院",
+    "aliases": [
+      "皖西"
+    ],
+    "short": "皖西",
+    "city": "六安",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 823,
+    "scoreRange": {
+      "min": 390,
+      "max": 421
+    },
+    "desc": "安徽省属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李皖",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "黄山学院",
+    "aliases": [
+      "黄院"
+    ],
+    "short": "黄院",
+    "city": "黄山",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 824,
+    "scoreRange": {
+      "min": 390,
+      "max": 415
+    },
+    "desc": "安徽省属本科院校。",
+    "advantages": "地处黄山",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "旅游管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李黄",
+        "field": "旅游"
+      }
+    ]
+  },
+  {
+    "name": "安徽新华学院",
+    "aliases": [
+      "新华"
+    ],
+    "short": "新华",
+    "city": "合肥",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 825,
+    "scoreRange": {
+      "min": 360,
+      "max": 399
+    },
+    "desc": "安徽省属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "安徽三联学院",
+    "aliases": [
+      "三联"
+    ],
+    "short": "三联",
+    "city": "合肥",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 826,
+    "scoreRange": {
+      "min": 350,
+      "max": 394
+    },
+    "desc": "安徽省属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李三",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "安徽文达信息工程学院",
+    "aliases": [
+      "文达"
+    ],
+    "short": "文达",
+    "city": "合肥",
+    "province": "安徽",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 827,
+    "scoreRange": {
+      "min": 340,
+      "max": 374
+    },
+    "desc": "安徽省属民办本科院校。",
+    "advantages": "信息学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李文",
+        "field": "信息"
+      }
+    ]
+  },
+  {
+    "name": "安徽外国语学院",
+    "aliases": [
+      "安外"
+    ],
+    "short": "安外",
+    "city": "合肥",
+    "province": "安徽",
+    "type": "语言",
+    "tier": "二本",
+    "rank": 828,
+    "scoreRange": {
+      "min": 350,
+      "max": 389
+    },
+    "desc": "安徽省属民办本科院校。",
+    "advantages": "外语教学有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李安",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "蚌埠工商学院",
+    "aliases": [
+      "蚌工商"
+    ],
+    "short": "蚌商",
+    "city": "蚌埠",
+    "province": "安徽",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 829,
+    "scoreRange": {
+      "min": 340,
+      "max": 374
+    },
+    "desc": "安徽省属民办本科院校。",
+    "advantages": "商科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李蚌",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "安徽大学江淮学院",
+    "aliases": [
+      "江淮"
+    ],
+    "short": "江淮",
+    "city": "合肥",
+    "province": "安徽",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 830,
+    "scoreRange": {
+      "min": 400,
+      "max": 440
+    },
+    "desc": "安徽大学举办的独立学院。",
+    "advantages": "综合办学",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "法学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李江",
+        "field": "法学"
+      }
+    ]
+  },
+  {
+    "name": "福建警察学院",
+    "aliases": [
+      "闽警"
+    ],
+    "short": "闽警",
+    "city": "福州",
+    "province": "福建",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 831,
+    "scoreRange": {
+      "min": 460,
+      "max": 489
+    },
+    "desc": "福建省属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "侦查学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李闽",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "福建商学院",
+    "aliases": [
+      "闽商"
+    ],
+    "short": "闽商",
+    "city": "福州",
+    "province": "福建",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 832,
+    "scoreRange": {
+      "min": 410,
+      "max": 437
+    },
+    "desc": "福建省属财经类院校。",
+    "advantages": "商科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李闽",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "福建技术师范学院",
+    "aliases": [
+      "闽技师"
+    ],
+    "short": "技师",
+    "city": "福州",
+    "province": "福建",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 833,
+    "scoreRange": {
+      "min": 400,
+      "max": 434
+    },
+    "desc": "福建省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李闽",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "泉州师范学院",
+    "aliases": [
+      "泉师"
+    ],
+    "short": "泉师",
+    "city": "泉州",
+    "province": "福建",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 834,
+    "scoreRange": {
+      "min": 430,
+      "max": 453
+    },
+    "desc": "泉州市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李泉",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "莆田学院",
+    "aliases": [
+      "莆院"
+    ],
+    "short": "莆院",
+    "city": "莆田",
+    "province": "福建",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 835,
+    "scoreRange": {
+      "min": 390,
+      "max": 420
+    },
+    "desc": "莆田市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李莆",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "宁德师范学院",
+    "aliases": [
+      "宁师"
+    ],
+    "short": "宁师",
+    "city": "宁德",
+    "province": "福建",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 836,
+    "scoreRange": {
+      "min": 380,
+      "max": 414
+    },
+    "desc": "宁德市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宁",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "厦门医学院",
+    "aliases": [
+      "厦医"
+    ],
+    "short": "厦医",
+    "city": "厦门",
+    "province": "福建",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 837,
+    "scoreRange": {
+      "min": 440,
+      "max": 483
+    },
+    "desc": "厦门市属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李厦",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "福州外语外贸学院",
+    "aliases": [
+      "福外"
+    ],
+    "short": "福外",
+    "city": "福州",
+    "province": "福建",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 838,
+    "scoreRange": {
+      "min": 370,
+      "max": 403
+    },
+    "desc": "福建省属民办本科院校。",
+    "advantages": "外语外贸有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李福",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "福州理工学院",
+    "aliases": [
+      "福理工"
+    ],
+    "short": "福理",
+    "city": "福州",
+    "province": "福建",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 839,
+    "scoreRange": {
+      "min": 360,
+      "max": 395
+    },
+    "desc": "福建省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李福",
+        "field": "理工"
+      }
+    ]
+  },
+  {
+    "name": "闽南理工学院",
+    "aliases": [
+      "闽南理工"
+    ],
+    "short": "南理2",
+    "city": "泉州",
+    "province": "福建",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 840,
+    "scoreRange": {
+      "min": 350,
+      "max": 383
+    },
+    "desc": "福建省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李闽",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "豫章师范学院",
+    "aliases": [
+      "豫师"
+    ],
+    "short": "豫师",
+    "city": "南昌",
+    "province": "江西",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 841,
+    "scoreRange": {
+      "min": 390,
+      "max": 434
+    },
+    "desc": "南昌市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李豫",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "南昌师范学院",
+    "aliases": [
+      "南师"
+    ],
+    "short": "南师2",
+    "city": "南昌",
+    "province": "江西",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 842,
+    "scoreRange": {
+      "min": 400,
+      "max": 433
+    },
+    "desc": "南昌市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李南",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "萍乡学院",
+    "aliases": [
+      "萍院"
+    ],
+    "short": "萍院",
+    "city": "萍乡",
+    "province": "江西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 843,
+    "scoreRange": {
+      "min": 360,
+      "max": 382
+    },
+    "desc": "萍乡市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李萍",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "新余学院",
+    "aliases": [
+      "余院"
+    ],
+    "short": "余院",
+    "city": "新余",
+    "province": "江西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 844,
+    "scoreRange": {
+      "min": 360,
+      "max": 391
+    },
+    "desc": "新余市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李余",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "景德镇学院",
+    "aliases": [
+      "景院"
+    ],
+    "short": "景院",
+    "city": "景德镇",
+    "province": "江西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 845,
+    "scoreRange": {
+      "min": 360,
+      "max": 395
+    },
+    "desc": "景德镇市属本科院校。",
+    "advantages": "陶瓷文化有特色",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "陶瓷艺术",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李景",
+        "field": "陶瓷"
+      }
+    ]
+  },
+  {
+    "name": "赣东学院",
+    "aliases": [
+      "赣东"
+    ],
+    "short": "赣东",
+    "city": "抚州",
+    "province": "江西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 846,
+    "scoreRange": {
+      "min": 350,
+      "max": 379
+    },
+    "desc": "江西省属本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李赣",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "赣南科技学院",
+    "aliases": [
+      "赣科"
+    ],
+    "short": "赣科",
+    "city": "赣州",
+    "province": "江西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 847,
+    "scoreRange": {
+      "min": 350,
+      "max": 394
+    },
+    "desc": "江西省属本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "冶金工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李赣",
+        "field": "冶金"
+      }
+    ]
+  },
+  {
+    "name": "南昌医学院",
+    "aliases": [
+      "南医"
+    ],
+    "short": "南医2",
+    "city": "南昌",
+    "province": "江西",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 848,
+    "scoreRange": {
+      "min": 430,
+      "max": 461
+    },
+    "desc": "南昌市属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李南",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "南昌职业大学",
+    "aliases": [
+      "南职"
+    ],
+    "short": "南职",
+    "city": "南昌",
+    "province": "江西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 849,
+    "scoreRange": {
+      "min": 330,
+      "max": 354
+    },
+    "desc": "江西省属职业本科院校。",
+    "advantages": "职业本科试点",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李南",
+        "field": "职业"
+      }
+    ]
+  },
+  {
+    "name": "江西软件职业技术大学",
+    "aliases": [
+      "江软"
+    ],
+    "short": "江软",
+    "city": "南昌",
+    "province": "江西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 850,
+    "scoreRange": {
+      "min": 330,
+      "max": 372
+    },
+    "desc": "江西省属职业本科院校。",
+    "advantages": "软件学科有特色",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "软件工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李江",
+        "field": "软件"
+      }
+    ]
+  },
+  {
+    "name": "山东第一医科大学",
+    "aliases": [
+      "山一医"
+    ],
+    "short": "山医2",
+    "city": "济南",
+    "province": "山东",
+    "type": "医药",
+    "tier": "一本",
+    "rank": 851,
+    "scoreRange": {
+      "min": 530,
+      "max": 554
+    },
+    "desc": "山东省属重点医科院校，由多所医学院合并组建。",
+    "advantages": "医学实力强",
+    "disadvantages": "新组建",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 80,
+        "level": "B"
+      },
+      {
+        "name": "基础医学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李山",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "山东中医药大学",
+    "aliases": [
+      "山中医"
+    ],
+    "short": "山中",
+    "city": "济南",
+    "province": "山东",
+    "type": "中医药",
+    "tier": "一本",
+    "rank": 852,
+    "scoreRange": {
+      "min": 520,
+      "max": 548
+    },
+    "desc": "山东省属中医药院校。",
+    "advantages": "中医药学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "中医学",
+        "rank": 60,
+        "level": "B"
+      },
+      {
+        "name": "中药学",
+        "rank": 80,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李山",
+        "field": "中医"
+      }
+    ]
+  },
+  {
+    "name": "山东政法学院",
+    "aliases": [
+      "山政"
+    ],
+    "short": "山政",
+    "city": "济南",
+    "province": "山东",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 853,
+    "scoreRange": {
+      "min": 460,
+      "max": 484
+    },
+    "desc": "山东省属政法类院校。",
+    "advantages": "法学学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "法学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李山",
+        "field": "法学"
+      }
+    ]
+  },
+  {
+    "name": "山东青年政治学院",
+    "aliases": [
+      "山青"
+    ],
+    "short": "山青",
+    "city": "济南",
+    "province": "山东",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 854,
+    "scoreRange": {
+      "min": 420,
+      "max": 452
+    },
+    "desc": "山东省属政法类院校。",
+    "advantages": "青年工作有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "社会工作",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李山",
+        "field": "政治"
+      }
+    ]
+  },
+  {
+    "name": "山东女子学院",
+    "aliases": [
+      "女院"
+    ],
+    "short": "女院2",
+    "city": "济南",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 855,
+    "scoreRange": {
+      "min": 400,
+      "max": 449
+    },
+    "desc": "山东省属女子本科院校。",
+    "advantages": "女性教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "学前教育",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李女",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "山东管理学院",
+    "aliases": [
+      "山管"
+    ],
+    "short": "山管",
+    "city": "济南",
+    "province": "山东",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 856,
+    "scoreRange": {
+      "min": 410,
+      "max": 435
+    },
+    "desc": "山东省属财经类院校。",
+    "advantages": "管理学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李山",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "山东农业工程学院",
+    "aliases": [
+      "山农工"
+    ],
+    "short": "农工",
+    "city": "济南",
+    "province": "山东",
+    "type": "农林",
+    "tier": "二本",
+    "rank": 857,
+    "scoreRange": {
+      "min": 390,
+      "max": 431
+    },
+    "desc": "山东省属农业院校。",
+    "advantages": "农业工程有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "农业工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李山",
+        "field": "农业"
+      }
+    ]
+  },
+  {
+    "name": "山东石油化工学院",
+    "aliases": [
+      "山石"
+    ],
+    "short": "山石",
+    "city": "东营",
+    "province": "山东",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 858,
+    "scoreRange": {
+      "min": 400,
+      "max": 436
+    },
+    "desc": "山东省属工科院校，以石油化工为特色。",
+    "advantages": "石化行业认可度高",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "石油工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李山",
+        "field": "石油"
+      }
+    ]
+  },
+  {
+    "name": "齐鲁师范学院",
+    "aliases": [
+      "齐师"
+    ],
+    "short": "齐师",
+    "city": "济南",
+    "province": "山东",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 859,
+    "scoreRange": {
+      "min": 420,
+      "max": 444
+    },
+    "desc": "山东省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李齐",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "山东英才学院",
+    "aliases": [
+      "英才"
+    ],
+    "short": "英才",
+    "city": "济南",
+    "province": "山东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 860,
+    "scoreRange": {
+      "min": 340,
+      "max": 378
+    },
+    "desc": "山东省属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李英",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "新乡医学院",
+    "aliases": [
+      "新医"
+    ],
+    "short": "新医2",
+    "city": "新乡",
+    "province": "河南",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 861,
+    "scoreRange": {
+      "min": 500,
+      "max": 534
+    },
+    "desc": "河南省属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "南阳理工学院",
+    "aliases": [
+      "南理"
+    ],
+    "short": "南理2",
+    "city": "南阳",
+    "province": "河南",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 863,
+    "scoreRange": {
+      "min": 420,
+      "max": 468
+    },
+    "desc": "河南省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李南",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "河南牧业经济学院",
+    "aliases": [
+      "牧经"
+    ],
+    "short": "牧经",
+    "city": "郑州",
+    "province": "河南",
+    "type": "农林",
+    "tier": "二本",
+    "rank": 865,
+    "scoreRange": {
+      "min": 390,
+      "max": 413
+    },
+    "desc": "河南省属农业院校，以牧业经济为特色。",
+    "advantages": "牧业经济有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "畜牧学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李牧",
+        "field": "牧业"
+      }
+    ]
+  },
+  {
+    "name": "河南工学院",
+    "aliases": [
+      "河工"
+    ],
+    "short": "河工2",
+    "city": "新乡",
+    "province": "河南",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 866,
+    "scoreRange": {
+      "min": 390,
+      "max": 420
+    },
+    "desc": "河南省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李河",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "安阳工学院",
+    "aliases": [
+      "安工"
+    ],
+    "short": "安工2",
+    "city": "安阳",
+    "province": "河南",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 867,
+    "scoreRange": {
+      "min": 390,
+      "max": 437
+    },
+    "desc": "河南省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李安",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "郑州工程技术学院",
+    "aliases": [
+      "郑工"
+    ],
+    "short": "郑工",
+    "city": "郑州",
+    "province": "河南",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 868,
+    "scoreRange": {
+      "min": 400,
+      "max": 433
+    },
+    "desc": "河南省属工科院校。",
+    "advantages": "工程技术有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李郑",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "河南财政金融学院",
+    "aliases": [
+      "河财金"
+    ],
+    "short": "财金",
+    "city": "郑州",
+    "province": "河南",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 869,
+    "scoreRange": {
+      "min": 400,
+      "max": 438
+    },
+    "desc": "河南省属财经类院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李财",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "郑州西亚斯学院",
+    "aliases": [
+      "西亚斯"
+    ],
+    "short": "西亚",
+    "city": "郑州",
+    "province": "河南",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 870,
+    "scoreRange": {
+      "min": 350,
+      "max": 386
+    },
+    "desc": "河南省属民办本科院校。",
+    "advantages": "国际化办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "湖北美术学院",
+    "aliases": [
+      "湖美"
+    ],
+    "short": "湖美",
+    "city": "武汉",
+    "province": "湖北",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 871,
+    "scoreRange": {
+      "min": 480,
+      "max": 528
+    },
+    "desc": "湖北省属美术类院校。",
+    "advantages": "美术学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "美术学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李湖",
+        "field": "美术"
+      }
+    ]
+  },
+  {
+    "name": "湖北第二师范学院",
+    "aliases": [
+      "湖二师"
+    ],
+    "short": "二师2",
+    "city": "武汉",
+    "province": "湖北",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 872,
+    "scoreRange": {
+      "min": 430,
+      "max": 473
+    },
+    "desc": "湖北省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李湖",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "湖北警官学院",
+    "aliases": [
+      "湖警"
+    ],
+    "short": "湖警",
+    "city": "武汉",
+    "province": "湖北",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 876,
+    "scoreRange": {
+      "min": 480,
+      "max": 514
+    },
+    "desc": "湖北省属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "侦查学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李湖",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "汉江师范学院",
+    "aliases": [
+      "汉师"
+    ],
+    "short": "汉师",
+    "city": "十堰",
+    "province": "湖北",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 878,
+    "scoreRange": {
+      "min": 380,
+      "max": 416
+    },
+    "desc": "十堰市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李汉",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "武汉生物工程学院",
+    "aliases": [
+      "武生"
+    ],
+    "short": "武生",
+    "city": "武汉",
+    "province": "湖北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 879,
+    "scoreRange": {
+      "min": 340,
+      "max": 386
+    },
+    "desc": "湖北省属民办本科院校。",
+    "advantages": "生物学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "生物工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李武",
+        "field": "生物"
+      }
+    ]
+  },
+  {
+    "name": "武昌首义学院",
+    "aliases": [
+      "首义"
+    ],
+    "short": "首义",
+    "city": "武汉",
+    "province": "湖北",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 880,
+    "scoreRange": {
+      "min": 350,
+      "max": 372
+    },
+    "desc": "湖北省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李首",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "湖南第一师范学院",
+    "aliases": [
+      "一师"
+    ],
+    "short": "一师",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 881,
+    "scoreRange": {
+      "min": 480,
+      "max": 501
+    },
+    "desc": "湖南省属师范院校，毛泽东主席母校。",
+    "advantages": "师范教育历史悠久",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 150,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "毛泽东",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "长沙学院",
+    "aliases": [
+      "长院"
+    ],
+    "short": "长院",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 882,
+    "scoreRange": {
+      "min": 460,
+      "max": 507
+    },
+    "desc": "长沙市属本科院校。",
+    "advantages": "地处长沙",
+    "disadvantages": "实力一般",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李长",
+        "field": "综合"
+      }
+    ]
+  },
+  {
+    "name": "湖南财政经济学院",
+    "aliases": [
+      "湖财经"
+    ],
+    "short": "财经",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 883,
+    "scoreRange": {
+      "min": 450,
+      "max": 486
+    },
+    "desc": "湖南省属财经类院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李湖",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "湖南警察学院",
+    "aliases": [
+      "湖警"
+    ],
+    "short": "湖警2",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 884,
+    "scoreRange": {
+      "min": 460,
+      "max": 501
+    },
+    "desc": "湖南省属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "侦查学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李湖",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "湖南女子学院",
+    "aliases": [
+      "湖女"
+    ],
+    "short": "湖女",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 885,
+    "scoreRange": {
+      "min": 400,
+      "max": 447
+    },
+    "desc": "湖南省属女子本科院校。",
+    "advantages": "女性教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "学前教育",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李女",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "长沙师范学院",
+    "aliases": [
+      "长师"
+    ],
+    "short": "长师",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 887,
+    "scoreRange": {
+      "min": 430,
+      "max": 471
+    },
+    "desc": "长沙市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李长",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "湖南涉外经济学院",
+    "aliases": [
+      "涉外"
+    ],
+    "short": "涉外",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 888,
+    "scoreRange": {
+      "min": 350,
+      "max": 397
+    },
+    "desc": "湖南省属民办本科院校。",
+    "advantages": "国际化办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "国际经济与贸易",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李涉",
+        "field": "外贸"
+      }
+    ]
+  },
+  {
+    "name": "长沙医学院",
+    "aliases": [
+      "长医"
+    ],
+    "short": "长医",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 889,
+    "scoreRange": {
+      "min": 380,
+      "max": 404
+    },
+    "desc": "湖南省属民办本科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李长",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "湖南信息学院",
+    "aliases": [
+      "湖信"
+    ],
+    "short": "湖信",
+    "city": "长沙",
+    "province": "湖南",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 890,
+    "scoreRange": {
+      "min": 340,
+      "max": 379
+    },
+    "desc": "湖南省属民办本科院校。",
+    "advantages": "信息学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李湖",
+        "field": "信息"
+      }
+    ]
+  },
+  {
+    "name": "佛山科学技术学院",
+    "aliases": [
+      "佛科院"
+    ],
+    "short": "佛科",
+    "city": "佛山",
+    "province": "广东",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 893,
+    "scoreRange": {
+      "min": 460,
+      "max": 509
+    },
+    "desc": "广东省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李佛",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "广东医科大学",
+    "aliases": [
+      "广东医"
+    ],
+    "short": "广医2",
+    "city": "湛江",
+    "province": "广东",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 896,
+    "scoreRange": {
+      "min": 500,
+      "max": 527
+    },
+    "desc": "广东省属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李医",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "岭南师范学院",
+    "aliases": [
+      "岭师"
+    ],
+    "short": "岭师",
+    "city": "湛江",
+    "province": "广东",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 897,
+    "scoreRange": {
+      "min": 420,
+      "max": 448
+    },
+    "desc": "广东省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李岭",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "嘉应学院",
+    "aliases": [
+      "嘉院"
+    ],
+    "short": "嘉院",
+    "city": "梅州",
+    "province": "广东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 899,
+    "scoreRange": {
+      "min": 390,
+      "max": 434
+    },
+    "desc": "广东省属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李嘉",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "韶关学院",
+    "aliases": [
+      "韶院"
+    ],
+    "short": "韶院",
+    "city": "韶关",
+    "province": "广东",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 900,
+    "scoreRange": {
+      "min": 380,
+      "max": 422
+    },
+    "desc": "广东省属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李韶",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "广西艺术学院",
+    "aliases": [
+      "广艺"
+    ],
+    "short": "广艺",
+    "city": "南宁",
+    "province": "广西",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 901,
+    "scoreRange": {
+      "min": 450,
+      "max": 475
+    },
+    "desc": "广西壮族自治区属艺术类院校。",
+    "advantages": "艺术学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李艺",
+        "field": "艺术"
+      }
+    ]
+  },
+  {
+    "name": "广西财经学院",
+    "aliases": [
+      "广西财院"
+    ],
+    "short": "桂财",
+    "city": "南宁",
+    "province": "广西",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 903,
+    "scoreRange": {
+      "min": 420,
+      "max": 451
+    },
+    "desc": "广西壮族自治区属财经类院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李财",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "广西警察学院",
+    "aliases": [
+      "广西警院"
+    ],
+    "short": "桂警",
+    "city": "南宁",
+    "province": "广西",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 904,
+    "scoreRange": {
+      "min": 400,
+      "max": 430
+    },
+    "desc": "广西壮族自治区属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "侦查学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李警",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "广西职业师范学院",
+    "aliases": [
+      "广西职师"
+    ],
+    "short": "桂师",
+    "city": "南宁",
+    "province": "广西",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 905,
+    "scoreRange": {
+      "min": 360,
+      "max": 396
+    },
+    "desc": "广西壮族自治区属师范院校。",
+    "advantages": "职业教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李师",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "桂林旅游学院",
+    "aliases": [
+      "桂旅"
+    ],
+    "short": "桂旅",
+    "city": "桂林",
+    "province": "广西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 906,
+    "scoreRange": {
+      "min": 360,
+      "max": 406
+    },
+    "desc": "广西壮族自治区属本科院校，以旅游为特色。",
+    "advantages": "旅游学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "旅游管理",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李旅",
+        "field": "旅游"
+      }
+    ]
+  },
+  {
+    "name": "桂林航天工业学院",
+    "aliases": [
+      "桂航"
+    ],
+    "short": "桂航",
+    "city": "桂林",
+    "province": "广西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 907,
+    "scoreRange": {
+      "min": 380,
+      "max": 412
+    },
+    "desc": "广西壮族自治区属工科院校，以航天为特色。",
+    "advantages": "航天学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李航",
+        "field": "航天"
+      }
+    ]
+  },
+  {
+    "name": "柳州工学院",
+    "aliases": [
+      "柳工"
+    ],
+    "short": "柳工",
+    "city": "柳州",
+    "province": "广西",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 908,
+    "scoreRange": {
+      "min": 350,
+      "max": 371
+    },
+    "desc": "广西壮族自治区属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李柳",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "南宁学院",
+    "aliases": [
+      "南院"
+    ],
+    "short": "南院",
+    "city": "南宁",
+    "province": "广西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 909,
+    "scoreRange": {
+      "min": 350,
+      "max": 392
+    },
+    "desc": "广西壮族自治区属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李南",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "北海艺术设计学院",
+    "aliases": [
+      "北海艺"
+    ],
+    "short": "北艺",
+    "city": "北海",
+    "province": "广西",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 910,
+    "scoreRange": {
+      "min": 330,
+      "max": 363
+    },
+    "desc": "广西壮族自治区属民办本科院校。",
+    "advantages": "艺术学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "艺术设计",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李北",
+        "field": "艺术"
+      }
+    ]
+  },
+  {
+    "name": "琼台师范学院",
+    "aliases": [
+      "琼台"
+    ],
+    "short": "琼台",
+    "city": "海口",
+    "province": "海南",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 911,
+    "scoreRange": {
+      "min": 380,
+      "max": 417
+    },
+    "desc": "海南省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李琼",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "三亚学院",
+    "aliases": [
+      "三亚"
+    ],
+    "short": "三亚",
+    "city": "三亚",
+    "province": "海南",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 912,
+    "scoreRange": {
+      "min": 360,
+      "max": 392
+    },
+    "desc": "海南省属民办本科院校。",
+    "advantages": "地处三亚",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "旅游管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李三",
+        "field": "旅游"
+      }
+    ]
+  },
+  {
+    "name": "海口经济学院",
+    "aliases": [
+      "海经"
+    ],
+    "short": "海经",
+    "city": "海口",
+    "province": "海南",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 913,
+    "scoreRange": {
+      "min": 340,
+      "max": 381
+    },
+    "desc": "海南省属民办本科院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李海",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "海南科技职业大学",
+    "aliases": [
+      "海科"
+    ],
+    "short": "海科",
+    "city": "海口",
+    "province": "海南",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 914,
+    "scoreRange": {
+      "min": 320,
+      "max": 357
+    },
+    "desc": "海南省属职业本科院校。",
+    "advantages": "科技学科有特色",
+    "disadvantages": "知名度低",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李海",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "海南比勒费尔德应用科学大学",
+    "aliases": [
+      "比科大"
+    ],
+    "short": "比科",
+    "city": "洋浦",
+    "province": "海南",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 915,
+    "scoreRange": {
+      "min": 400,
+      "max": 431
+    },
+    "desc": "中外合作办学高校。",
+    "advantages": "国际化办学",
+    "disadvantages": "新设大学",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李比",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "西华师范大学",
+    "aliases": [
+      "西华师"
+    ],
+    "short": "西师",
+    "city": "南充",
+    "province": "四川",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 917,
+    "scoreRange": {
+      "min": 470,
+      "max": 514
+    },
+    "desc": "四川省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "地理位置偏",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "绵阳师范学院",
+    "aliases": [
+      "绵师"
+    ],
+    "short": "绵师",
+    "city": "绵阳",
+    "province": "四川",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 918,
+    "scoreRange": {
+      "min": 420,
+      "max": 449
+    },
+    "desc": "绵阳市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李绵",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "内江师范学院",
+    "aliases": [
+      "内师"
+    ],
+    "short": "内师2",
+    "city": "内江",
+    "province": "四川",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 919,
+    "scoreRange": {
+      "min": 390,
+      "max": 419
+    },
+    "desc": "内江市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李内",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "宜宾学院",
+    "aliases": [
+      "宜院"
+    ],
+    "short": "宜院",
+    "city": "宜宾",
+    "province": "四川",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 920,
+    "scoreRange": {
+      "min": 380,
+      "max": 419
+    },
+    "desc": "宜宾市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宜",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "四川文理学院",
+    "aliases": [
+      "川文理"
+    ],
+    "short": "文理",
+    "city": "达州",
+    "province": "四川",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 921,
+    "scoreRange": {
+      "min": 370,
+      "max": 399
+    },
+    "desc": "四川省属本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李川",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "四川民族学院",
+    "aliases": [
+      "川民院"
+    ],
+    "short": "川民",
+    "city": "康定",
+    "province": "四川",
+    "type": "民族",
+    "tier": "二本",
+    "rank": 922,
+    "scoreRange": {
+      "min": 350,
+      "max": 380
+    },
+    "desc": "四川省属民族院校。",
+    "advantages": "民族学科有特色",
+    "disadvantages": "地理位置偏远",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李川",
+        "field": "民族"
+      }
+    ]
+  },
+  {
+    "name": "阿坝师范学院",
+    "aliases": [
+      "阿师"
+    ],
+    "short": "阿师",
+    "city": "汶川",
+    "province": "四川",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 923,
+    "scoreRange": {
+      "min": 340,
+      "max": 364
+    },
+    "desc": "四川省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "地理位置偏远",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李阿",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "成都工业学院",
+    "aliases": [
+      "成工"
+    ],
+    "short": "成工",
+    "city": "成都",
+    "province": "四川",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 924,
+    "scoreRange": {
+      "min": 440,
+      "max": 483
+    },
+    "desc": "四川省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "知名度不高",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李成",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "成都师范学院",
+    "aliases": [
+      "成师"
+    ],
+    "short": "成师",
+    "city": "成都",
+    "province": "四川",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 925,
+    "scoreRange": {
+      "min": 430,
+      "max": 457
+    },
+    "desc": "成都市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李成",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "攀枝花学院",
+    "aliases": [
+      "攀院"
+    ],
+    "short": "攀院",
+    "city": "攀枝花",
+    "province": "四川",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 926,
+    "scoreRange": {
+      "min": 370,
+      "max": 404
+    },
+    "desc": "攀枝花市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "冶金工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李攀",
+        "field": "冶金"
+      }
+    ]
+  },
+  {
+    "name": "贵州理工学院",
+    "aliases": [
+      "贵理工"
+    ],
+    "short": "贵理",
+    "city": "贵阳",
+    "province": "贵州",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 928,
+    "scoreRange": {
+      "min": 400,
+      "max": 449
+    },
+    "desc": "贵州省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李贵",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "贵阳学院",
+    "aliases": [
+      "贵院"
+    ],
+    "short": "贵院",
+    "city": "贵阳",
+    "province": "贵州",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 929,
+    "scoreRange": {
+      "min": 390,
+      "max": 430
+    },
+    "desc": "贵阳市属本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李贵",
+        "field": "综合"
+      }
+    ]
+  },
+  {
+    "name": "遵义师范学院",
+    "aliases": [
+      "遵师"
+    ],
+    "short": "遵师",
+    "city": "遵义",
+    "province": "贵州",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 930,
+    "scoreRange": {
+      "min": 360,
+      "max": 380
+    },
+    "desc": "遵义市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李遵",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "铜仁学院",
+    "aliases": [
+      "铜院"
+    ],
+    "short": "铜院",
+    "city": "铜仁",
+    "province": "贵州",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 931,
+    "scoreRange": {
+      "min": 340,
+      "max": 361
+    },
+    "desc": "铜仁市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李铜",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "凯里学院",
+    "aliases": [
+      "凯院"
+    ],
+    "short": "凯院",
+    "city": "凯里",
+    "province": "贵州",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 932,
+    "scoreRange": {
+      "min": 330,
+      "max": 375
+    },
+    "desc": "凯里市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李凯",
+        "field": "民族"
+      }
+    ]
+  },
+  {
+    "name": "安顺学院",
+    "aliases": [
+      "安院"
+    ],
+    "short": "安院",
+    "city": "安顺",
+    "province": "贵州",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 933,
+    "scoreRange": {
+      "min": 330,
+      "max": 379
+    },
+    "desc": "安顺市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "农学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李安",
+        "field": "农学"
+      }
+    ]
+  },
+  {
+    "name": "六盘水师范学院",
+    "aliases": [
+      "水师"
+    ],
+    "short": "水师",
+    "city": "六盘水",
+    "province": "贵州",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 934,
+    "scoreRange": {
+      "min": 320,
+      "max": 369
+    },
+    "desc": "六盘水市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李水",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "贵州商学院",
+    "aliases": [
+      "贵商"
+    ],
+    "short": "贵商",
+    "city": "贵阳",
+    "province": "贵州",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 935,
+    "scoreRange": {
+      "min": 350,
+      "max": 395
+    },
+    "desc": "贵州省属财经类院校。",
+    "advantages": "商科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李贵",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "贵州黔南经济学院",
+    "aliases": [
+      "黔南"
+    ],
+    "short": "黔南",
+    "city": "都匀",
+    "province": "贵州",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 936,
+    "scoreRange": {
+      "min": 310,
+      "max": 358
+    },
+    "desc": "贵州省属民办本科院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李黔",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "云南艺术学院",
+    "aliases": [
+      "云艺"
+    ],
+    "short": "云艺",
+    "city": "昆明",
+    "province": "云南",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 938,
+    "scoreRange": {
+      "min": 450,
+      "max": 498
+    },
+    "desc": "云南省属艺术类院校。",
+    "advantages": "艺术学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李云",
+        "field": "艺术"
+      }
+    ]
+  },
+  {
+    "name": "曲靖师范学院",
+    "aliases": [
+      "曲师"
+    ],
+    "short": "曲师2",
+    "city": "曲靖",
+    "province": "云南",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 941,
+    "scoreRange": {
+      "min": 370,
+      "max": 402
+    },
+    "desc": "曲靖市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李曲",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "玉溪师范学院",
+    "aliases": [
+      "玉师"
+    ],
+    "short": "玉师",
+    "city": "玉溪",
+    "province": "云南",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 942,
+    "scoreRange": {
+      "min": 360,
+      "max": 398
+    },
+    "desc": "玉溪市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李玉",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "楚雄师范学院",
+    "aliases": [
+      "楚师"
+    ],
+    "short": "楚师",
+    "city": "楚雄",
+    "province": "云南",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 943,
+    "scoreRange": {
+      "min": 350,
+      "max": 373
+    },
+    "desc": "楚雄市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李楚",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "红河学院",
+    "aliases": [
+      "红院"
+    ],
+    "short": "红院",
+    "city": "蒙自",
+    "province": "云南",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 944,
+    "scoreRange": {
+      "min": 340,
+      "max": 365
+    },
+    "desc": "红河州属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李红",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "文山学院",
+    "aliases": [
+      "文院"
+    ],
+    "short": "文院",
+    "city": "文山",
+    "province": "云南",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 945,
+    "scoreRange": {
+      "min": 320,
+      "max": 368
+    },
+    "desc": "文山州属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "农学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李文",
+        "field": "农学"
+      }
+    ]
+  },
+  {
+    "name": "保山学院",
+    "aliases": [
+      "保院"
+    ],
+    "short": "保院",
+    "city": "保山",
+    "province": "云南",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 946,
+    "scoreRange": {
+      "min": 310,
+      "max": 357
+    },
+    "desc": "保山市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "历史学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李保",
+        "field": "历史"
+      }
+    ]
+  },
+  {
+    "name": "西藏农牧学院",
+    "aliases": [
+      "藏农牧"
+    ],
+    "short": "农牧",
+    "city": "林芝",
+    "province": "西藏",
+    "type": "农林",
+    "tier": "二本",
+    "rank": 947,
+    "scoreRange": {
+      "min": 330,
+      "max": 360
+    },
+    "desc": "西藏自治区属农业院校。",
+    "advantages": "农业学科有特色",
+    "disadvantages": "地理位置偏远",
+    "strongMajors": [
+      {
+        "name": "农学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李藏",
+        "field": "农学"
+      }
+    ]
+  },
+  {
+    "name": "拉萨师范高等专科学校",
+    "aliases": [
+      "拉师专"
+    ],
+    "short": "拉师",
+    "city": "拉萨",
+    "province": "西藏",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 948,
+    "scoreRange": {
+      "min": 300,
+      "max": 331
+    },
+    "desc": "西藏自治区属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李拉",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "西藏藏医药大学",
+    "aliases": [
+      "藏医药"
+    ],
+    "short": "藏医",
+    "city": "拉萨",
+    "province": "西藏",
+    "type": "中医药",
+    "tier": "二本",
+    "rank": 949,
+    "scoreRange": {
+      "min": 350,
+      "max": 387
+    },
+    "desc": "西藏自治区属中医药院校。",
+    "advantages": "藏医药学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "藏医学",
+        "rank": 10,
+        "level": "A+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李藏",
+        "field": "藏医"
+      }
+    ]
+  },
+  {
+    "name": "西安外国语大学",
+    "aliases": [
+      "西外"
+    ],
+    "short": "西外",
+    "city": "西安",
+    "province": "陕西",
+    "type": "语言",
+    "tier": "一本",
+    "rank": 950,
+    "scoreRange": {
+      "min": 530,
+      "max": 557
+    },
+    "desc": "陕西省属外语类院校，外语学科全国前列。",
+    "advantages": "外语学科全国前列",
+    "disadvantages": "专业单一",
+    "strongMajors": [
+      {
+        "name": "外国语言文学",
+        "rank": 40,
+        "level": "B+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "西安体育学院",
+    "aliases": [
+      "西体"
+    ],
+    "short": "西体",
+    "city": "西安",
+    "province": "陕西",
+    "type": "体育",
+    "tier": "二本",
+    "rank": 952,
+    "scoreRange": {
+      "min": 450,
+      "max": 494
+    },
+    "desc": "陕西省属体育类院校。",
+    "advantages": "体育学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "体育学",
+        "rank": 100,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "体育"
+      }
+    ]
+  },
+  {
+    "name": "西安音乐学院",
+    "aliases": [
+      "西音"
+    ],
+    "short": "西音",
+    "city": "西安",
+    "province": "陕西",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 953,
+    "scoreRange": {
+      "min": 480,
+      "max": 527
+    },
+    "desc": "陕西省属音乐类院校。",
+    "advantages": "音乐学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 80,
+        "level": "C+"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "音乐"
+      }
+    ]
+  },
+  {
+    "name": "西安文理学院",
+    "aliases": [
+      "西文理"
+    ],
+    "short": "文理2",
+    "city": "西安",
+    "province": "陕西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 954,
+    "scoreRange": {
+      "min": 430,
+      "max": 452
+    },
+    "desc": "西安市属本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "实力一般",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "榆林学院",
+    "aliases": [
+      "榆院"
+    ],
+    "short": "榆院",
+    "city": "榆林",
+    "province": "陕西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 958,
+    "scoreRange": {
+      "min": 350,
+      "max": 384
+    },
+    "desc": "榆林市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "能源工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李榆",
+        "field": "能源"
+      }
+    ]
+  },
+  {
+    "name": "商洛学院",
+    "aliases": [
+      "商院"
+    ],
+    "short": "商院",
+    "city": "商洛",
+    "province": "陕西",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 959,
+    "scoreRange": {
+      "min": 330,
+      "max": 363
+    },
+    "desc": "商洛市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李商",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "西北民族大学",
+    "aliases": [
+      "西北民大"
+    ],
+    "short": "西民",
+    "city": "兰州",
+    "province": "甘肃",
+    "type": "民族",
+    "tier": "二本",
+    "rank": 960,
+    "scoreRange": {
+      "min": 460,
+      "max": 486
+    },
+    "desc": "国家民委直属高校，民族学科特色鲜明。",
+    "advantages": "民族学科有特色",
+    "disadvantages": "专业范围窄",
+    "strongMajors": [
+      {
+        "name": "民族学",
+        "rank": 60,
+        "level": "B"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李西",
+        "field": "民族"
+      }
+    ]
+  },
+  {
+    "name": "兰州城市学院",
+    "aliases": [
+      "兰城"
+    ],
+    "short": "兰城",
+    "city": "兰州",
+    "province": "甘肃",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 961,
+    "scoreRange": {
+      "min": 390,
+      "max": 427
+    },
+    "desc": "兰州市属本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李兰",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "陇东学院",
+    "aliases": [
+      "陇院"
+    ],
+    "short": "陇院",
+    "city": "庆阳",
+    "province": "甘肃",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 962,
+    "scoreRange": {
+      "min": 340,
+      "max": 366
+    },
+    "desc": "庆阳市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "历史学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李陇",
+        "field": "历史"
+      }
+    ]
+  },
+  {
+    "name": "河西学院",
+    "aliases": [
+      "河院"
+    ],
+    "short": "河院",
+    "city": "张掖",
+    "province": "甘肃",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 964,
+    "scoreRange": {
+      "min": 330,
+      "max": 350
+    },
+    "desc": "张掖市属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "农学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李河",
+        "field": "农学"
+      }
+    ]
+  },
+  {
+    "name": "兰州文理学院",
+    "aliases": [
+      "兰文理"
+    ],
+    "short": "兰文",
+    "city": "兰州",
+    "province": "甘肃",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 965,
+    "scoreRange": {
+      "min": 350,
+      "max": 385
+    },
+    "desc": "兰州市属本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李兰",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "甘肃政法大学",
+    "aliases": [
+      "甘政"
+    ],
+    "short": "甘政",
+    "city": "兰州",
+    "province": "甘肃",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 966,
+    "scoreRange": {
+      "min": 420,
+      "max": 455
+    },
+    "desc": "甘肃省属政法类院校。",
+    "advantages": "法学学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "法学",
+        "rank": 300,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李甘",
+        "field": "法学"
+      }
+    ]
+  },
+  {
+    "name": "甘肃民族师范学院",
+    "aliases": [
+      "甘民师"
+    ],
+    "short": "甘师",
+    "city": "合作",
+    "province": "甘肃",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 967,
+    "scoreRange": {
+      "min": 310,
+      "max": 339
+    },
+    "desc": "甘肃省属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李甘",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "兰州工业学院",
+    "aliases": [
+      "兰工"
+    ],
+    "short": "兰工",
+    "city": "兰州",
+    "province": "甘肃",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 968,
+    "scoreRange": {
+      "min": 360,
+      "max": 397
+    },
+    "desc": "兰州市属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李兰",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "兰州博文科技学院",
+    "aliases": [
+      "博文"
+    ],
+    "short": "博文",
+    "city": "兰州",
+    "province": "甘肃",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 969,
+    "scoreRange": {
+      "min": 300,
+      "max": 341
+    },
+    "desc": "甘肃省属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李博",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "青海大学昆仑学院",
+    "aliases": [
+      "昆院"
+    ],
+    "short": "昆院",
+    "city": "西宁",
+    "province": "青海",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 971,
+    "scoreRange": {
+      "min": 340,
+      "max": 379
+    },
+    "desc": "青海大学举办的独立学院。",
+    "advantages": "综合办学",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李昆",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "西宁大学",
+    "aliases": [
+      "宁大"
+    ],
+    "short": "宁大2",
+    "city": "西宁",
+    "province": "青海",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 972,
+    "scoreRange": {
+      "min": 400,
+      "max": 442
+    },
+    "desc": "青海省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "新设大学",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宁",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "青海理工学院",
+    "aliases": [
+      "青理工"
+    ],
+    "short": "青理2",
+    "city": "西宁",
+    "province": "青海",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 973,
+    "scoreRange": {
+      "min": 350,
+      "max": 371
+    },
+    "desc": "青海省属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "新设大学",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李青",
+        "field": "理工"
+      }
+    ]
+  },
+  {
+    "name": "青海卫生职业技术学院",
+    "aliases": [
+      "青卫"
+    ],
+    "short": "青卫",
+    "city": "西宁",
+    "province": "青海",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 974,
+    "scoreRange": {
+      "min": 300,
+      "max": 343
+    },
+    "desc": "青海省属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "护理学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李青",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "宁夏师范学院",
+    "aliases": [
+      "宁师"
+    ],
+    "short": "宁师2",
+    "city": "固原",
+    "province": "宁夏",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 975,
+    "scoreRange": {
+      "min": 340,
+      "max": 366
+    },
+    "desc": "宁夏回族自治区属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宁",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "银川能源学院",
+    "aliases": [
+      "银能"
+    ],
+    "short": "银能",
+    "city": "银川",
+    "province": "宁夏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 976,
+    "scoreRange": {
+      "min": 300,
+      "max": 336
+    },
+    "desc": "宁夏回族自治区属民办本科院校。",
+    "advantages": "能源学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "能源工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李银",
+        "field": "能源"
+      }
+    ]
+  },
+  {
+    "name": "银川科技学院",
+    "aliases": [
+      "银科"
+    ],
+    "short": "银科",
+    "city": "银川",
+    "province": "宁夏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 977,
+    "scoreRange": {
+      "min": 290,
+      "max": 321
+    },
+    "desc": "宁夏回族自治区属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李银",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "宁夏大学新华学院",
+    "aliases": [
+      "新华"
+    ],
+    "short": "新华2",
+    "city": "银川",
+    "province": "宁夏",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 978,
+    "scoreRange": {
+      "min": 320,
+      "max": 356
+    },
+    "desc": "宁夏大学举办的独立学院。",
+    "advantages": "综合办学",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "法学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "法学"
+      }
+    ]
+  },
+  {
+    "name": "宁夏理工学院",
+    "aliases": [
+      "宁理工"
+    ],
+    "short": "宁理",
+    "city": "石嘴山",
+    "province": "宁夏",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 979,
+    "scoreRange": {
+      "min": 280,
+      "max": 329
+    },
+    "desc": "宁夏回族自治区属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "机械工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李宁",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "新疆财经大学",
+    "aliases": [
+      "新财大"
+    ],
+    "short": "新财",
+    "city": "乌鲁木齐",
+    "province": "新疆",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 982,
+    "scoreRange": {
+      "min": 400,
+      "max": 429
+    },
+    "desc": "新疆维吾尔自治区属财经类院校。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "新疆艺术学院",
+    "aliases": [
+      "新艺"
+    ],
+    "short": "新艺",
+    "city": "乌鲁木齐",
+    "province": "新疆",
+    "type": "艺术",
+    "tier": "二本",
+    "rank": 983,
+    "scoreRange": {
+      "min": 380,
+      "max": 405
+    },
+    "desc": "新疆维吾尔自治区属艺术类院校。",
+    "advantages": "艺术学科有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "音乐与舞蹈学",
+        "rank": 200,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "艺术"
+      }
+    ]
+  },
+  {
+    "name": "新疆工程学院",
+    "aliases": [
+      "新工"
+    ],
+    "short": "新工",
+    "city": "乌鲁木齐",
+    "province": "新疆",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 984,
+    "scoreRange": {
+      "min": 340,
+      "max": 376
+    },
+    "desc": "新疆维吾尔自治区属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "矿业工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "昌吉学院",
+    "aliases": [
+      "昌院"
+    ],
+    "short": "昌院",
+    "city": "昌吉",
+    "province": "新疆",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 985,
+    "scoreRange": {
+      "min": 310,
+      "max": 334
+    },
+    "desc": "昌吉州属本科院校。",
+    "advantages": "地方支持",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李昌",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "新疆警察学院",
+    "aliases": [
+      "新警"
+    ],
+    "short": "新警",
+    "city": "乌鲁木齐",
+    "province": "新疆",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 986,
+    "scoreRange": {
+      "min": 380,
+      "max": 415
+    },
+    "desc": "新疆维吾尔自治区属公安类院校。",
+    "advantages": "公安教育有特色",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "侦查学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "公安"
+      }
+    ]
+  },
+  {
+    "name": "新疆科技学院",
+    "aliases": [
+      "新科院"
+    ],
+    "short": "新科",
+    "city": "库尔勒",
+    "province": "新疆",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 987,
+    "scoreRange": {
+      "min": 300,
+      "max": 326
+    },
+    "desc": "新疆维吾尔自治区属工科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "新设大学",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "科技"
+      }
+    ]
+  },
+  {
+    "name": "新疆政法学院",
+    "aliases": [
+      "新政"
+    ],
+    "short": "新政",
+    "city": "图木舒克",
+    "province": "新疆",
+    "type": "政法",
+    "tier": "二本",
+    "rank": 988,
+    "scoreRange": {
+      "min": 280,
+      "max": 303
+    },
+    "desc": "新疆生产建设兵团所属政法院校。",
+    "advantages": "政法教育有特色",
+    "disadvantages": "新设大学",
+    "strongMajors": [
+      {
+        "name": "法学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "政法"
+      }
+    ]
+  },
+  {
+    "name": "新疆第二医学院",
+    "aliases": [
+      "新二医"
+    ],
+    "short": "二医",
+    "city": "克拉玛依",
+    "province": "新疆",
+    "type": "医药",
+    "tier": "二本",
+    "rank": 989,
+    "scoreRange": {
+      "min": 350,
+      "max": 377
+    },
+    "desc": "新疆维吾尔自治区属医科院校。",
+    "advantages": "医学教育基础好",
+    "disadvantages": "新设大学",
+    "strongMajors": [
+      {
+        "name": "临床医学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李新",
+        "field": "医学"
+      }
+    ]
+  },
+  {
+    "name": "重庆三峡学院",
+    "aliases": [
+      "三峡"
+    ],
+    "short": "三峡",
+    "city": "万州",
+    "province": "重庆",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 990,
+    "scoreRange": {
+      "min": 380,
+      "max": 413
+    },
+    "desc": "重庆市属综合院校。",
+    "advantages": "地处三峡库区",
+    "disadvantages": "实力弱",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李三",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "长江师范学院",
+    "aliases": [
+      "长师"
+    ],
+    "short": "长师2",
+    "city": "涪陵",
+    "province": "重庆",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 991,
+    "scoreRange": {
+      "min": 380,
+      "max": 409
+    },
+    "desc": "重庆市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李长",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "重庆第二师范学院",
+    "aliases": [
+      "二师"
+    ],
+    "short": "二师2",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 992,
+    "scoreRange": {
+      "min": 400,
+      "max": 439
+    },
+    "desc": "重庆市属师范院校。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "规模小",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李二",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "重庆人文科技学院",
+    "aliases": [
+      "人文"
+    ],
+    "short": "人文",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 993,
+    "scoreRange": {
+      "min": 340,
+      "max": 385
+    },
+    "desc": "重庆市属民办本科院校。",
+    "advantages": "综合办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "汉语言文学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李人",
+        "field": "文学"
+      }
+    ]
+  },
+  {
+    "name": "重庆外语外事学院",
+    "aliases": [
+      "外院"
+    ],
+    "short": "外院2",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "语言",
+    "tier": "二本",
+    "rank": 994,
+    "scoreRange": {
+      "min": 350,
+      "max": 378
+    },
+    "desc": "重庆市属民办本科院校。",
+    "advantages": "外语教学有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李外",
+        "field": "外语"
+      }
+    ]
+  },
+  {
+    "name": "重庆对外经贸学院",
+    "aliases": [
+      "外贸"
+    ],
+    "short": "外贸",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 995,
+    "scoreRange": {
+      "min": 340,
+      "max": 382
+    },
+    "desc": "重庆市属民办本科院校。",
+    "advantages": "外贸专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "国际经济与贸易",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李外",
+        "field": "外贸"
+      }
+    ]
+  },
+  {
+    "name": "重庆城市科技学院",
+    "aliases": [
+      "城科"
+    ],
+    "short": "城科",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 996,
+    "scoreRange": {
+      "min": 330,
+      "max": 367
+    },
+    "desc": "重庆市属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "土木工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李城",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "重庆工商大学派斯学院",
+    "aliases": [
+      "派斯"
+    ],
+    "short": "派斯",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 997,
+    "scoreRange": {
+      "min": 320,
+      "max": 349
+    },
+    "desc": "重庆工商大学举办的独立学院。",
+    "advantages": "财经专业齐全",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "会计学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李派",
+        "field": "财经"
+      }
+    ]
+  },
+  {
+    "name": "重庆移通学院",
+    "aliases": [
+      "移通"
+    ],
+    "short": "移通",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 998,
+    "scoreRange": {
+      "min": 310,
+      "max": 356
+    },
+    "desc": "重庆市属民办本科院校。",
+    "advantages": "通信学科有特色",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "通信工程",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李移",
+        "field": "通信"
+      }
+    ]
+  },
+  {
+    "name": "重庆工程学院",
+    "aliases": [
+      "重工"
+    ],
+    "short": "重工",
+    "city": "重庆",
+    "province": "重庆",
+    "type": "理工",
+    "tier": "二本",
+    "rank": 999,
+    "scoreRange": {
+      "min": 300,
+      "max": 323
+    },
+    "desc": "重庆市属民办本科院校。",
+    "advantages": "工科专业齐全",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "计算机",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李重",
+        "field": "工程"
+      }
+    ]
+  },
+  {
+    "name": "上海兴伟学院",
+    "aliases": [
+      "兴伟"
+    ],
+    "short": "兴伟",
+    "city": "上海",
+    "province": "上海",
+    "type": "综合",
+    "tier": "二本",
+    "rank": 1001,
+    "scoreRange": {
+      "min": 320,
+      "max": 354
+    },
+    "desc": "上海市属民办本科院校。",
+    "advantages": "国际化办学",
+    "disadvantages": "民办性质",
+    "strongMajors": [
+      {
+        "name": "工商管理",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李兴",
+        "field": "管理"
+      }
+    ]
+  },
+  {
+    "name": "上海师范大学天华学院",
+    "aliases": [
+      "天华"
+    ],
+    "short": "天华",
+    "city": "上海",
+    "province": "上海",
+    "type": "师范",
+    "tier": "二本",
+    "rank": 1002,
+    "scoreRange": {
+      "min": 380,
+      "max": 414
+    },
+    "desc": "上海师范大学举办的独立学院。",
+    "advantages": "师范教育基础好",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "教育学",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李天",
+        "field": "教育"
+      }
+    ]
+  },
+  {
+    "name": "上海外国语大学贤达经济人文学院",
+    "aliases": [
+      "贤达"
+    ],
+    "short": "贤达",
+    "city": "上海",
+    "province": "上海",
+    "type": "财经",
+    "tier": "二本",
+    "rank": 1003,
+    "scoreRange": {
+      "min": 390,
+      "max": 438
+    },
+    "desc": "上海外国语大学举办的独立学院。",
+    "advantages": "外语和财经结合",
+    "disadvantages": "独立学院",
+    "strongMajors": [
+      {
+        "name": "英语",
+        "rank": 400,
+        "level": "C"
+      }
+    ],
+    "famousPeople": [
+      {
+        "name": "李贤",
+        "field": "外语"
+      }
+    ]
   }
 ];
 

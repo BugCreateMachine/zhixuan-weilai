@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>智选未来 — 高考专业推荐</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+  :root {
+    --primary: #2563eb;
+    --primary-dark: #1d4ed8;
+    --secondary: #0ea5e9;
+    --accent: #f59e0b;
+    --success: #10b981;
+    --danger: #ef4444;
+    --bg: #f8fafc;
+    --card: #ffffff;
+    --text: #1e293b;
+    --text-light: #64748b;
+    --border: #e2e8f0;
+    --radius: 12px;
+    --shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -2px rgba(0,0,0,0.1);
+    --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .container { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+
+  /* Hero */
+  .hero {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: #fff;
+    padding: 64px 16px 48px;
+    text-align: center;
+  }
+  .hero .badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.2);
+    padding: 6px 16px;
+    border-radius: 999px;
+    font-size: 14px;
+    margin-bottom: 16px;
+    backdrop-filter: blur(4px);
+  }
+  .hero h1 { font-size: 36px; font-weight: 800; margin-bottom: 8px; }
+  .hero p { font-size: 16px; opacity: 0.9; max-width: 600px; margin: 0 auto; }
+
+  /* Stats bar */
+  .stats-bar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    max-width: 800px;
+    margin: -28px auto 0;
+    position: relative;
+    z-index: 2;
+  }
+  .stat-card {
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 20px 12px;
+    text-align: center;
+    box-shadow: var(--shadow-lg);
+    border: 1px solid var(--border);
+  }
+  .stat-card .num { font-size: 28px; font-weight: 800; color: var(--primary); }
+  .stat-card .label { font-size: 13px; color: var(--text-light); margin-top: 4px; }
+
+  /* Feature grid */
+  .hp-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 40px 0;
+  }
+  .hp-card {
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 28px 20px;
+    text-align: center;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    cursor: pointer;
+    transition: transform .2s, box-shadow .2s;
+  }
+  .hp-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+  .hp-card .icon {
+    width: 56px; height: 56px; border-radius: 14px;
+    display: flex; align-items: center; justify-content: center;
+    margin: 0 auto 14px; font-size: 24px; color: #fff;
+  }
+  .hp-card .icon.blue { background: linear-gradient(135deg, #3b82f6, #2563eb); }
+  .hp-card .icon.green { background: linear-gradient(135deg, #10b981, #059669); }
+  .hp-card .icon.amber { background: linear-gradient(135deg, #f59e0b, #d97706); }
+  .hp-card .icon.rose { background: linear-gradient(135deg, #f43f5e, #e11d48); }
+  .hp-card .icon.purple { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+  .hp-card .icon.teal { background: linear-gradient(135deg, #14b8a6, #0d9488); }
+  .hp-card h3 { font-size: 17px; margin-bottom: 6px; }
+  .hp-card p { font-size: 13px; color: var(--text-light); }
+
+  .divider { text-align: center; margin: 32px 0; color: var(--text-light); font-size: 14px; position: relative; }
+  .divider::before, .divider::after {
+    content: ''; display: inline-block; width: 80px; height: 1px; background: var(--border);
+    vertical-align: middle; margin: 0 12px;
+  }
+
+  /* Step bar */
+  #sbar {
+    display: none;
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 0;
+    position: sticky; top: 0; z-index: 50;
+    box-shadow: var(--shadow);
+  }
+  #sbar .steps {
+    display: flex; justify-content: space-between; max-width: 900px; margin: 0 auto; padding: 0 16px;
+  }
+  .step {
+    flex: 1; text-align: center; position: relative;
+  }
+  .step .dot {
+    width: 32px; height: 32px; border-radius: 50%;
+    background: var(--border); color: var(--text-light);
+    display: inline-flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 700; margin-bottom: 6px;
+  }
+  .step.active .dot { background: var(--primary); color: #fff; }
+  .step.done .dot { background: var(--success); color: #fff; }
+  .step .label { font-size: 12px; color: var(--text-light); }
+  .step.active .label { color: var(--primary); font-weight: 600; }
+  .step::after {
+    content: ''; position: absolute; top: 16px; left: 50%; right: -50%; height: 2px; background: var(--border); z-index: -1;
+  }
+  .step:last-child::after { display: none; }
+  .step.done::after { background: var(--success); }
+
+  /* Panels */
+  .panel { display: none; padding: 32px 0; }
+  .panel.active { display: block; }
+  .panel h2 { font-size: 22px; margin-bottom: 8px; }
+  .panel .info { color: var(--text-light); font-size: 14px; margin-bottom: 20px; }
+
+  /* Tags */
+  .tag-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+  .tag {
+    padding: 10px 16px; border-radius: 999px; border: 1px solid var(--border);
+    background: var(--card); cursor: pointer; font-size: 14px; transition: all .15s;
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .tag:hover { border-color: var(--primary); }
+  .tag.selected { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+  /* Cards */
+  .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 18px; cursor: pointer; transition: all .15s;
+  }
+  .card:hover { border-color: var(--primary); box-shadow: var(--shadow); }
+  .card.selected { border-color: var(--primary); background: #eff6ff; }
+  .card .icon { font-size: 22px; margin-bottom: 8px; }
+  .card h4 { font-size: 15px; margin-bottom: 4px; }
+  .card p { font-size: 12px; color: var(--text-light); }
+
+  /* Personality */
+  .pSec { margin-bottom: 24px; }
+  .pSec h4 { font-size: 15px; margin-bottom: 10px; color: var(--text-light); }
+  .pOpts { display: flex; gap: 12px; }
+  .pOpt {
+    flex: 1; padding: 16px; border: 1px solid var(--border); border-radius: var(--radius);
+    cursor: pointer; background: var(--card); transition: all .15s;
+  }
+  .pOpt:hover { border-color: var(--primary); }
+  .pOpt.selected { border-color: var(--primary); background: #eff6ff; }
+  .pOpt .key { font-weight: 700; color: var(--primary); font-size: 16px; }
+  .pOpt .desc { font-size: 13px; color: var(--text-light); margin-top: 4px; }
+
+  /* Subject grid */
+  .sGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+  .sItem {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 14px; text-align: center; cursor: pointer; transition: all .15s;
+  }
+  .sItem:hover { border-color: var(--primary); }
+  .sItem.selected { border-color: var(--primary); background: #eff6ff; }
+  .sItem .icon { font-size: 24px; margin-bottom: 6px; }
+  .sItem h4 { font-size: 14px; margin-bottom: 8px; }
+  .sItem input[type="number"] {
+    width: 80px; padding: 6px 8px; border: 1px solid var(--border); border-radius: 6px;
+    text-align: center; font-size: 14px;
+  }
+
+  /* Sliders */
+  .slSec { margin-bottom: 24px; }
+  .slRow { display: flex; align-items: center; gap: 14px; margin-bottom: 12px; }
+  .slRow label { width: 100px; font-size: 14px; }
+  .slRow input[type="range"] { flex: 1; }
+  .slRow .val { width: 40px; text-align: right; font-size: 14px; font-weight: 600; }
+
+  /* Weight grid */
+  .wGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
+  .wItem {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 14px; cursor: pointer; display: flex; align-items: center; gap: 10px;
+    transition: all .15s;
+  }
+  .wItem:hover { border-color: var(--primary); }
+  .wItem.selected { border-color: var(--primary); background: #eff6ff; }
+  .wItem i { color: var(--primary); font-size: 16px; }
+  .wItem span { font-size: 14px; }
+
+  /* School weight */
+  .swGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .swItem {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 16px; cursor: pointer; transition: all .15s;
+  }
+  .swItem:hover { border-color: var(--primary); }
+  .swItem.selected { border-color: var(--primary); background: #eff6ff; }
+  .swItem h4 { font-size: 15px; margin-bottom: 4px; }
+  .swItem p { font-size: 12px; color: var(--text-light); }
+
+  /* Buttons */
+  .btn-row { display: flex; gap: 12px; margin-top: 24px; flex-wrap: wrap; }
+  .btn {
+    padding: 10px 20px; border-radius: 8px; border: none; cursor: pointer; font-size: 14px;
+    display: inline-flex; align-items: center; gap: 6px; transition: all .15s;
+  }
+  .btn-primary { background: var(--primary); color: #fff; }
+  .btn-primary:hover { background: var(--primary-dark); }
+  .btn-outline { background: #fff; color: var(--text); border: 1px solid var(--border); }
+  .btn-outline:hover { border-color: var(--primary); color: var(--primary); }
+  .btn-success { background: var(--success); color: #fff; }
+  .btn-success:hover { background: #059669; }
+  .btn-danger { background: var(--danger); color: #fff; }
+  .btn-danger:hover { background: #dc2626; }
+
+  /* Results */
+  .resC { margin-top: 16px; }
+  .res-card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 20px; margin-bottom: 16px; display: flex; gap: 20px; align-items: flex-start;
+  }
+  .res-card .rank {
+    width: 40px; height: 40px; border-radius: 50%; background: var(--primary); color: #fff;
+    display: flex; align-items: center; justify-content: center; font-weight: 700; flex-shrink: 0;
+  }
+  .res-card .body { flex: 1; }
+  .res-card h3 { font-size: 18px; margin-bottom: 4px; }
+  .res-card .meta { font-size: 13px; color: var(--text-light); margin-bottom: 10px; }
+  .res-card .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .res-card .tag-pill {
+    font-size: 12px; padding: 4px 10px; border-radius: 999px; background: #eff6ff; color: var(--primary);
+  }
+  .res-card .scores { display: flex; gap: 16px; font-size: 13px; color: var(--text-light); }
+  .res-card .scores span b { color: var(--text); }
+  .res-card canvas { margin-top: 10px; }
+
+  /* Query panels */
+  .qTabs { display: flex; gap: 8px; margin-bottom: 16px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+  .qTab {
+    padding: 8px 16px; border-radius: 8px; cursor: pointer; font-size: 14px; border: none; background: transparent;
+  }
+  .qTab.active { background: var(--primary); color: #fff; }
+  .qPanel { display: none; }
+  .qPanel.active { display: block; }
+
+  .search-box {
+    display: flex; gap: 8px; margin-bottom: 16px;
+  }
+  .search-box input {
+    flex: 1; padding: 10px 14px; border: 1px solid var(--border); border-radius: 8px; font-size: 14px;
+  }
+
+  /* School / major cards in query */
+  .school-card, .major-card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 16px; margin-bottom: 12px; cursor: pointer; transition: all .15s;
+  }
+  .school-card:hover, .major-card:hover { border-color: var(--primary); box-shadow: var(--shadow); }
+  .school-card h4, .major-card h4 { font-size: 16px; margin-bottom: 4px; }
+  .school-card p, .major-card p { font-size: 13px; color: var(--text-light); }
+
+  /* Detail view */
+  .detail-view {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 24px; margin-bottom: 16px;
+  }
+  .detail-view h3 { font-size: 20px; margin-bottom: 12px; }
+  .detail-view .section { margin-bottom: 16px; }
+  .detail-view .section h4 { font-size: 15px; margin-bottom: 6px; color: var(--primary); }
+  .detail-view .section p, .detail-view .section ul { font-size: 14px; color: var(--text-light); }
+  .detail-view .section ul { padding-left: 18px; }
+
+  /* Compare */
+  .compare-wrap { overflow-x: auto; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .compare-table th, .compare-table td { border: 1px solid var(--border); padding: 10px; text-align: left; }
+  .compare-table th { background: #f1f5f9; }
+
+  /* Modal */
+  .modal-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 100;
+    display: none; align-items: center; justify-content: center;
+  }
+  .modal-overlay.show { display: flex; }
+  .modal {
+    background: var(--card); border-radius: var(--radius); padding: 28px;
+    width: 90%; max-width: 480px; box-shadow: var(--shadow-lg);
+  }
+  .modal h3 { font-size: 18px; margin-bottom: 16px; }
+  .modal .field { margin-bottom: 14px; }
+  .modal .field label { display: block; font-size: 13px; color: var(--text-light); margin-bottom: 4px; }
+  .modal .field input, .modal .field select {
+    width: 100%; padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px; font-size: 14px;
+  }
+  .modal .btn-row { margin-top: 20px; justify-content: flex-end; }
+
+  /* Toast */
+  #toast {
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(100px);
+    background: var(--text); color: #fff; padding: 10px 20px; border-radius: 8px;
+    font-size: 14px; opacity: 0; transition: all .3s; z-index: 200; pointer-events: none;
+  }
+  #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .stats-bar { grid-template-columns: repeat(2, 1fr); }
+    .hp-grid { grid-template-columns: 1fr; }
+    .swGrid { grid-template-columns: 1fr; }
+    .res-card { flex-direction: column; }
+    .hero h1 { font-size: 26px; }
+    .step .label { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Homepage -->
+<div id="homepage">
+  <div class="hero">
+    <div class="badge">智选未来</div>
+    <h1>多维度专业推荐</h1>
+    <p>基于兴趣、性格、学科、学习风格、城市偏好、学位路径、职业前景、薪资水平 8 大维度，为你精准推荐最适合的高考专业。</p>
+  </div>
+  <div class="container">
+    <div class="stats-bar">
+      <div class="stat-card"><div class="num" id="stMajors">118</div><div class="label">覆盖专业</div></div>
+      <div class="stat-card"><div class="num" id="stSchools">556</div><div class="label">高校数据</div></div>
+      <div class="stat-card"><div class="num">8</div><div class="label">评估维度</div></div>
+      <div class="stat-card"><div class="num">4</div><div class="label">查询功能</div></div>
+    </div>
+
+    <div class="hp-grid">
+      <div class="hp-card" onclick="startAssessment()">
+        <div class="icon blue"><i class="fas fa-clipboard-check"></i></div>
+        <h3>智能评估</h3>
+        <p>多维度测评，生成个性化专业推荐</p>
+      </div>
+      <div class="hp-card" onclick="goToQuery('school')">
+        <div class="icon green"><i class="fas fa-university"></i></div>
+        <h3>学校查询</h3>
+        <p>按名称搜索全国高校信息</p>
+      </div>
+      <div class="hp-card" onclick="goToQuery('major')">
+        <div class="icon amber"><i class="fas fa-book"></i></div>
+        <h3>专业查询</h3>
+        <p>搜索专业详情与开设院校</p>
+      </div>
+      <div class="hp-card" onclick="goToQuery('detail')">
+        <div class="icon rose"><i class="fas fa-info-circle"></i></div>
+        <h3>学校详情</h3>
+        <p>查看高校优势专业与录取数据</p>
+      </div>
+      <div class="hp-card" onclick="goToQuery('compare')">
+        <div class="icon purple"><i class="fas fa-balance-scale"></i></div>
+        <h3>学校对比</h3>
+        <p>横向对比两所高校各项指标</p>
+      </div>
+      <div class="hp-card" onclick="startQuickRecommend()">
+        <div class="icon teal"><i class="fas fa-bolt"></i></div>
+        <h3>快速推荐</h3>
+        <p>输入分数快速获取推荐方案</p>
+      </div>
+    </div>
+
+    <div class="divider">或直接进入评估流程</div>
+    <div style="text-align:center; margin-bottom: 40px;">
+      <button class="btn btn-primary" onclick="startAssessment()">开始评估 <i class="fas fa-arrow-right"></i></button>
+    </div>
+  </div>
+</div>
+
+<!-- Step bar -->
+<div id="sbar">
+  <div class="steps">
+    <div class="step" data-i="0"><div class="dot">1</div><div class="label">兴趣</div></div>
+    <div class="step" data-i="1"><div class="dot">2</div><div class="label">性格</div></div>
+    <div class="step" data-i="2"><div class="dot">3</div><div class="label">学科</div></div>
+    <div class="step" data-i="3"><div class="dot">4</div><div class="label">风格</div></div>
+    <div class="step" data-i="4"><div class="dot">5</div><div class="label">城市</div></div>
+    <div class="step" data-i="5"><div class="dot">6</div><div class="label">偏好</div></div>
+    <div class="step" data-i="6"><div class="dot">7</div><div class="label">结果</div></div>
+    <div class="step" data-i="7"><div class="dot">8</div><div class="label">查询</div></div>
+  </div>
+</div>
+
+<!-- Panels container -->
+<div class="container" id="panels">
+  <!-- p0: Interest -->
+  <div class="panel" id="p0">
+    <h2>你的兴趣方向</h2>
+    <p class="info">选择你感兴趣的领域（可多选）</p>
+    <div class="tag-grid" id="iTags"></div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+      <button class="btn btn-primary" onclick="goTo(1)">下一步 <i class="fas fa-arrow-right"></i></button>
+    </div>
+  </div>
+
+  <!-- p1: Personality -->
+  <div class="panel" id="p1">
+    <h2>你的性格类型</h2>
+    <p class="info">根据 MBTI 维度选择最符合你的选项</p>
+    <div id="pSec"></div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goTo(0)">上一步</button>
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+      <button class="btn btn-primary" onclick="goTo(2)">下一步 <i class="fas fa-arrow-right"></i></button>
+    </div>
+  </div>
+
+  <!-- p2: Subjects -->
+  <div class="panel" id="p2">
+    <h2>你的学科优势</h2>
+    <p class="info">选择你擅长的学科并输入预估分数</p>
+    <div style="display:flex; gap:12px; margin-bottom:16px; flex-wrap:wrap;">
+      <div><label style="font-size:13px;color:var(--text-light)">总分</label><input type="number" id="tScore" placeholder="总分" style="width:100px;padding:8px;border:1px solid var(--border);border-radius:6px;margin-left:6px;" oninput="updateTotalDisplay()"></div>
+      <div><label style="font-size:13px;color:var(--text-light)">排名%</label><input type="number" id="rPct" placeholder="排名%" style="width:100px;padding:8px;border:1px solid var(--border);border-radius:6px;margin-left:6px;" oninput="updateTotalDisplay()"></div>
+    </div>
+    <div class="sGrid" id="sGrid"></div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goTo(1)">上一步</button>
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+      <button class="btn btn-primary" onclick="goTo(3)">下一步 <i class="fas fa-arrow-right"></i></button>
+    </div>
+  </div>
+
+  <!-- p3: Learning Styles -->
+  <div class="panel" id="p3">
+    <h2>你的学习风格</h2>
+    <p class="info">选择最符合你学习习惯的风格（可多选）</p>
+    <div class="card-grid" id="lGrid"></div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goTo(2)">上一步</button>
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+      <button class="btn btn-primary" onclick="goTo(4)">下一步 <i class="fas fa-arrow-right"></i></button>
+    </div>
+  </div>
+
+  <!-- p4: Cities & Degrees -->
+  <div class="panel" id="p4">
+    <h2>城市与学位偏好</h2>
+    <p class="info">选择你倾向的城市类型和学位路径</p>
+    <h3 style="font-size:16px;margin:16px 0 10px;">城市偏好</h3>
+    <div class="card-grid" id="cGrid"></div>
+    <h3 style="font-size:16px;margin:24px 0 10px;">学位路径</h3>
+    <div class="card-grid" id="dGrid"></div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goTo(3)">上一步</button>
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+      <button class="btn btn-primary" onclick="goTo(5)">下一步 <i class="fas fa-arrow-right"></i></button>
+    </div>
+  </div>
+
+  <!-- p5: Weights & Sliders -->
+  <div class="panel" id="p5">
+    <h2>偏好权重设置</h2>
+    <p class="info">调整各项维度的重要性，并设置学校偏好</p>
+    <div class="slSec" id="slSec"></div>
+    <h3 style="font-size:16px;margin:20px 0 10px;">维度权重</h3>
+    <div class="wGrid" id="wGrid"></div>
+    <h3 style="font-size:16px;margin:20px 0 10px;">学校偏好</h3>
+    <div class="swGrid" id="swGrid"></div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goTo(4)">上一步</button>
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+      <button class="btn btn-success" onclick="generateResults()">生成推荐 <i class="fas fa-magic"></i></button>
+    </div>
+  </div>
+
+  <!-- p6: Results -->
+  <div class="panel" id="p6">
+    <h2>推荐结果</h2>
+    <p class="info">基于你的多维度画像，以下是 Top 5 推荐专业</p>
+    <div id="resC"></div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+      <button class="btn btn-outline" onclick="goTo(5)">调整偏好</button>
+      <button class="btn btn-outline" onclick="goTo(7)">查询对比</button>
+      <button class="btn btn-primary" onclick="reset();goTo(0)">重新评估</button>
+    </div>
+  </div>
+
+  <!-- p7: Query -->
+  <div class="panel" id="p7">
+    <h2>查询与对比</h2>
+    <p class="info">搜索学校、专业、详情或进行学校对比</p>
+    <div class="qTabs">
+      <button class="qTab active" onclick="switchQTab('school')">学校查询</button>
+      <button class="qTab" onclick="switchQTab('major')">专业查询</button>
+      <button class="qTab" onclick="switchQTab('detail')">学校详情</button>
+      <button class="qTab" onclick="switchQTab('compare')">学校对比</button>
+    </div>
+
+    <div class="qPanel active" id="q-school">
+      <div class="search-box">
+        <input type="text" id="schIn" placeholder="输入学校名称搜索..." oninput="onSchoolSearch(this.value)">
+      </div>
+      <div id="schRes"></div>
+    </div>
+    <div class="qPanel" id="q-major">
+      <div class="search-box">
+        <input type="text" id="majIn" placeholder="输入专业名称搜索..." oninput="onMajorSearch(this.value)">
+      </div>
+      <div id="majRes"></div>
+    </div>
+    <div class="qPanel" id="q-detail">
+      <div class="search-box">
+        <input type="text" id="detIn" placeholder="输入学校名称查看详情..." oninput="onDetailSearch(this.value)">
+      </div>
+      <div id="detRes"></div>
+    </div>
+    <div class="qPanel" id="q-compare">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:16px;">
+        <div>
+          <input type="text" id="compA" placeholder="学校 A" oninput="onCompSearch('A',this.value)">
+          <div id="compAList"></div>
+        </div>
+        <div>
+          <input type="text" id="compB" placeholder="学校 B" oninput="onCompSearch('B',this.value)">
+          <div id="compBList"></div>
+        </div>
+      </div>
+      <button class="btn btn-primary" onclick="doCompare()">开始对比</button>
+      <div id="compRes"></div>
+    </div>
+
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="goHome()">返回首页</button>
+    </div>
+  </div>
+</div>
+
+<!-- Quick Recommend Modal -->
+<div class="modal-overlay" id="quickModal">
+  <div class="modal">
+    <h3>快速推荐</h3>
+    <div class="field">
+      <label>高考总分</label>
+      <input type="number" id="qrScore" placeholder="例如：620">
+    </div>
+    <div class="field">
+      <label>意向城市</label>
+      <select id="qrCity">
+        <option value="">不限</option>
+        <option value="北京">北京</option>
+        <option value="上海">上海</option>
+        <option value="广东">广东</option>
+        <option value="江苏">江苏</option>
+        <option value="浙江">浙江</option>
+        <option value="湖北">湖北</option>
+        <option value="四川">四川</option>
+        <option value="陕西">陕西</option>
+        <option value="天津">天津</option>
+        <option value="山东">山东</option>
+        <option value="湖南">湖南</option>
+        <option value="河南">河南</option>
+        <option value="河北">河北</option>
+        <option value="山西">山西</option>
+        <option value="辽宁">辽宁</option>
+        <option value="吉林">吉林</option>
+        <option value="黑龙江">黑龙江</option>
+        <option value="安徽">安徽</option>
+        <option value="福建">福建</option>
+        <option value="江西">江西</option>
+        <option value="广西">广西</option>
+        <option value="海南">海南</option>
+        <option value="重庆">重庆</option>
+        <option value="贵州">贵州</option>
+        <option value="云南">云南</option>
+        <option value="西藏">西藏</option>
+        <option value="甘肃">甘肃</option>
+        <option value="青海">青海</option>
+        <option value="宁夏">宁夏</option>
+        <option value="新疆">新疆</option>
+        <option value="内蒙古">内蒙古</option>
+        <option value="香港">香港</option>
+        <option value="澳门">澳门</option>
+        <option value="台湾">台湾</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>学校层次</label>
+      <select id="qrTier">
+        <option value="">全部</option>
+        <option value="985">985</option>
+        <option value="211">211</option>
+        <option value="双一流">双一流</option>
+        <option value="一本">一本</option>
+      </select>
+    </div>
+    <div class="btn-row">
+      <button class="btn btn-outline" onclick="closeQuickModal()">取消</button>
+      <button class="btn btn-primary" onclick="doQuickRecommend()">生成推荐</button>
+    </div>
+  </div>
+</div>
+
+<!-- Toast -->
+<div id="toast"></div>
+
+<script src="app.js?v=3"></script>
+<script src="schooldb.js?v=5"></script>
+<script src="logic.js?v=6"></script>
+</body>
+</html>
